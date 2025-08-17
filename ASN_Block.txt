@@ -3,3 +3,4 @@
 193.233.216.0/21  #Fast Servers (Pty) Ltd
 193.233.128.0/22  #Fast Servers (Pty) Ltd
 193.142.36.0/22   #PureVoltage Hosting Inc.
+45.147.232.0/22   #PureVoltage Hosting Inc.
