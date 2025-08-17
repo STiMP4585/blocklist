@@ -1,1 +1,2 @@
-31.134.0.0/20 #Fast Servers (Pty) Ltd
+31.134.0.0/20     #Fast Servers (Pty) Ltd
+45.155.166.0/23   #Fast Servers (Pty) Ltd
