@@ -1,3 +1,4 @@
 31.134.0.0/20     #Fast Servers (Pty) Ltd
 45.155.166.0/23   #Fast Servers (Pty) Ltd
 193.233.216.0/21  #Fast Servers (Pty) Ltd
+193.233.128.0/22  #Fast Servers (Pty) Ltd
