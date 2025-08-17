@@ -1,7 +1,23 @@
-31.134.0.0/20     #Fast Servers (Pty) Ltd
-45.155.166.0/23   #Fast Servers (Pty) Ltd
-193.233.216.0/21  #Fast Servers (Pty) Ltd
-193.233.128.0/22  #Fast Servers (Pty) Ltd
-91.132.198.0/24   #Fast Servers (Pty) Ltd
-193.142.36.0/22   #PureVoltage Hosting Inc.
-45.147.232.0/22   #PureVoltage Hosting Inc.
+31.134.0.0/22     # Trade Commodity Firm Ltd
+31.134.4.0/22     # Trade Commodity Firm Ltd
+31.134.8.0/22     # Trade Commodity Firm Ltd
+31.134.12.0/22    # Trade Commodity Firm Ltd
+45.135.1.0/24 	  # TrafficTransitSolution LLC
+45.135.2.0/23 	  # TrafficTransitSolution LLC
+45.155.166.0/23   # FINE GROUP SERVERS SOLUTIONS LLC
+45.147.232.0/22   # PureVoltage Hosting Inc.
+85.239.42.0/23 	  # TrafficTransitSolution LLC
+88.218.44.0/24 	  # FINE GROUP SERVERS SOLUTIONS LLC
+91.132.198.0/24   # TrafficTransitSolution LLC
+91.218.122.0/23 	# FOP Kameristov Andrey Evgenovuch
+91.245.236.0/24 	# FINE GROUP SERVERS SOLUTIONS LLC
+166.88.178.0/24 	# Ace Data Centers II, L.L.C.
+178.159.99.0/24 	# FINE GROUP SERVERS SOLUTIONS LLC
+193.233.208.0/23 	# TrafficTransitSolution LLC
+193.233.216.0/22  # TrafficTransitSolution LLC
+193.233.220.0/23 	# TrafficTransitSolution LLC
+193.233.222.0/23 	# TrafficTransitSolution LLC
+193.233.128.0/22  # TrafficTransitSolution LLC
+193.142.36.0/22   # PureVoltage Hosting Inc.
+194.99.27.0/24 	  # FINE GROUP SERVERS SOLUTIONS LLC
+217.145.225.0/24 	# TrafficTransitSolution LLC
