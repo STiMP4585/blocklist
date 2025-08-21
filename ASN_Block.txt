@@ -21,3 +21,15 @@
 193.142.36.0/22   # PureVoltage Hosting Inc.
 194.99.27.0/24 	  # FINE GROUP SERVERS SOLUTIONS LLC
 217.145.225.0/24 	# TrafficTransitSolution LLC
+169.197.80.0/20 	# PureVoltage Hosting Inc.
+50.114.224.0/20 	# Internet Utilities NA LLC
+109.238.168.0/21 	# Internet Utilities Europe and Asia Limited
+140.150.128.0/21 	# Internet Utilities Europe and Asia Limited
+140.150.136.0/21 	# Internet Utilities Europe and Asia Limited
+140.150.144.0/21 	# Internet Utilities Europe and Asia Limited
+140.150.176.0/21 	# Internet Utilities Europe and Asia Limited
+169.197.80.0/21 	# PureVoltage Hosting Inc.
+169.197.88.0/21 	# PureVoltage Hosting Inc.
+216.74.64.0/21 		# Private Customer
+104.218.96.0/22 	# PureVoltage Hosting Inc.
+140.235.0.0/22 		# DirectBackup LLC
