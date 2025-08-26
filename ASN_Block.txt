@@ -210,3 +210,4 @@
 92.119.229.0/24 	# AquaNetworks HK Limited
 94.154.127.0/24 	# PLAB LTD
 5.181.3.0/24 	    # GLOBAL CONNECTIVITY SOLUTIONS LLP
+23.255.0.0/17 	  # tzulo, inc.
