@@ -209,3 +209,4 @@
 92.118.62.0/24 		# Private Customer
 92.119.229.0/24 	# AquaNetworks HK Limited
 94.154.127.0/24 	# PLAB LTD
+5.181.3.0/24 	    # GLOBAL CONNECTIVITY SOLUTIONS LLP
