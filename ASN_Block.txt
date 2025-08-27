@@ -771,3 +771,163 @@
 154.85.24.0/23      # HOSTROYALE TECHNOLOGIES PRIVATE LIMITED
 154.88.10.0/23      # HOSTROYALE TECHNOLOGIES PRIVATE LIMITED
 154.88.18.0/23      # HOSTROYALE TECHNOLOGIES PRIVATE LIMITED
+173.253.0.0/17      # tzulo, inc.
+23.255.0.0/17       # tzulo, inc.
+107.152.32.0/24     # Cloudfanatic.NET
+107.152.33.0/24     # Cloudfanatic.NET
+107.152.34.0/24     # Cloudfanatic.NET
+107.152.35.0/24     # Cloudfanatic.NET
+107.152.36.0/24     # Cloudfanatic.NET
+107.152.37.0/24     # Cloudfanatic.NET
+107.152.38.0/24     # Cloudfanatic.NET
+107.152.39.0/24     # Cloudfanatic.NET
+107.152.40.0/24     # Cloudfanatic.NET
+107.152.41.0/24     # Cloudfanatic.NET
+107.152.42.0/24     # Cloudfanatic.NET
+107.152.43.0/24     # Cloudfanatic
+107.152.44.0/24     # Cloudfanatic
+107.152.45.0/24     # Cloudfanatic
+107.152.46.0/24     # Cloudfanatic
+107.152.47.0/24     # Cloudfanatic
+130.51.20.0/24      # Cloudfanatic
+130.51.21.0/24      # Cloudfanatic
+130.51.22.0/24      # Cloudfanatic.NET
+130.51.23.0/24      # Cloudfanatic.NET
+162.212.152.0/24    # Cloudfanatic.NET
+162.212.153.0/24    # Cloudfanatic.NET
+162.212.154.0/24    # Cloudfanatic.NET
+162.212.155.0/24    # Cloudfanatic.NET
+162.212.156.0/24    # Cloudfanatic.NET
+162.212.157.0/24    # Cloudfanatic.NET
+162.212.158.0/24    # Cloudfanatic.NET
+162.212.159.0/24    # Cloudfanatic.NET
+172.93.184.0/24     # 365 Group LLC
+173.249.192.0/24    # TZULO
+173.249.193.0/24    # tzulo, inc.
+173.249.194.0/24    # tzulo, inc.
+173.249.195.0/24    # tzulo, inc.
+173.249.196.0/24    # Prime Directive, LLC
+173.249.197.0/24    # Prime Directive, LLC
+173.249.198.0/24    # Prime Directive, LLC
+173.249.199.0/24    # Prime Directive, LLC
+173.249.200.0/24    # tzulo, inc.
+173.249.201.0/24    # tzulo, inc.
+173.249.202.0/24    # tzulo, inc.
+173.249.203.0/24    # tzulo, inc.
+173.249.204.0/24    # tzulo, inc.
+173.249.205.0/24    # tzulo, inc.
+173.249.206.0/24    # tzulo, inc.
+173.249.207.0/24    # tzulo, inc.
+173.249.208.0/24    # tzulo, inc.
+173.249.209.0/24    # tzulo, inc.
+173.249.210.0/24    # tzulo, inc.
+173.249.212.0/24    # tzulo, inc.
+173.249.214.0/24    # tzulo, inc.
+173.249.215.0/24    # tzulo, inc.
+173.249.217.0/24    # tzulo, inc.
+173.249.219.0/24    # tzulo, inc.
+185.130.60.0/24     # Private Customer
+198.44.128.0/24     # Nanjing Alldao Info. Tech. Co.,LTD.
+198.44.129.0/24     # shaoxiao
+198.44.130.0/24     # Glassman, Mark
+198.44.131.0/24     # Insight Investments LLC
+198.44.132.0/24     # Tzulo-TOR
+198.44.133.0/24     # Insight Investments LLC
+198.44.134.0/24     # PhastNet, Inc.
+198.44.135.0/24     # midwest hosting
+198.44.136.0/24     # Consolidated Media LLC
+198.44.137.0/24     # TZULO
+198.44.138.0/24     # tzulo, inc.
+198.44.139.0/24     # Rodriguez, Steve
+198.44.140.0/24     # Tzulo-TOR
+198.44.141.0/24     # iSpanks
+198.44.157.0/24     # tzulo, inc.
+198.44.159.0/24     # tzulo, inc.
+198.54.128.0/24     # tzulo-den
+198.54.129.0/24     # tzulo-la
+198.54.130.0/24     # Tzulo-RDU
+198.54.131.0/24     # Tzulo-SEA
+198.54.132.0/24     # Tzulo-TOR
+198.54.133.0/24     # Tzulo-PHX
+198.54.134.0/24     # TZULO-SJC
+198.54.135.0/24     # tzulo, inc.
+208.77.16.0/24      # tzulo, inc.
+208.77.18.0/24      # tzulo, inc.
+208.77.19.0/24      # tzulo, inc.
+208.77.20.0/24      # tzulo, inc.
+208.77.21.0/24      # Private Customer
+208.77.22.0/24      # Private Customer
+23.158.232.0/24     # Cloudfanatic.NET
+23.158.233.0/24     # Cloudfanatic.NET
+23.234.100.0/24     # Mojo Risin Media, LLC
+23.234.101.0/24     # TenaMax
+23.234.102.0/24     # wang haining
+23.234.103.0/24     # Trustbanq
+23.234.108.0/24     # Babak Pazooki
+23.234.109.0/24     # steve loo
+23.234.110.0/24     # Acme Professional Services LLC
+23.234.111.0/24     # wenIDC
+23.234.112.0/24     # wang haining
+23.234.113.0/24     # eusidc
+23.234.114.0/24     # Aftab
+23.234.115.0/24     # Sim, Dennis
+23.234.116.0/24     # Jugola INC
+23.234.117.0/24     # Immortal Games
+23.234.118.0/24     # Ramadah Pty Ltd
+23.234.119.0/24     # tzulo, inc.
+23.234.64.0/24     # Trustbanq
+23.234.65.0/24     # Creta, Mirco
+23.234.66.0/24     # eusidc
+23.234.67.0/24     # Immortal Games
+23.234.68.0/24     # Jayson Batbatan
+23.234.69.0/24     # Lubinex inc
+23.234.70.0/24     # tokhost servios de internet br ltda
+23.234.71.0/24     # bian, qiang
+23.234.76.0/24     # NexGen Internet Services
+23.234.77.0/24     # Yildiz, Ferhat
+23.234.78.0/24     # Dartmouth Capital LLC
+23.234.79.0/24     # Sachin Lari
+23.234.80.0/24     # Ramya Group of Websites
+23.234.81.0/24     # James Emerson
+23.234.82.0/24     # nicestreams llc
+23.234.83.0/24     # wang haining
+23.234.84.0/24     # CLS Network Technology Co. Ltd.
+23.234.85.0/24     # Khan, Khusroo
+23.234.86.0/24     # Glassman, Mark
+23.234.87.0/24     # Unacom
+23.234.88.0/24      # Spectrum Capital Management
+23.234.89.0/24      # Shen Tong Data
+23.234.90.0/24      # DESI IPTV INC
+23.234.91.0/24      # Thomas C, Kiran
+23.234.92.0/24      # Hu Spark
+23.234.93.0/24      # Urban GIS, Inc
+23.234.94.0/24      # Khan, Khusroo
+23.234.95.0/24      # Voxel Solues em Informatica
+37.202.204.0/24     # Private Customer
+64.112.97.0/24      # Internet Utilities NA LLC
+68.235.32.0/24      # tzulo, inc.
+68.235.33.0/24      # tzulo, inc.
+68.235.35.0/24      # tzulo, inc.
+68.235.36.0/24      # tzulo, inc.
+68.235.37.0/24      # tzulo, inc.
+68.235.38.0/24      # tzulo, inc.
+68.235.39.0/24      # tzulo, inc.
+68.235.40.0/24      # tzulo, inc.
+68.235.41.0/24      # tzulo, inc.
+68.235.42.0/24      # tzulo, inc.
+68.235.43.0/24      # tzulo, inc.
+68.235.44.0/24      # tzulo, inc.
+68.235.45.0/24      # tzulo, inc.
+68.235.46.0/24      # tzulo, inc.
+68.235.48.0/24      # tzulo, inc.
+68.235.50.0/24      # tzulo, inc.
+68.235.52.0/24      # tzulo, inc.
+68.235.56.0/24      # tzulo, inc.
+68.235.57.0/24      # tzulo, inc.
+68.235.60.0/24      # tzulo, inc.
+68.235.61.0/24      # tzulo, inc.
+68.235.62.0/24      # tzulo, inc.
+68.235.63.0/24      # tzulo, inc.
+82.26.166.0/24      # Private Customer
+85.209.19.0/24      # Private Customer
+87.121.146.0/24     # Private Customer
