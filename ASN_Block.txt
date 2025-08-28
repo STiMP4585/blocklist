@@ -1966,3 +1966,88 @@
 98.98.208.0/23       # Zenlayer Inc
 98.98.210.0/23       # Zenlayer Inc
 98.98.216.0/23       # Zenlayer Inc
+223.26.72.0/23       # Chief Telecom Inc.
+223.26.74.0/23       # Chief Telecom Inc.
+23.236.100.0/23      # ZENLA-1
+23.236.102.0/23      # ZENLA-1
+23.236.104.0/23      # ZENLA-1
+23.236.112.0/23      # ZENLA-1
+23.248.166.0/23      # ZENLA-1
+23.248.176.0/23      # SPEEDYCLOUD
+23.248.186.0/23      # ZENLA-1
+23.248.190.0/23      # ZENLA-1
+23.251.100.0/23      # ZENLA-1
+23.251.106.0/23      # ZENLA-1
+23.251.116.0/23      # ZENLA-1
+23.251.118.0/23      # ZENLA-1
+23.251.98.0/23       # ZENLA-1
+23.90.168.0/23       # Zenlayer Inc
+23.90.170.0/23       # Zenlayer Inc
+23.90.172.0/23       # Zenlayer Inc
+23.90.174.0/23       # Zenlayer Inc
+23.90.184.0/23       # Zenlayer Inc
+23.90.186.0/23       # Zenlayer Inc
+23.91.102.0/23       # ZENLA-1
+45.10.70.0/23        # Zenlayer Inc
+45.194.112.0/23      # Cloud Innovation Ltd
+45.43.38.0/23        # ZENLA-1
+45.43.40.0/23        # ZENLA-1
+45.43.44.0/23        # ZENLA-1
+45.43.46.0/23        # ZENLA-1
+45.43.48.0/23        # ZENLA-1
+45.81.130.0/23       # XNNET LIMITED
+156.59.48.0/23       # Zenlayer IP Block @KR
+156.59.50.0/23       # Zenlayer IP Block @TH
+156.59.60.0/23       # Zenlayer IP Block @Manila
+156.59.62.0/23       # Zenlayer IP Block @Kuala Lumpur
+156.59.68.0/23       # Zenlayer IP Block @Hong Kong
+156.59.70.0/23       # Zenlayer IP Block @DAC
+156.59.74.0/23       # Zenlayer IP Block @Hanoi
+156.59.88.0/23       # Zenlayer IP Block @Malaysia
+156.59.90.0/23       # Zenlayer IP Block @Hong Kong
+156.59.94.0/23       # Zenlayer IP Block @Ho Chi Minh
+169.197.100.0/23     # ZENLA-1
+169.197.106.0/23     # ZENLA-1
+169.197.110.0/23     # ZENLA-1
+169.197.124.0/23     # ZENLA-1
+169.197.126.0/23     # ZENLA-1
+172.96.116.0/23      # ZENLA-1
+172.96.120.0/23      # ZENLA-1
+182.161.38.0/23      # coloMX LLC
+192.169.118.0/23     # Zenlayer Inc
+192.169.124.0/23     # Zenlayer Inc
+192.169.126.0/23     # Zenlayer Inc
+193.118.34.0/23      # US Zenlayer MOW BMC
+193.118.56.0/23      # US Zenlayer AMS BMC
+193.118.58.0/23      # US Zenlayer LON BMC
+193.118.62.0/23      # US Zenlayer MRS MHS
+199.190.46.0/23      # ZENLA-1
+199.245.56.0/23      # ZENLA-1
+199.245.60.0/23      # ZENLA-1
+209.177.88.0/23      # ZENLA-1
+154.22.100.0/23      # Cogent Communications - IPENG
+154.22.102.0/23      # Cogent Communications - IPENG
+156.226.0.0/23       # TIGER ROAR TECHNOLOGY PTE LTD
+156.239.244.0/23     # BINARY NETWORKS SOLUTIONS LLC
+156.59.108.0/23      # ZEN-PH
+156.59.120.0/23      # ZEN-IN
+156.59.124.0/23      # ZEN-HK
+156.59.126.0/23      # ZEN-PH
+156.59.144.0/23      # ZEN-BD
+156.59.152.0/23      # ZEN-HK
+156.59.154.0/23      # ZEN-BD
+156.59.174.0/23      # ZEN-TH
+156.59.192.0/23      # ZEN-ID
+156.59.194.0/23      # ZEN-BD
+156.59.200.0/23      # ZEN-AU
+156.59.208.0/23      # ZEN-TH
+156.59.210.0/23      # ZEN-ID
+156.59.216.0/23      # ZEN-IN
+156.59.218.0/23      # ZEN-IN
+156.59.226.0/23      # ZEN-PK
+156.59.236.0/23      # ZEN-HK
+156.59.238.0/23      # ZEN-SG
+156.59.242.0/23      # ZEN-PK
+156.59.244.0/23      # ZEN-ID
+156.59.246.0/23      # ZEN-IN
+156.59.248.0/23      # ZEN-ID
