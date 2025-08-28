@@ -1923,3 +1923,46 @@
 103.100.171.0/24     # IPv4 Superhub Limited
 103.103.246.0/24     # RM 1607E 16/F HANG PONT COMM,BLDG 31 TONKIN STCHEUNG SHA
 103.103.247.0/24     # Chiyoda-ku, Tokyo 106-258, Japan
+8.23.192.0/23        # Level 3 Parent, LLC
+98.96.196.0/23       # Zenlayer Inc
+98.96.198.0/23       # Zenlayer Inc
+98.96.200.0/23       # Zenlayer Inc
+98.96.202.0/23       # Zenlayer Inc
+98.96.208.0/23       # Zenlayer Inc
+98.96.210.0/23       # Zenlayer Inc
+98.96.216.0/23       # Zenlayer Inc
+98.96.222.0/23       # Zenlayer Inc
+98.96.234.0/23       # Zenlayer Inc
+98.96.244.0/23       # Zenlayer Inc
+98.96.246.0/23       # Zenlayer Inc
+98.98.0.0/23         # Zenlayer Inc
+98.98.10.0/23        # Zenlayer Inc
+98.98.104.0/23       # Zenlayer Inc
+98.98.106.0/23       # Zenlayer Inc
+98.98.110.0/23       # Zenlayer Inc
+98.98.112.0/23       # Zenlayer Inc
+98.98.114.0/23       # Zenlayer Inc
+98.98.128.0/23       # Zenlayer Inc
+98.98.130.0/23       # Zenlayer Inc
+98.98.140.0/23       # Zenlayer Inc
+98.98.142.0/23       # Zenlayer Inc
+98.98.144.0/23       # Zenlayer Inc
+98.98.146.0/23       # Zenlayer Inc
+98.98.148.0/23       # Zenlayer Inc
+98.98.150.0/23       # Zenlayer Inc
+98.98.152.0/23       # Zenlayer Inc
+98.98.154.0/23       # Zenlayer Inc
+98.98.16.0/23        # Zenlayer Inc
+98.98.170.0/23       # Zenlayer Inc
+98.98.174.0/23       # Zenlayer Inc
+98.98.178.0/23       # Zenlayer Inc
+98.98.18.0/23        # Zenlayer Inc
+98.98.196.0/23       # Zenlayer Inc
+98.98.200.0/23       # Zenlayer Inc
+98.98.202.0/23       # Zenlayer Inc
+98.98.2.0/23         # Zenlayer Inc
+98.98.204.0/23       # Zenlayer Inc
+98.98.206.0/23       # Zenlayer Inc
+98.98.208.0/23       # Zenlayer Inc
+98.98.210.0/23       # Zenlayer Inc
+98.98.216.0/23       # Zenlayer Inc
