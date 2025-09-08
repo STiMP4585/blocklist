@@ -1,9 +1,10 @@
 # ===== Aggregated and Sorted Prefixes =====
-# Overall unique blocked IPs -> IPv4: 37,862,912 ; IPv6: 0
-# Total output prefixes: 2630
+# Overall unique blocked IPs -> IPv4: 132,955,648 ; IPv6: 0
+# Total output prefixes: 2942
 #
 38.211.80.0/20  
 81.92.200.0/22  
+114.56.0.0/14   
 # --- ISP: 16 COLLYER QUAY # 18-29 INCOME AT RAFFLES | prefixes: 1 | IPv4 addrs: 1,024 | IPv6 addrs: 0 ---
 101.33.12.0/22       # 16 COLLYER QUAY # 18-29 INCOME AT RAFFLES
 
@@ -18,6 +19,102 @@
 
 # --- ISP: 888 Ventures LLC | prefixes: 1 | IPv4 addrs: 256 | IPv6 addrs: 0 ---
 23.137.132.0/24      # 888 Ventures LLC
+
+# --- ISP: A100 ROW GmbH | prefixes: 8 | IPv4 addrs: 3,670,016 | IPv6 addrs: 0 ---
+3.64.0.0/12          # A100 ROW GmbH
+3.120.0.0/13         # A100 ROW GmbH
+18.156.0.0/14        # A100 ROW GmbH
+18.184.0.0/15        # A100 ROW GmbH
+18.192.0.0/13        # A100 ROW GmbH
+35.152.0.0/13        # A100 ROW GmbH
+52.58.0.0/15         # A100 ROW GmbH
+63.176.0.0/13        # A100 ROW GmbH
+
+# --- ISP: A100 Row Inc | prefixes: 14 | IPv4 addrs: 2,752,512 | IPv6 addrs: 0 ---
+51.16.0.0/15         # A100 Row Inc
+
+# --- ISP: A100 ROW Inc | prefixes: 32 | IPv4 addrs: 4,653,056 | IPv6 addrs: 0 ---
+51.20.0.0/14         # A100 ROW Inc
+
+# --- ISP: A100 Row Inc | prefixes: 14 | IPv4 addrs: 2,752,512 | IPv6 addrs: 0 ---
+51.24.0.0/13         # A100 Row Inc
+51.34.0.0/15         # A100 Row Inc
+51.44.0.0/14         # A100 Row Inc
+
+# --- ISP: A100 ROW Inc | prefixes: 32 | IPv4 addrs: 4,653,056 | IPv6 addrs: 0 ---
+51.48.0.0/15         # A100 ROW Inc
+
+# --- ISP: A100 Row Inc | prefixes: 14 | IPv4 addrs: 2,752,512 | IPv6 addrs: 0 ---
+51.72.0.0/15         # A100 Row Inc
+
+# --- ISP: A100 ROW Inc | prefixes: 32 | IPv4 addrs: 4,653,056 | IPv6 addrs: 0 ---
+51.84.0.0/14         # A100 ROW Inc
+51.92.0.0/14         # A100 ROW Inc
+51.96.0.0/14         # A100 ROW Inc
+51.100.0.0/15        # A100 ROW Inc
+51.112.0.0/15        # A100 ROW Inc
+51.118.0.0/15        # A100 ROW Inc
+
+# --- ISP: A100 Row Inc | prefixes: 14 | IPv4 addrs: 2,752,512 | IPv6 addrs: 0 ---
+51.122.0.0/15        # A100 Row Inc
+51.152.0.0/15        # A100 Row Inc
+51.156.0.0/15        # A100 Row Inc
+
+# --- ISP: A100 ROW Inc | prefixes: 32 | IPv4 addrs: 4,653,056 | IPv6 addrs: 0 ---
+51.164.0.0/15        # A100 ROW Inc
+
+# --- ISP: A100 Row Inc | prefixes: 14 | IPv4 addrs: 2,752,512 | IPv6 addrs: 0 ---
+51.166.0.0/15        # A100 Row Inc
+
+# --- ISP: A100 ROW Inc | prefixes: 32 | IPv4 addrs: 4,653,056 | IPv6 addrs: 0 ---
+51.168.0.0/15        # A100 ROW Inc
+51.172.0.0/15        # A100 ROW Inc
+51.176.0.0/15        # A100 ROW Inc
+51.180.0.0/15        # A100 ROW Inc
+51.184.0.0/15        # A100 ROW Inc
+51.188.0.0/15        # A100 ROW Inc
+51.192.0.0/15        # A100 ROW Inc
+51.196.0.0/15        # A100 ROW Inc
+51.200.0.0/15        # A100 ROW Inc
+
+# --- ISP: A100 Row Inc | prefixes: 14 | IPv4 addrs: 2,752,512 | IPv6 addrs: 0 ---
+51.202.0.0/15        # A100 Row Inc
+
+# --- ISP: A100 ROW Inc | prefixes: 32 | IPv4 addrs: 4,653,056 | IPv6 addrs: 0 ---
+51.204.0.0/15        # A100 ROW Inc
+
+# --- ISP: A100 Row Inc | prefixes: 14 | IPv4 addrs: 2,752,512 | IPv6 addrs: 0 ---
+51.206.0.0/15        # A100 Row Inc
+
+# --- ISP: A100 ROW Inc | prefixes: 32 | IPv4 addrs: 4,653,056 | IPv6 addrs: 0 ---
+51.208.0.0/15        # A100 ROW Inc
+51.212.0.0/15        # A100 ROW Inc
+
+# --- ISP: A100 Row Inc | prefixes: 14 | IPv4 addrs: 2,752,512 | IPv6 addrs: 0 ---
+51.214.0.0/15        # A100 Row Inc
+
+# --- ISP: A100 ROW Inc | prefixes: 32 | IPv4 addrs: 4,653,056 | IPv6 addrs: 0 ---
+51.216.0.0/15        # A100 ROW Inc
+51.220.0.0/15        # A100 ROW Inc
+51.224.0.0/15        # A100 ROW Inc
+
+# --- ISP: A100 Row Inc | prefixes: 14 | IPv4 addrs: 2,752,512 | IPv6 addrs: 0 ---
+51.226.0.0/15        # A100 Row Inc
+
+# --- ISP: A100 ROW Inc | prefixes: 32 | IPv4 addrs: 4,653,056 | IPv6 addrs: 0 ---
+51.228.0.0/15        # A100 ROW Inc
+51.232.0.0/15        # A100 ROW Inc
+51.236.0.0/15        # A100 ROW Inc
+51.244.0.0/15        # A100 ROW Inc
+51.248.0.0/15        # A100 ROW Inc
+
+# --- ISP: A100 Row Inc | prefixes: 14 | IPv4 addrs: 2,752,512 | IPv6 addrs: 0 ---
+57.104.0.0/13        # A100 Row Inc
+
+# --- ISP: A100 ROW Inc | prefixes: 32 | IPv4 addrs: 4,653,056 | IPv6 addrs: 0 ---
+83.116.0.0/15        # A100 ROW Inc
+130.24.0.0/16        # A100 ROW Inc
+194.234.0.0/15       # A100 ROW Inc
 
 # --- ISP: Ace Data Centers II, L.L.C. | prefixes: 12 | IPv4 addrs: 6,912 | IPv6 addrs: 0 ---
 96.126.136.0/22      # Ace Data Centers II, L.L.C.
@@ -83,6 +180,305 @@
 
 # --- ISP: ALTUS COMMUNICATIONS, INC. | prefixes: 1 | IPv4 addrs: 1,024 | IPv6 addrs: 0 ---
 45.86.24.0/22        # ALTUS COMMUNICATIONS, INC.
+
+# --- ISP: Amazon Corporate Services Pty Ltd | prefixes: 5 | IPv4 addrs: 1,310,720 | IPv6 addrs: 0 ---
+3.24.0.0/14          # Amazon Corporate Services Pty Ltd
+3.104.0.0/14         # Amazon Corporate Services Pty Ltd
+13.52.0.0/14         # Amazon Corporate Services Pty Ltd
+13.208.0.0/14        # Amazon Corporate Services Pty Ltd
+13.236.0.0/14        # Amazon Corporate Services Pty Ltd
+
+# --- ISP: Amazon Data Services Australia | prefixes: 2 | IPv4 addrs: 262,144 | IPv6 addrs: 0 ---
+16.26.0.0/15         # Amazon Data Services Australia
+16.50.0.0/15         # Amazon Data Services Australia
+
+# --- ISP: Amazon Data Services Bahrain | prefixes: 1 | IPv4 addrs: 131,072 | IPv6 addrs: 0 ---
+16.24.0.0/15         # Amazon Data Services Bahrain
+
+# --- ISP: Amazon Data Services Brazil | prefixes: 1 | IPv4 addrs: 131,072 | IPv6 addrs: 0 ---
+15.228.0.0/15        # Amazon Data Services Brazil
+
+# --- ISP: Amazon Data Services Canada | prefixes: 6 | IPv4 addrs: 1,179,648 | IPv6 addrs: 0 ---
+3.96.0.0/14          # Amazon Data Services Canada
+15.156.0.0/15        # Amazon Data Services Canada
+15.222.0.0/15        # Amazon Data Services Canada
+16.52.0.0/14         # Amazon Data Services Canada
+35.182.0.0/15        # Amazon Data Services Canada
+40.176.0.0/14        # Amazon Data Services Canada
+
+# --- ISP: Amazon Data Services France | prefixes: 2 | IPv4 addrs: 393,216 | IPv6 addrs: 0 ---
+13.36.0.0/14         # Amazon Data Services France
+15.236.0.0/15        # Amazon Data Services France
+
+# --- ISP: Amazon Data Services Hong Kong | prefixes: 3 | IPv4 addrs: 393,216 | IPv6 addrs: 0 ---
+16.162.0.0/15        # Amazon Data Services Hong Kong
+18.166.0.0/15        # Amazon Data Services Hong Kong
+95.40.0.0/15         # Amazon Data Services Hong Kong
+
+# --- ISP: Amazon Data Services India | prefixes: 8 | IPv4 addrs: 2,228,224 | IPv6 addrs: 0 ---
+3.6.0.0/15           # Amazon Data Services India
+3.108.0.0/14         # Amazon Data Services India
+13.126.0.0/15        # Amazon Data Services India
+13.200.0.0/13        # Amazon Data Services India
+13.232.0.0/13        # Amazon Data Services India
+15.206.0.0/15        # Amazon Data Services India
+18.60.0.0/14         # Amazon Data Services India
+65.0.0.0/14          # Amazon Data Services India
+
+# --- ISP: Amazon Data Services Ireland Limited | prefixes: 10 | IPv4 addrs: 3,801,088 | IPv6 addrs: 0 ---
+3.248.0.0/13         # Amazon Data Services Ireland Limited
+18.202.0.0/15        # Amazon Data Services Ireland Limited
+34.240.0.0/12        # Amazon Data Services Ireland Limited
+52.16.0.0/14         # Amazon Data Services Ireland Limited
+52.30.0.0/15         # Amazon Data Services Ireland Limited
+52.48.0.0/14         # Amazon Data Services Ireland Limited
+52.208.0.0/13        # Amazon Data Services Ireland Limited
+63.32.0.0/14         # Amazon Data Services Ireland Limited
+99.80.0.0/15         # Amazon Data Services Ireland Limited
+108.128.0.0/13       # Amazon Data Services Ireland Limited
+
+# --- ISP: Amazon Data Services Jakarta | prefixes: 2 | IPv4 addrs: 393,216 | IPv6 addrs: 0 ---
+16.78.0.0/15         # Amazon Data Services Jakarta
+108.136.0.0/14       # Amazon Data Services Jakarta
+
+# --- ISP: Amazon Data Services Japan | prefixes: 11 | IPv4 addrs: 3,473,408 | IPv6 addrs: 0 ---
+3.112.0.0/14         # Amazon Data Services Japan
+13.112.0.0/14        # Amazon Data Services Japan
+13.158.0.0/15        # Amazon Data Services Japan
+13.192.0.0/16        # Amazon Data Services Japan
+13.230.0.0/15        # Amazon Data Services Japan
+18.176.0.0/15        # Amazon Data Services Japan
+18.180.0.0/15        # Amazon Data Services Japan
+35.72.0.0/13         # Amazon Data Services Japan
+52.64.0.0/12         # Amazon Data Services Japan
+52.192.0.0/13        # Amazon Data Services Japan
+57.180.0.0/14        # Amazon Data Services Japan
+
+# --- ISP: Amazon Data Services Mexico | prefixes: 1 | IPv4 addrs: 262,144 | IPv6 addrs: 0 ---
+78.12.0.0/14         # Amazon Data Services Mexico
+
+# --- ISP: Amazon Data Services New Zealand | prefixes: 1 | IPv4 addrs: 131,072 | IPv6 addrs: 0 ---
+3.102.0.0/15         # Amazon Data Services New Zealand
+
+# --- ISP: Amazon Data Services Northern Virginia | prefixes: 3 | IPv4 addrs: 1,441,792 | IPv6 addrs: 0 ---
+18.88.0.0/15         # Amazon Data Services Northern Virginia
+23.20.0.0/14         # Amazon Data Services Northern Virginia
+54.144.0.0/12        # Amazon Data Services Northern Virginia
+
+# --- ISP: Amazon Data Services Osaka | prefixes: 1 | IPv4 addrs: 65,536 | IPv6 addrs: 0 ---
+13.208.0.0/16        # Amazon Data Services Osaka
+
+# --- ISP: Amazon Data Services Singapore | prefixes: 9 | IPv4 addrs: 1,966,080 | IPv6 addrs: 0 ---
+3.0.0.0/15           # Amazon Data Services Singapore
+13.212.0.0/14        # Amazon Data Services Singapore
+13.228.0.0/14        # Amazon Data Services Singapore
+13.248.0.0/14        # Amazon Data Services Singapore
+16.156.0.0/14        # Amazon Data Services Singapore
+18.138.0.0/15        # Amazon Data Services Singapore
+18.140.0.0/14        # Amazon Data Services Singapore
+47.128.0.0/14        # Amazon Data Services Singapore
+52.220.0.0/15        # Amazon Data Services Singapore
+
+# --- ISP: Amazon Data Services South Africa | prefixes: 1 | IPv4 addrs: 262,144 | IPv6 addrs: 0 ---
+13.244.0.0/14        # Amazon Data Services South Africa
+
+# --- ISP: Amazon Data Services Spain | prefixes: 2 | IPv4 addrs: 262,144 | IPv6 addrs: 0 ---
+18.100.0.0/15        # Amazon Data Services Spain
+35.44.0.0/15         # Amazon Data Services Spain
+
+# --- ISP: Amazon Data Services Sweden | prefixes: 3 | IPv4 addrs: 786,432 | IPv6 addrs: 0 ---
+13.48.0.0/14         # Amazon Data Services Sweden
+13.60.0.0/14         # Amazon Data Services Sweden
+16.168.0.0/14        # Amazon Data Services Sweden
+
+# --- ISP: Amazon Data Services Switzerland | prefixes: 1 | IPv4 addrs: 131,072 | IPv6 addrs: 0 ---
+16.62.0.0/15         # Amazon Data Services Switzerland
+
+# --- ISP: Amazon Data Services UAE | prefixes: 3 | IPv4 addrs: 524,288 | IPv6 addrs: 0 ---
+3.28.0.0/15          # Amazon Data Services UAE
+40.172.0.0/14        # Amazon Data Services UAE
+158.252.0.0/15       # Amazon Data Services UAE
+
+# --- ISP: Amazon Data Services UK | prefixes: 6 | IPv4 addrs: 1,966,080 | IPv6 addrs: 0 ---
+3.8.0.0/14           # Amazon Data Services UK
+13.40.0.0/13         # Amazon Data Services UK
+13.134.0.0/15        # Amazon Data Services UK
+18.132.0.0/14        # Amazon Data Services UK
+18.168.0.0/14        # Amazon Data Services UK
+35.176.0.0/13        # Amazon Data Services UK
+
+# --- ISP: Amazon Technologies Inc. | prefixes: 32 | IPv4 addrs: 37,158,912 | IPv6 addrs: 0 ---
+3.0.0.0/8            # Amazon Technologies Inc.
+13.24.0.0/13         # Amazon Technologies Inc.
+13.56.0.0/14         # Amazon Technologies Inc.
+13.124.0.0/14        # Amazon Technologies Inc.
+13.204.0.0/14        # Amazon Technologies Inc.
+15.182.0.0/15        # Amazon Technologies Inc.
+15.186.0.0/15        # Amazon Technologies Inc.
+34.192.0.0/10        # Amazon Technologies Inc.
+35.96.0.0/11         # Amazon Technologies Inc.
+52.0.0.0/10          # Amazon Technologies Inc.
+52.88.0.0/13         # Amazon Technologies Inc.
+52.192.0.0/12        # Amazon Technologies Inc.
+52.216.0.0/14        # Amazon Technologies Inc.
+54.64.0.0/13         # Amazon Technologies Inc.
+54.74.0.0/15         # Amazon Technologies Inc.
+54.76.0.0/15         # Amazon Technologies Inc.
+54.80.0.0/12         # Amazon Technologies Inc.
+54.148.0.0/15        # Amazon Technologies Inc.
+54.160.0.0/12        # Amazon Technologies Inc.
+54.224.0.0/11        # Amazon Technologies Inc.
+128.125.0.0/16       # Amazon Technologies Inc.
+128.181.0.0/16       # Amazon Technologies Inc.
+128.188.0.0/16       # Amazon Technologies Inc.
+129.47.0.0/16        # Amazon Technologies Inc.
+129.160.0.0/16       # Amazon Technologies Inc.
+130.71.0.0/16        # Amazon Technologies Inc.
+130.205.0.0/16       # Amazon Technologies Inc.
+136.4.0.0/14         # Amazon Technologies Inc.
+136.14.0.0/15        # Amazon Technologies Inc.
+136.20.0.0/15        # Amazon Technologies Inc.
+136.128.0.0/15       # Amazon Technologies Inc.
+136.136.0.0/14       # Amazon Technologies Inc.
+
+# --- ISP: Amazon.com, Inc. | prefixes: 111 | IPv4 addrs: 29,687,808 | IPv6 addrs: 0 ---
+13.32.0.0/14         # Amazon.com, Inc.
+13.60.0.0/14         # Amazon.com, Inc.
+13.128.0.0/16        # Amazon.com, Inc.
+13.130.0.0/16        # Amazon.com, Inc.
+13.144.0.0/16        # Amazon.com, Inc.
+13.146.0.0/16        # Amazon.com, Inc.
+13.150.0.0/15        # Amazon.com, Inc.
+13.152.0.0/16        # Amazon.com, Inc.
+13.154.0.0/16        # Amazon.com, Inc.
+13.160.0.0/16        # Amazon.com, Inc.
+13.162.0.0/16        # Amazon.com, Inc.
+13.166.0.0/15        # Amazon.com, Inc.
+13.184.0.0/13        # Amazon.com, Inc.
+13.192.0.0/13        # Amazon.com, Inc.
+16.126.0.0/15        # Amazon.com, Inc.
+16.154.0.0/15        # Amazon.com, Inc.
+16.176.0.0/14        # Amazon.com, Inc.
+18.144.0.0/15        # Amazon.com, Inc.
+18.164.0.0/14        # Amazon.com, Inc.
+18.236.0.0/15        # Amazon.com, Inc.
+32.160.0.0/12        # Amazon.com, Inc.
+32.184.0.0/13        # Amazon.com, Inc.
+32.236.0.0/15        # Amazon.com, Inc.
+32.240.0.0/15        # Amazon.com, Inc.
+35.18.0.0/15         # Amazon.com, Inc.
+35.26.0.0/15         # Amazon.com, Inc.
+35.28.0.0/14         # Amazon.com, Inc.
+35.48.0.0/15         # Amazon.com, Inc.
+35.52.0.0/15         # Amazon.com, Inc.
+35.56.0.0/15         # Amazon.com, Inc.
+35.60.0.0/15         # Amazon.com, Inc.
+35.80.0.0/12         # Amazon.com, Inc.
+35.160.0.0/12        # Amazon.com, Inc.
+40.180.0.0/15        # Amazon.com, Inc.
+43.198.0.0/15        # Amazon.com, Inc.
+43.200.0.0/13        # Amazon.com, Inc.
+43.208.0.0/13        # Amazon.com, Inc.
+43.216.0.0/15        # Amazon.com, Inc.
+43.220.0.0/15        # Amazon.com, Inc.
+44.192.0.0/10        # Amazon.com, Inc.
+45.34.0.0/15         # Amazon.com, Inc.
+46.168.0.0/15        # Amazon.com, Inc.
+50.16.0.0/14         # Amazon.com, Inc.
+52.84.0.0/14         # Amazon.com, Inc.
+54.20.0.0/15         # Amazon.com, Inc.
+54.46.0.0/15         # Amazon.com, Inc.
+54.72.0.0/13         # Amazon.com, Inc.
+54.116.0.0/15        # Amazon.com, Inc.
+54.176.0.0/12        # Amazon.com, Inc.
+54.192.0.0/12        # Amazon.com, Inc.
+54.208.0.0/13        # Amazon.com, Inc.
+54.216.0.0/14        # Amazon.com, Inc.
+54.220.0.0/15        # Amazon.com, Inc.
+56.156.0.0/15        # Amazon.com, Inc.
+63.176.0.0/12        # Amazon.com, Inc.
+65.8.0.0/14          # Amazon.com, Inc.
+65.176.0.0/14        # Amazon.com, Inc.
+72.242.0.0/15        # Amazon.com, Inc.
+76.162.0.0/15        # Amazon.com, Inc.
+77.112.0.0/14        # Amazon.com, Inc.
+78.12.0.0/14         # Amazon.com, Inc.
+80.126.0.0/15        # Amazon.com, Inc.
+83.160.0.0/14        # Amazon.com, Inc.
+86.112.0.0/15        # Amazon.com, Inc.
+88.104.0.0/13        # Amazon.com, Inc.
+89.48.0.0/13         # Amazon.com, Inc.
+94.36.0.0/14         # Amazon.com, Inc.
+98.80.0.0/12         # Amazon.com, Inc.
+98.130.0.0/15        # Amazon.com, Inc.
+99.200.0.0/13        # Amazon.com, Inc.
+100.20.0.0/14        # Amazon.com, Inc.
+104.144.0.0/16       # Amazon.com, Inc.
+104.149.0.0/16       # Amazon.com, Inc.
+104.216.0.0/15       # Amazon.com, Inc.
+104.227.0.0/16       # Amazon.com, Inc.
+107.20.0.0/14        # Amazon.com, Inc.
+107.160.0.0/16       # Amazon.com, Inc.
+126.190.0.0/15       # Amazon.com, Inc.
+126.210.0.0/16       # Amazon.com, Inc.
+126.226.0.0/16       # Amazon.com, Inc.
+126.228.0.0/16       # Amazon.com, Inc.
+128.11.0.0/16        # Amazon.com, Inc.
+128.21.0.0/16        # Amazon.com, Inc.
+128.81.0.0/16        # Amazon.com, Inc.
+128.167.0.0/16       # Amazon.com, Inc.
+128.212.0.0/16       # Amazon.com, Inc.
+129.30.0.0/16        # Amazon.com, Inc.
+129.223.0.0/16       # Amazon.com, Inc.
+129.235.0.0/16       # Amazon.com, Inc.
+129.239.0.0/16       # Amazon.com, Inc.
+130.21.0.0/16        # Amazon.com, Inc.
+130.31.0.0/16        # Amazon.com, Inc.
+130.80.0.0/16        # Amazon.com, Inc.
+130.171.0.0/16       # Amazon.com, Inc.
+130.175.0.0/16       # Amazon.com, Inc.
+130.176.0.0/16       # Amazon.com, Inc.
+130.181.0.0/16       # Amazon.com, Inc.
+130.217.0.0/16       # Amazon.com, Inc.
+131.127.0.0/16       # Amazon.com, Inc.
+131.168.0.0/16       # Amazon.com, Inc.
+132.223.0.0/16       # Amazon.com, Inc.
+134.127.0.0/16       # Amazon.com, Inc.
+134.251.0.0/16       # Amazon.com, Inc.
+136.8.0.0/15         # Amazon.com, Inc.
+156.4.0.0/15         # Amazon.com, Inc.
+168.192.0.0/15       # Amazon.com, Inc.
+172.106.0.0/15       # Amazon.com, Inc.
+182.24.0.0/14        # Amazon.com, Inc.
+184.32.0.0/12        # Amazon.com, Inc.
+184.72.0.0/15        # Amazon.com, Inc.
+216.216.0.0/15       # Amazon.com, Inc.
+
+# --- ISP: American Registry for Internet Numbers | prefixes: 24 | IPv4 addrs: 4,587,520 | IPv6 addrs: 0 ---
+18.32.0.0/15         # American Registry for Internet Numbers
+18.36.0.0/15         # American Registry for Internet Numbers
+18.50.0.0/15         # American Registry for Internet Numbers
+18.54.0.0/15         # American Registry for Internet Numbers
+18.70.0.0/15         # American Registry for Internet Numbers
+18.74.0.0/15         # American Registry for Internet Numbers
+18.76.0.0/14         # American Registry for Internet Numbers
+18.80.0.0/14         # American Registry for Internet Numbers
+18.104.0.0/14        # American Registry for Internet Numbers
+18.108.0.0/15        # American Registry for Internet Numbers
+18.114.0.0/15        # American Registry for Internet Numbers
+18.116.0.0/14        # American Registry for Internet Numbers
+18.120.0.0/15        # American Registry for Internet Numbers
+18.124.0.0/15        # American Registry for Internet Numbers
+18.128.0.0/15        # American Registry for Internet Numbers
+18.140.0.0/15        # American Registry for Internet Numbers
+18.146.0.0/15        # American Registry for Internet Numbers
+18.148.0.0/14        # American Registry for Internet Numbers
+18.186.0.0/15        # American Registry for Internet Numbers
+18.216.0.0/13        # American Registry for Internet Numbers
+18.224.0.0/14        # American Registry for Internet Numbers
+18.240.0.0/14        # American Registry for Internet Numbers
+18.248.0.0/14        # American Registry for Internet Numbers
+18.254.0.0/15        # American Registry for Internet Numbers
 
 # --- ISP: AMERICAN TECHNOLOGY HOLDINGS, INC. | prefixes: 2 | IPv4 addrs: 6,144 | IPv6 addrs: 0 ---
 216.24.0.0/20        # AMERICAN TECHNOLOGY HOLDINGS, INC.
@@ -183,6 +579,14 @@
 38.79.112.0/21       # Awesomecloud Limited
 38.209.64.0/21       # Awesomecloud Limited
 38.209.112.0/20      # Awesomecloud Limited
+
+# --- ISP: AWS Asia Pacific (Seoul) Region | prefixes: 6 | IPv4 addrs: 851,968 | IPv6 addrs: 0 ---
+3.34.0.0/15          # AWS Asia Pacific (Seoul) Region
+3.36.0.0/14          # AWS Asia Pacific (Seoul) Region
+13.124.0.0/15        # AWS Asia Pacific (Seoul) Region
+13.209.0.0/16        # AWS Asia Pacific (Seoul) Region
+15.164.0.0/15        # AWS Asia Pacific (Seoul) Region
+54.180.0.0/15        # AWS Asia Pacific (Seoul) Region
 
 # --- ISP: Azadeh Golestan Parast trading as Virtual Dedicated Datacenter Services FZCO | prefixes: 10 | IPv4 addrs: 10,240 | IPv6 addrs: 0 ---
 2.56.16.0/22         # Azadeh Golestan Parast trading as Virtual Dedicated Datacenter Services FZCO
@@ -1768,6 +2172,10 @@
 45.83.8.0/22         # iNet Ltd
 91.231.142.0/23      # iNet Ltd
 193.135.13.0/24      # iNet Ltd
+
+# --- ISP: Infrastructure | prefixes: 2 | IPv4 addrs: 262,144 | IPv6 addrs: 0 ---
+43.208.0.0/15        # Infrastructure
+43.212.0.0/15        # Infrastructure
 
 # --- ISP: Insight Investments LLC | prefixes: 2 | IPv4 addrs: 512 | IPv6 addrs: 0 ---
 198.44.131.0/24      # Insight Investments LLC
