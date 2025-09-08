@@ -1,6 +1,6 @@
 # ===== Aggregated and Sorted Prefixes =====
-# Overall unique blocked IPs -> IPv4: 1,991,680 ; IPv6: 0
-# Total output prefixes: 1742
+# Overall unique blocked IPs -> IPv4: 37,857,536 ; IPv6: 0
+# Total output prefixes: 2623
 #
 38.211.80.0/20  
 81.92.200.0/22  
@@ -37,8 +37,27 @@
 # --- ISP: African Network Information Center | prefixes: 1 | IPv4 addrs: 8,192 | IPv6 addrs: 0 ---
 156.248.32.0/19      # African Network Information Center
 
+# --- ISP: African Network Information Center - (AfriNIC) Ltd | prefixes: 5 | IPv4 addrs: 655,360 | IPv6 addrs: 0 ---
+154.12.0.0/15        # African Network Information Center - (AfriNIC) Ltd
+154.17.0.0/16        # African Network Information Center - (AfriNIC) Ltd
+154.18.0.0/15        # African Network Information Center - (AfriNIC) Ltd
+154.21.0.0/16        # African Network Information Center - (AfriNIC) Ltd
+154.36.0.0/14        # African Network Information Center - (AfriNIC) Ltd
+
 # --- ISP: Aftab | prefixes: 1 | IPv4 addrs: 256 | IPv6 addrs: 0 ---
 23.234.114.0/24      # Aftab
+
+# --- ISP: AGIS | prefixes: 10 | IPv4 addrs: 819,200 | IPv6 addrs: 0 ---
+204.157.0.0/16       # AGIS
+205.164.128.0/17     # AGIS
+205.198.0.0/15       # AGIS
+206.42.0.0/16        # AGIS
+206.84.0.0/15        # AGIS
+206.148.0.0/15       # AGIS
+206.185.0.0/16       # AGIS
+206.250.0.0/16       # AGIS
+207.142.0.0/16       # AGIS
+209.14.0.0/16        # AGIS
 
 # --- ISP: AKSHAY BUDUKH AND ASSOCIATES | prefixes: 1 | IPv4 addrs: 512 | IPv6 addrs: 0 ---
 103.80.10.0/23       # AKSHAY BUDUKH AND ASSOCIATES
@@ -46,15 +65,30 @@
 # --- ISP: Alaxona Internet Inc. | prefixes: 1 | IPv4 addrs: 256 | IPv6 addrs: 0 ---
 146.19.90.0/24       # Alaxona Internet Inc.
 
+# --- ISP: Alliance Data Services LLC | prefixes: 1 | IPv4 addrs: 2,048 | IPv6 addrs: 0 ---
+38.83.64.0/21        # Alliance Data Services LLC
+
+# --- ISP: alpha dot net, corp | prefixes: 3 | IPv4 addrs: 81,920 | IPv6 addrs: 0 ---
+156.46.0.0/16        # alpha dot net, corp
+205.254.192.0/19     # alpha dot net, corp
+206.190.0.0/19       # alpha dot net, corp
+
 # --- ISP: Alpha online Technology | prefixes: 1 | IPv4 addrs: 256 | IPv6 addrs: 0 ---
 102.212.7.0/24       # Alpha online Technology
 
 # --- ISP: ALTUS COMMUNICATIONS, INC. | prefixes: 1 | IPv4 addrs: 1,024 | IPv6 addrs: 0 ---
 45.86.24.0/22        # ALTUS COMMUNICATIONS, INC.
 
+# --- ISP: AMERICAN TECHNOLOGY HOLDINGS, INC. | prefixes: 2 | IPv4 addrs: 6,144 | IPv6 addrs: 0 ---
+216.24.0.0/20        # AMERICAN TECHNOLOGY HOLDINGS, INC.
+216.24.16.0/21       # AMERICAN TECHNOLOGY HOLDINGS, INC.
+
 # --- ISP: Andrey Voskresenskiy | prefixes: 2 | IPv4 addrs: 1,536 | IPv6 addrs: 0 ---
 195.216.176.0/23     # Andrey Voskresenskiy
 213.182.220.0/22     # Andrey Voskresenskiy
+
+# --- ISP: ANTYXSOFT INFORMATION SYSTEMS PC | prefixes: 1 | IPv4 addrs: 1,024 | IPv6 addrs: 0 ---
+149.6.212.0/22       # ANTYXSOFT INFORMATION SYSTEMS PC
 
 # --- ISP: APPLIED TECHNOLOGIES INTERNET SAS | prefixes: 1 | IPv4 addrs: 2,048 | IPv6 addrs: 0 ---
 45.10.120.0/21       # APPLIED TECHNOLOGIES INTERNET SAS
@@ -89,18 +123,30 @@
 # --- ISP: Astrill | prefixes: 1 | IPv4 addrs: 256 | IPv6 addrs: 0 ---
 104.252.90.0/24      # Astrill
 
+# --- ISP: ATL II. IPv4 route | prefixes: 1 | IPv4 addrs: 256 | IPv6 addrs: 0 ---
+185.152.66.0/24      # ATL II. IPv4 route
+
+# --- ISP: ATLAS-NETWORKS-CORPORATION | prefixes: 1 | IPv4 addrs: 1,024 | IPv6 addrs: 0 ---
+142.214.152.0/22     # ATLAS-NETWORKS-CORPORATION
+
 # --- ISP: ATOMOHOST LLC | prefixes: 1 | IPv4 addrs: 256 | IPv6 addrs: 0 ---
 178.159.100.0/24     # ATOMOHOST LLC
+
+# --- ISP: Atuaxanela S.L | prefixes: 1 | IPv4 addrs: 1,024 | IPv6 addrs: 0 ---
+149.36.192.0/22      # Atuaxanela S.L
 
 # --- ISP: Avalaa | prefixes: 1 | IPv4 addrs: 256 | IPv6 addrs: 0 ---
 104.253.176.0/24     # Avalaa
 
-# --- ISP: Aventice LLC | prefixes: 30 | IPv4 addrs: 36,864 | IPv6 addrs: 0 ---
+# --- ISP: Aventice LLC | prefixes: 33 | IPv4 addrs: 39,936 | IPv6 addrs: 0 ---
 45.91.188.0/22       # Aventice LLC
 95.214.100.0/22      # Aventice LLC
 154.7.238.0/23       # Aventice LLC
 154.7.248.0/22       # Aventice LLC
+154.13.200.0/22      # Aventice LLC
 154.13.212.0/22      # Aventice LLC
+154.13.244.0/22      # Aventice LLC
+154.13.248.0/22      # Aventice LLC
 154.17.120.0/21      # Aventice LLC
 154.17.168.0/21      # Aventice LLC
 154.17.176.0/22      # Aventice LLC
@@ -127,6 +173,12 @@
 206.232.60.0/22      # Aventice LLC
 206.232.88.0/21      # Aventice LLC
 
+# --- ISP: Awesomecloud Limited | prefixes: 4 | IPv4 addrs: 12,288 | IPv6 addrs: 0 ---
+38.69.240.0/20       # Awesomecloud Limited
+38.79.112.0/21       # Awesomecloud Limited
+38.209.64.0/21       # Awesomecloud Limited
+38.209.112.0/20      # Awesomecloud Limited
+
 # --- ISP: Azadeh Golestan Parast trading as Virtual Dedicated Datacenter Services FZCO | prefixes: 10 | IPv4 addrs: 10,240 | IPv6 addrs: 0 ---
 2.56.16.0/22         # Azadeh Golestan Parast trading as Virtual Dedicated Datacenter Services FZCO
 45.85.108.0/22       # Azadeh Golestan Parast trading as Virtual Dedicated Datacenter Services FZCO
@@ -141,6 +193,9 @@
 
 # --- ISP: Babak Pazooki | prefixes: 1 | IPv4 addrs: 256 | IPv6 addrs: 0 ---
 23.234.108.0/24      # Babak Pazooki
+
+# --- ISP: BACK WAVES LIMITED | prefixes: 1 | IPv4 addrs: 2,048 | IPv6 addrs: 0 ---
+38.2.136.0/21        # BACK WAVES LIMITED
 
 # --- ISP: BAHIA VISTA SOLUTIONS LLC | prefixes: 2 | IPv4 addrs: 2,048 | IPv6 addrs: 0 ---
 45.156.76.0/22       # BAHIA VISTA SOLUTIONS LLC
@@ -179,6 +234,9 @@
 # --- ISP: BINARY NETWORKS SOLUTIONS LLC | prefixes: 1 | IPv4 addrs: 512 | IPv6 addrs: 0 ---
 156.239.244.0/23     # BINARY NETWORKS SOLUTIONS LLC
 
+# --- ISP: Borough of Kutztown | prefixes: 1 | IPv4 addrs: 2,048 | IPv6 addrs: 0 ---
+38.66.88.0/21        # Borough of Kutztown
+
 # --- ISP: Brander Group Inc | prefixes: 1 | IPv4 addrs: 1,024 | IPv6 addrs: 0 ---
 158.140.208.0/22     # Brander Group Inc
 
@@ -205,14 +263,108 @@
 # --- ISP: Braveway-SG | prefixes: 1 | IPv4 addrs: 1,024 | IPv6 addrs: 0 ---
 206.127.204.0/22     # Braveway-SG
 
+# --- ISP: BTCVPN LLC | prefixes: 1 | IPv4 addrs: 1,024 | IPv6 addrs: 0 ---
+140.235.116.0/22     # BTCVPN LLC
+
 # --- ISP: Bulk Materials Inc. | prefixes: 1 | IPv4 addrs: 2,048 | IPv6 addrs: 0 ---
 204.115.128.0/21     # Bulk Materials Inc.
+
+# --- ISP: BUTTERFLY INC | prefixes: 1 | IPv4 addrs: 1,024 | IPv6 addrs: 0 ---
+149.36.68.0/22       # BUTTERFLY INC
 
 # --- ISP: BWAY AMSTERDAM | prefixes: 1 | IPv4 addrs: 1,024 | IPv6 addrs: 0 ---
 158.115.252.0/22     # BWAY AMSTERDAM
 
 # --- ISP: BWAY-SINGAPORE | prefixes: 1 | IPv4 addrs: 1,024 | IPv6 addrs: 0 ---
 206.127.220.0/22     # BWAY-SINGAPORE
+
+# --- ISP: Capcon Networks LLC | prefixes: 1 | IPv4 addrs: 2,048 | IPv6 addrs: 0 ---
+38.147.88.0/21       # Capcon Networks LLC
+
+# --- ISP: CCE Cogent Internet Services Limited | prefixes: 2 | IPv4 addrs: 6,144 | IPv6 addrs: 0 ---
+46.17.32.0/21        # CCE Cogent Internet Services Limited
+80.93.0.0/20         # CCE Cogent Internet Services Limited
+
+# --- ISP: CDN77 - CHI POP | prefixes: 1 | IPv4 addrs: 1,024 | IPv6 addrs: 0 ---
+89.187.180.0/22      # CDN77 - CHI POP
+
+# --- ISP: CDN77 - Milano | prefixes: 1 | IPv4 addrs: 512 | IPv6 addrs: 0 ---
+212.102.54.0/23      # CDN77 - Milano
+
+# --- ISP: CDN77 - VIE POP | prefixes: 2 | IPv4 addrs: 512 | IPv6 addrs: 0 ---
+89.187.168.0/24      # CDN77 - VIE POP
+185.180.12.0/24      # CDN77 - VIE POP
+
+# --- ISP: CDN77 Buenos Aires POP | prefixes: 1 | IPv4 addrs: 256 | IPv6 addrs: 0 ---
+87.249.130.0/24      # CDN77 Buenos Aires POP
+
+# --- ISP: CDN77 Dallas | prefixes: 1 | IPv4 addrs: 256 | IPv6 addrs: 0 ---
+89.187.164.0/24      # CDN77 Dallas
+
+# --- ISP: CDN77 FUJAIRAH | prefixes: 1 | IPv4 addrs: 256 | IPv6 addrs: 0 ---
+37.19.219.0/24       # CDN77 FUJAIRAH
+
+# --- ISP: CDN77 Hong Kong | prefixes: 1 | IPv4 addrs: 512 | IPv6 addrs: 0 ---
+84.17.56.0/23        # CDN77 Hong Kong
+
+# --- ISP: CDN77 MAD | prefixes: 1 | IPv4 addrs: 256 | IPv6 addrs: 0 ---
+84.17.62.0/24        # CDN77 MAD
+
+# --- ISP: CDN77 Singapore | prefixes: 1 | IPv4 addrs: 512 | IPv6 addrs: 0 ---
+89.187.162.0/23      # CDN77 Singapore
+
+# --- ISP: CDN77 Stockholm | prefixes: 1 | IPv4 addrs: 256 | IPv6 addrs: 0 ---
+37.19.222.0/24       # CDN77 Stockholm
+
+# --- ISP: CDN77 Tokyo | prefixes: 2 | IPv4 addrs: 768 | IPv6 addrs: 0 ---
+87.249.128.0/24      # CDN77 Tokyo
+89.187.160.0/23      # CDN77 Tokyo
+
+# --- ISP: CDN77 Zurich | prefixes: 1 | IPv4 addrs: 256 | IPv6 addrs: 0 ---
+89.187.165.0/24      # CDN77 Zurich
+
+# --- ISP: CDN77-PRG | prefixes: 1 | IPv4 addrs: 512 | IPv6 addrs: 0 ---
+195.181.160.0/23     # CDN77-PRG
+
+# --- ISP: CDN77.com | prefixes: 2 | IPv4 addrs: 1,280 | IPv6 addrs: 0 ---
+185.93.0.0/22        # CDN77.com
+195.181.167.0/24     # CDN77.com
+
+# --- ISP: CDN77.com Amsterdam (Netherlands) POP | prefixes: 3 | IPv4 addrs: 768 | IPv6 addrs: 0 ---
+185.59.222.0/24      # CDN77.com Amsterdam (Netherlands) POP
+185.76.10.0/24       # CDN77.com Amsterdam (Netherlands) POP
+185.102.218.0/24     # CDN77.com Amsterdam (Netherlands) POP
+
+# --- ISP: CDN77.com Chicago (US) POP | prefixes: 1 | IPv4 addrs: 256 | IPv6 addrs: 0 ---
+185.246.209.0/24     # CDN77.com Chicago (US) POP
+
+# --- ISP: CDN77.com Frankfurt (Germany) POP | prefixes: 1 | IPv4 addrs: 256 | IPv6 addrs: 0 ---
+185.102.219.0/24     # CDN77.com Frankfurt (Germany) POP
+
+# --- ISP: CDN77.com Frankfurt(Germany) POP | prefixes: 1 | IPv4 addrs: 256 | IPv6 addrs: 0 ---
+185.59.220.0/24      # CDN77.com Frankfurt(Germany) POP
+
+# --- ISP: CDN77.com London (United Kingdom) POP | prefixes: 1 | IPv4 addrs: 256 | IPv6 addrs: 0 ---
+185.59.221.0/24      # CDN77.com London (United Kingdom) POP
+
+# --- ISP: CDN77.com Paris (FR) POP | prefixes: 1 | IPv4 addrs: 256 | IPv6 addrs: 0 ---
+185.246.211.0/24     # CDN77.com Paris (FR) POP
+
+# --- ISP: CDN77.com Stockholm (Sweden) POP | prefixes: 1 | IPv4 addrs: 256 | IPv6 addrs: 0 ---
+185.76.9.0/24        # CDN77.com Stockholm (Sweden) POP
+
+# --- ISP: CDN77.com Stockholm (Sweden) POP-2 | prefixes: 1 | IPv4 addrs: 256 | IPv6 addrs: 0 ---
+195.181.166.0/24     # CDN77.com Stockholm (Sweden) POP-2
+
+# --- ISP: CDN77.com Warsaw (Poland) POP | prefixes: 1 | IPv4 addrs: 256 | IPv6 addrs: 0 ---
+185.246.208.0/24     # CDN77.com Warsaw (Poland) POP
+
+# --- ISP: Celestica International LP | prefixes: 1 | IPv4 addrs: 1,024 | IPv6 addrs: 0 ---
+135.12.28.0/22       # Celestica International LP
+
+# --- ISP: Chengdu Yanling Technology Co., Ltd. | prefixes: 2 | IPv4 addrs: 4,096 | IPv6 addrs: 0 ---
+38.15.160.0/21       # Chengdu Yanling Technology Co., Ltd.
+38.194.208.0/21      # Chengdu Yanling Technology Co., Ltd.
 
 # --- ISP: Chief Telecom Inc. | prefixes: 1 | IPv4 addrs: 1,024 | IPv6 addrs: 0 ---
 223.26.72.0/22       # Chief Telecom Inc.
@@ -222,6 +374,12 @@
 
 # --- ISP: Chiyoda-ku, Tokyo 106-258, Japan | prefixes: 1 | IPv4 addrs: 256 | IPv6 addrs: 0 ---
 103.103.247.0/24     # Chiyoda-ku, Tokyo 106-258, Japan
+
+# --- ISP: City of Waltham | prefixes: 1 | IPv4 addrs: 2,048 | IPv6 addrs: 0 ---
+206.208.184.0/21     # City of Waltham
+
+# --- ISP: City of Williston FL Broadband | prefixes: 1 | IPv4 addrs: 2,048 | IPv6 addrs: 0 ---
+38.75.240.0/21       # City of Williston FL Broadband
 
 # --- ISP: cleardocks LLC | prefixes: 23 | IPv4 addrs: 32,768 | IPv6 addrs: 0 ---
 2.57.76.0/22         # cleardocks LLC
@@ -268,8 +426,51 @@
 # --- ISP: CloudLoop Pty Ltd | prefixes: 1 | IPv4 addrs: 512 | IPv6 addrs: 0 ---
 103.26.236.0/23      # CloudLoop Pty Ltd
 
+# --- ISP: Cloudrift Hosting Services | prefixes: 1 | IPv4 addrs: 2,048 | IPv6 addrs: 0 ---
+38.124.224.0/21      # Cloudrift Hosting Services
+
 # --- ISP: CLS Network Technology Co. Ltd. | prefixes: 1 | IPv4 addrs: 256 | IPv6 addrs: 0 ---
 23.234.84.0/24       # CLS Network Technology Co. Ltd.
+
+# --- ISP: Code 200 UAB | prefixes: 1 | IPv4 addrs: 2,048 | IPv6 addrs: 0 ---
+154.3.136.0/21       # Code 200 UAB
+
+# --- ISP: Code 200, UAB | prefixes: 35 | IPv4 addrs: 92,160 | IPv6 addrs: 0 ---
+38.18.0.0/19         # Code 200, UAB
+38.70.224.0/21       # Code 200, UAB
+38.77.208.0/20       # Code 200, UAB
+38.78.224.0/21       # Code 200, UAB
+38.79.208.0/20       # Code 200, UAB
+38.80.16.0/20        # Code 200, UAB
+38.94.176.0/20       # Code 200, UAB
+38.128.48.0/20       # Code 200, UAB
+38.131.160.0/20      # Code 200, UAB
+38.132.192.0/21      # Code 200, UAB
+38.133.80.0/20       # Code 200, UAB
+149.5.132.0/22       # Code 200, UAB
+149.12.112.0/21      # Code 200, UAB
+149.12.164.0/22      # Code 200, UAB
+149.13.8.0/21        # Code 200, UAB
+149.13.180.0/22      # Code 200, UAB
+149.36.8.0/21        # Code 200, UAB
+149.71.192.0/22      # Code 200, UAB
+149.71.200.0/21      # Code 200, UAB
+149.100.184.0/21     # Code 200, UAB
+149.115.128.0/19     # Code 200, UAB
+154.3.144.0/20       # Code 200, UAB
+154.3.160.0/21       # Code 200, UAB
+154.3.176.0/20       # Code 200, UAB
+154.9.8.0/21         # Code 200, UAB
+154.13.72.0/21       # Code 200, UAB
+154.46.4.0/22        # Code 200, UAB
+154.47.76.0/22       # Code 200, UAB
+154.49.196.0/22      # Code 200, UAB
+154.49.200.0/21      # Code 200, UAB
+154.50.136.0/22      # Code 200, UAB
+154.51.140.0/22      # Code 200, UAB
+154.51.168.0/21      # Code 200, UAB
+154.51.176.0/21      # Code 200, UAB
+154.60.68.0/22       # Code 200, UAB
 
 # --- ISP: code200 | prefixes: 1 | IPv4 addrs: 1,024 | IPv6 addrs: 0 ---
 45.148.188.0/22      # code200
@@ -354,9 +555,75 @@
 # --- ISP: Codein Systems | prefixes: 1 | IPv4 addrs: 256 | IPv6 addrs: 0 ---
 104.252.150.0/24     # Codein Systems
 
-# --- ISP: Cogent Communications - IPENG | prefixes: 2 | IPv4 addrs: 2,048 | IPv6 addrs: 0 ---
+# --- ISP: Cogent Communications | prefixes: 23 | IPv4 addrs: 512,000 | IPv6 addrs: 0 ---
+64.4.192.0/19        # Cogent Communications
+64.17.48.0/20        # Cogent Communications
+64.202.0.0/19        # Cogent Communications
+64.254.192.0/19      # Cogent Communications
+66.28.0.0/16         # Cogent Communications
+66.71.224.0/20       # Cogent Communications
+66.102.96.0/19       # Cogent Communications
+66.132.0.0/17        # Cogent Communications
+66.250.0.0/16        # Cogent Communications
+206.183.224.0/19     # Cogent Communications
+207.152.0.0/18       # Cogent Communications
+207.230.0.0/19       # Cogent Communications
+207.234.0.0/17       # Cogent Communications
+207.254.144.0/20     # Cogent Communications
+209.17.96.0/20       # Cogent Communications
+209.41.192.0/18      # Cogent Communications
+209.115.0.0/17       # Cogent Communications
+209.146.0.0/17       # Cogent Communications
+216.28.0.0/15        # Cogent Communications
+216.55.80.0/20       # Cogent Communications
+216.168.64.0/20      # Cogent Communications
+216.177.96.0/19      # Cogent Communications
+216.229.128.0/20     # Cogent Communications
+
+# --- ISP: Cogent Communications - IPENG | prefixes: 20 | IPv4 addrs: 345,088 | IPv6 addrs: 0 ---
+38.76.160.0/19       # Cogent Communications - IPENG
+38.86.248.0/21       # Cogent Communications - IPENG
+38.158.192.0/21      # Cogent Communications - IPENG
+38.189.32.0/19       # Cogent Communications - IPENG
+38.255.128.0/17      # Cogent Communications - IPENG
+130.117.172.0/22     # Cogent Communications - IPENG
+154.3.0.0/21         # Cogent Communications - IPENG
+154.3.8.0/22         # Cogent Communications - IPENG
+154.9.204.0/22       # Cogent Communications - IPENG
+154.13.28.0/22       # Cogent Communications - IPENG
 154.17.76.0/22       # Cogent Communications - IPENG
 154.22.100.0/22      # Cogent Communications - IPENG
+154.45.52.0/22       # Cogent Communications - IPENG
+154.48.156.0/22      # Cogent Communications - IPENG
+154.51.28.0/22       # Cogent Communications - IPENG
+204.157.136.0/21     # Cogent Communications - IPENG
+205.164.64.0/18      # Cogent Communications - IPENG
+206.2.0.0/16         # Cogent Communications - IPENG
+206.236.0.0/15       # Cogent Communications - IPENG
+206.249.0.0/16       # Cogent Communications - IPENG
+
+# --- ISP: Cogent Communications Belgium BVBA | prefixes: 1 | IPv4 addrs: 4,096 | IPv6 addrs: 0 ---
+80.66.128.0/20       # Cogent Communications Belgium BVBA
+
+# --- ISP: Cogent Communications France SAS | prefixes: 2 | IPv4 addrs: 12,288 | IPv6 addrs: 0 ---
+85.237.96.0/19       # Cogent Communications France SAS
+217.118.224.0/20     # Cogent Communications France SAS
+
+# --- ISP: Cogent Communications Group, Inc. | prefixes: 8 | IPv4 addrs: 102,400 | IPv6 addrs: 0 ---
+80.91.64.0/19        # Cogent Communications Group, Inc.
+80.245.32.0/19       # Cogent Communications Group, Inc.
+81.2.128.0/18        # Cogent Communications Group, Inc.
+82.129.0.0/17        # Cogent Communications Group, Inc.
+82.138.64.0/18       # Cogent Communications Group, Inc.
+212.20.128.0/19      # Cogent Communications Group, Inc.
+213.146.160.0/19     # Cogent Communications Group, Inc.
+217.71.112.0/20      # Cogent Communications Group, Inc.
+
+# --- ISP: Cogent Communications Italia S.R.L. | prefixes: 1 | IPv4 addrs: 4,096 | IPv6 addrs: 0 ---
+217.147.128.0/20     # Cogent Communications Italia S.R.L.
+
+# --- ISP: Cogent Communications Netherlands B.V. | prefixes: 1 | IPv4 addrs: 4,096 | IPv6 addrs: 0 ---
+217.149.32.0/20      # Cogent Communications Netherlands B.V.
 
 # --- ISP: coloMX LLC | prefixes: 2 | IPv4 addrs: 1,536 | IPv6 addrs: 0 ---
 103.206.20.0/22      # coloMX LLC
@@ -364,6 +631,9 @@
 
 # --- ISP: ColorSoft IT | prefixes: 1 | IPv4 addrs: 2,048 | IPv6 addrs: 0 ---
 176.107.72.0/21      # ColorSoft IT
+
+# --- ISP: Commercial Properties, LLC | prefixes: 1 | IPv4 addrs: 8,192 | IPv6 addrs: 0 ---
+199.67.96.0/19       # Commercial Properties, LLC
 
 # --- ISP: Consolidated Media LLC | prefixes: 1 | IPv4 addrs: 256 | IPv6 addrs: 0 ---
 198.44.136.0/24      # Consolidated Media LLC
@@ -378,6 +648,9 @@
 194.34.128.0/22      # Core IP Solutions LLC
 194.110.48.0/22      # Core IP Solutions LLC
 
+# --- ISP: COSMONOVA BROADCAST LLC | prefixes: 1 | IPv4 addrs: 1,024 | IPv6 addrs: 0 ---
+154.49.0.0/22        # COSMONOVA BROADCAST LLC
+
 # --- ISP: Creative Tech | prefixes: 4 | IPv4 addrs: 4,096 | IPv6 addrs: 0 ---
 31.133.24.0/22       # Creative Tech
 91.218.252.0/22      # Creative Tech
@@ -387,8 +660,15 @@
 # --- ISP: Creta, Mirco | prefixes: 1 | IPv4 addrs: 256 | IPv6 addrs: 0 ---
 23.234.65.0/24       # Creta, Mirco
 
+# --- ISP: CSI Digital Inc. | prefixes: 2 | IPv4 addrs: 4,096 | IPv6 addrs: 0 ---
+38.129.72.0/21       # CSI Digital Inc.
+38.134.24.0/21       # CSI Digital Inc.
+
 # --- ISP: Customer subnet in Latvia | prefixes: 1 | IPv4 addrs: 256 | IPv6 addrs: 0 ---
 213.165.63.0/24      # Customer subnet in Latvia
+
+# --- ISP: Dallas, Texas | prefixes: 1 | IPv4 addrs: 256 | IPv6 addrs: 0 ---
+102.129.212.0/24     # Dallas, Texas
 
 # --- ISP: Dartmouth Capital LLC | prefixes: 1 | IPv4 addrs: 256 | IPv6 addrs: 0 ---
 23.234.78.0/24       # Dartmouth Capital LLC
@@ -397,40 +677,91 @@
 102.38.199.0/24      # DATACAMP
 102.38.204.0/24      # DATACAMP
 
-# --- ISP: Datacamp Limited | prefixes: 35 | IPv4 addrs: 17,152 | IPv6 addrs: 0 ---
+# --- ISP: Datacamp Limited | prefixes: 153 | IPv4 addrs: 110,848 | IPv6 addrs: 0 ---
+37.19.194.0/24       # Datacamp Limited
 37.19.196.0/22       # Datacamp Limited
-37.19.212.0/23       # Datacamp Limited
-84.17.48.0/23        # Datacamp Limited
+37.19.202.0/23       # Datacamp Limited
+37.19.206.0/23       # Datacamp Limited
+37.19.208.0/24       # Datacamp Limited
+37.19.212.0/22       # Datacamp Limited
+37.19.216.0/24       # Datacamp Limited
+37.19.218.0/24       # Datacamp Limited
+45.134.141.0/24      # Datacamp Limited
+45.134.143.0/24      # Datacamp Limited
+45.136.152.0/23      # Datacamp Limited
+46.151.192.0/22      # Datacamp Limited
+46.151.196.0/24      # Datacamp Limited
+46.151.198.0/23      # Datacamp Limited
+79.127.130.0/24      # Datacamp Limited
+79.127.133.0/24      # Datacamp Limited
+79.127.137.0/24      # Datacamp Limited
+79.127.138.0/24      # Datacamp Limited
+79.127.140.0/24      # Datacamp Limited
+79.127.143.0/24      # Datacamp Limited
+79.127.148.0/24      # Datacamp Limited
+79.127.151.0/24      # Datacamp Limited
+79.127.152.0/24      # Datacamp Limited
+79.127.157.0/24      # Datacamp Limited
+79.127.158.0/23      # Datacamp Limited
+79.127.161.0/24      # Datacamp Limited
+79.127.163.0/24      # Datacamp Limited
+79.127.165.0/24      # Datacamp Limited
+79.127.166.0/23      # Datacamp Limited
+79.127.168.0/24      # Datacamp Limited
+79.127.170.0/23      # Datacamp Limited
+79.127.172.0/23      # Datacamp Limited
+79.127.177.0/24      # Datacamp Limited
+79.127.178.0/23      # Datacamp Limited
+79.127.188.0/24      # Datacamp Limited
+79.127.190.0/23      # Datacamp Limited
+79.127.196.0/22      # Datacamp Limited
+79.127.200.0/21      # Datacamp Limited
+79.127.208.0/20      # Datacamp Limited
+79.127.224.0/19      # Datacamp Limited
+84.17.34.0/23        # Datacamp Limited
+84.17.37.0/24        # Datacamp Limited
+84.17.38.0/23        # Datacamp Limited
+84.17.40.0/23        # Datacamp Limited
+84.17.42.0/24        # Datacamp Limited
+84.17.44.0/22        # Datacamp Limited
+84.17.48.0/22        # Datacamp Limited
+84.17.53.0/24        # Datacamp Limited
+84.17.54.0/23        # Datacamp Limited
+84.17.58.0/23        # Datacamp Limited
+84.17.60.0/23        # Datacamp Limited
+84.17.63.0/24        # Datacamp Limited
+87.249.129.0/24      # Datacamp Limited
+87.249.131.0/24      # Datacamp Limited
+87.249.136.0/23      # Datacamp Limited
 89.222.96.0/23       # Datacamp Limited
-138.199.6.0/23       # Datacamp Limited
-138.199.10.0/23      # Datacamp Limited
-138.199.13.0/24      # Datacamp Limited
-138.199.16.0/24      # Datacamp Limited
-138.199.18.0/23      # Datacamp Limited
-138.199.21.0/24      # Datacamp Limited
-138.199.28.0/22      # Datacamp Limited
-138.199.33.0/24      # Datacamp Limited
-138.199.34.0/23      # Datacamp Limited
-138.199.38.0/23      # Datacamp Limited
-138.199.42.0/23      # Datacamp Limited
-138.199.47.0/24      # Datacamp Limited
-138.199.48.0/23      # Datacamp Limited
-138.199.50.0/24      # Datacamp Limited
-138.199.52.0/24      # Datacamp Limited
-138.199.54.0/23      # Datacamp Limited
-138.199.56.0/24      # Datacamp Limited
-138.199.58.0/23      # Datacamp Limited
-138.199.60.0/22      # Datacamp Limited
-143.244.34.0/24      # Datacamp Limited
-143.244.41.0/24      # Datacamp Limited
-143.244.44.0/24      # Datacamp Limited
-143.244.46.0/23      # Datacamp Limited
-143.244.52.0/22      # Datacamp Limited
+89.222.102.0/24      # Datacamp Limited
+89.222.104.0/21      # Datacamp Limited
+89.222.113.0/24      # Datacamp Limited
+89.222.114.0/23      # Datacamp Limited
+89.222.118.0/23      # Datacamp Limited
+89.222.120.0/22      # Datacamp Limited
+89.222.124.0/23      # Datacamp Limited
+89.222.126.0/24      # Datacamp Limited
+95.173.192.0/24      # Datacamp Limited
+95.173.197.0/24      # Datacamp Limited
+95.173.199.0/24      # Datacamp Limited
+95.173.204.0/22      # Datacamp Limited
+95.173.216.0/24      # Datacamp Limited
+95.173.218.0/24      # Datacamp Limited
+95.173.220.0/24      # Datacamp Limited
+109.61.80.0/20       # Datacamp Limited
+121.127.40.0/21      # Datacamp Limited
+138.199.2.0/23       # Datacamp Limited
+138.199.4.0/22       # Datacamp Limited
+138.199.8.0/21       # Datacamp Limited
+138.199.16.0/20      # Datacamp Limited
+138.199.32.0/19      # Datacamp Limited
+143.244.32.0/19      # Datacamp Limited
 
 # --- ISP: DataCamp Limited | prefixes: 2 | IPv4 addrs: 1,024 | IPv6 addrs: 0 ---
 149.22.92.0/23       # DataCamp Limited
 
-# --- ISP: Datacamp Limited | prefixes: 35 | IPv4 addrs: 17,152 | IPv6 addrs: 0 ---
+# --- ISP: Datacamp Limited | prefixes: 153 | IPv4 addrs: 110,848 | IPv6 addrs: 0 ---
 149.34.242.0/23      # Datacamp Limited
 149.34.254.0/23      # Datacamp Limited
 149.40.54.0/23       # Datacamp Limited
@@ -438,14 +769,104 @@
 # --- ISP: DataCamp Limited | prefixes: 2 | IPv4 addrs: 1,024 | IPv6 addrs: 0 ---
 149.88.106.0/23      # DataCamp Limited
 
-# --- ISP: Datacamp Limited | prefixes: 35 | IPv4 addrs: 17,152 | IPv6 addrs: 0 ---
+# --- ISP: Datacamp Limited | prefixes: 153 | IPv4 addrs: 110,848 | IPv6 addrs: 0 ---
+152.233.6.0/23       # Datacamp Limited
+152.233.10.0/23      # Datacamp Limited
+152.233.12.0/22      # Datacamp Limited
 154.47.18.0/23       # Datacamp Limited
+156.146.33.0/24      # Datacamp Limited
+156.146.34.0/23      # Datacamp Limited
+156.146.36.0/24      # Datacamp Limited
+156.146.38.0/24      # Datacamp Limited
+156.146.40.0/24      # Datacamp Limited
+156.146.42.0/23      # Datacamp Limited
+156.146.44.0/24      # Datacamp Limited
 156.146.46.0/23      # Datacamp Limited
+156.146.49.0/24      # Datacamp Limited
+156.146.52.0/23      # Datacamp Limited
+156.146.56.0/24      # Datacamp Limited
+156.146.58.0/23      # Datacamp Limited
+156.146.61.0/24      # Datacamp Limited
+169.150.200.0/24     # Datacamp Limited
+169.150.202.0/24     # Datacamp Limited
+169.150.206.0/23     # Datacamp Limited
 169.150.210.0/23     # Datacamp Limited
-169.150.226.0/23     # Datacamp Limited
+169.150.213.0/24     # Datacamp Limited
+169.150.214.0/23     # Datacamp Limited
+169.150.216.0/23     # Datacamp Limited
+169.150.219.0/24     # Datacamp Limited
+169.150.220.0/22     # Datacamp Limited
+169.150.224.0/22     # Datacamp Limited
+169.150.228.0/23     # Datacamp Limited
+169.150.230.0/24     # Datacamp Limited
+169.150.234.0/23     # Datacamp Limited
+169.150.236.0/22     # Datacamp Limited
+169.150.240.0/24     # Datacamp Limited
+169.150.242.0/23     # Datacamp Limited
+169.150.244.0/22     # Datacamp Limited
+169.150.249.0/24     # Datacamp Limited
+169.150.250.0/23     # Datacamp Limited
+169.150.252.0/23     # Datacamp Limited
+169.150.255.0/24     # Datacamp Limited
+178.249.208.0/24     # Datacamp Limited
+178.249.210.0/24     # Datacamp Limited
+178.249.213.0/24     # Datacamp Limited
+185.24.8.0/23        # Datacamp Limited
+185.24.10.0/24       # Datacamp Limited
+185.59.223.0/24      # Datacamp Limited
+185.76.8.0/24        # Datacamp Limited
+185.76.11.0/24       # Datacamp Limited
+185.111.108.0/24     # Datacamp Limited
+185.152.64.0/23      # Datacamp Limited
+185.152.67.0/24      # Datacamp Limited
+185.156.44.0/24      # Datacamp Limited
+185.156.47.0/24      # Datacamp Limited
+185.180.13.0/24      # Datacamp Limited
+185.229.188.0/22     # Datacamp Limited
+185.246.210.0/24     # Datacamp Limited
+195.181.162.0/23     # Datacamp Limited
+195.181.164.0/23     # Datacamp Limited
+195.181.168.0/21     # Datacamp Limited
+207.211.208.0/21     # Datacamp Limited
+212.102.32.0/23      # Datacamp Limited
+212.102.34.0/24      # Datacamp Limited
+212.102.36.0/24      # Datacamp Limited
+212.102.38.0/24      # Datacamp Limited
+212.102.40.0/22      # Datacamp Limited
+212.102.44.0/23      # Datacamp Limited
+212.102.46.0/24      # Datacamp Limited
+212.102.48.0/24      # Datacamp Limited
+212.102.50.0/24      # Datacamp Limited
+212.102.52.0/24      # Datacamp Limited
+212.102.56.0/24      # Datacamp Limited
+212.102.58.0/23      # Datacamp Limited
+212.102.60.0/22      # Datacamp Limited
+
+# --- ISP: DataCamp s.r.o. | prefixes: 6 | IPv4 addrs: 5,376 | IPv6 addrs: 0 ---
+89.187.166.0/23      # DataCamp s.r.o.
+89.187.169.0/24      # DataCamp s.r.o.
+89.187.170.0/23      # DataCamp s.r.o.
+89.187.172.0/22      # DataCamp s.r.o.
+89.187.176.0/22      # DataCamp s.r.o.
+89.187.184.0/21      # DataCamp s.r.o.
+
+# --- ISP: Datadelivery s.r.o. | prefixes: 1 | IPv4 addrs: 512 | IPv6 addrs: 0 ---
+185.102.216.0/23     # Datadelivery s.r.o.
+
+# --- ISP: DataPeer s.r.o. | prefixes: 1 | IPv4 addrs: 512 | IPv6 addrs: 0 ---
+185.180.14.0/23      # DataPeer s.r.o.
 
 # --- ISP: DDJ Incorporated | prefixes: 1 | IPv4 addrs: 2,048 | IPv6 addrs: 0 ---
 198.232.0.0/21       # DDJ Incorporated
+
+# --- ISP: Defense Datacenter SAS | prefixes: 1 | IPv4 addrs: 4,096 | IPv6 addrs: 0 ---
+62.73.0.0/20         # Defense Datacenter SAS
+
+# --- ISP: DegNet GmbH | prefixes: 1 | IPv4 addrs: 2,048 | IPv6 addrs: 0 ---
+80.73.120.0/21       # DegNet GmbH
+
+# --- ISP: DeKalb Regional Healthcare System | prefixes: 1 | IPv4 addrs: 8,192 | IPv6 addrs: 0 ---
+206.3.32.0/19        # DeKalb Regional Healthcare System
 
 # --- ISP: Delta One | prefixes: 1 | IPv4 addrs: 2,048 | IPv6 addrs: 0 ---
 205.143.208.0/21     # Delta One
@@ -465,12 +886,28 @@
 # --- ISP: DHOST | prefixes: 1 | IPv4 addrs: 256 | IPv6 addrs: 0 ---
 193.233.126.0/24     # DHOST
 
+# --- ISP: DIAMOND IP BROKERS FZCO | prefixes: 3 | IPv4 addrs: 4,352 | IPv6 addrs: 0 ---
+151.245.47.0/24      # DIAMOND IP BROKERS FZCO
+151.246.16.0/21      # DIAMOND IP BROKERS FZCO
+151.246.32.0/21      # DIAMOND IP BROKERS FZCO
+
 # --- ISP: Digital Core Technology Co., Limited | prefixes: 2 | IPv4 addrs: 6,144 | IPv6 addrs: 0 ---
 156.252.72.0/21      # Digital Core Technology Co., Limited
 156.252.80.0/20      # Digital Core Technology Co., Limited
 
-# --- ISP: Digital Energy Technologies Limited | prefixes: 1 | IPv4 addrs: 256 | IPv6 addrs: 0 ---
+# --- ISP: Digital Energy Technologies | prefixes: 1 | IPv4 addrs: 256 | IPv6 addrs: 0 ---
+102.165.11.0/24      # Digital Energy Technologies
+
+# --- ISP: Digital Energy Technologies Limited | prefixes: 9 | IPv4 addrs: 2,304 | IPv6 addrs: 0 ---
+102.129.231.0/24     # Digital Energy Technologies Limited
+102.129.238.0/24     # Digital Energy Technologies Limited
 102.129.241.0/24     # Digital Energy Technologies Limited
+154.16.1.0/24        # Digital Energy Technologies Limited
+154.16.8.0/24        # Digital Energy Technologies Limited
+154.16.211.0/24      # Digital Energy Technologies Limited
+154.16.227.0/24      # Digital Energy Technologies Limited
+154.16.235.0/24      # Digital Energy Technologies Limited
+154.16.253.0/24      # Digital Energy Technologies Limited
 
 # --- ISP: Digital Virtualisation Solutions London | prefixes: 1 | IPv4 addrs: 1,024 | IPv6 addrs: 0 ---
 5.157.216.0/22       # Digital Virtualisation Solutions London
@@ -483,11 +920,20 @@
 109.166.36.0/23      # Digital Virtualisation Solutions Tokyo
 109.166.38.0/24      # Digital Virtualisation Solutions Tokyo
 
+# --- ISP: DINGLU CO., LIMITED | prefixes: 1 | IPv4 addrs: 512 | IPv6 addrs: 0 ---
+103.175.128.0/23     # DINGLU CO., LIMITED
+
 # --- ISP: DirectBackup LLC | prefixes: 1 | IPv4 addrs: 1,024 | IPv6 addrs: 0 ---
 140.235.0.0/22       # DirectBackup LLC
 
+# --- ISP: DME Hosting LLC | prefixes: 1 | IPv4 addrs: 1,024 | IPv6 addrs: 0 ---
+104.37.56.0/22       # DME Hosting LLC
+
 # --- ISP: DNA Pty Ltd | prefixes: 1 | IPv4 addrs: 256 | IPv6 addrs: 0 ---
 203.20.69.0/24       # DNA Pty Ltd
+
+# --- ISP: Dom Tehniki Ltd | prefixes: 1 | IPv4 addrs: 2,048 | IPv6 addrs: 0 ---
+46.232.72.0/21       # Dom Tehniki Ltd
 
 # --- ISP: DreamIT Solutions Pty Ltd | prefixes: 2 | IPv4 addrs: 768 | IPv6 addrs: 0 ---
 103.146.112.0/23     # DreamIT Solutions Pty Ltd
@@ -504,11 +950,17 @@
 # --- ISP: East-Coast Internet Provider LLC | prefixes: 1 | IPv4 addrs: 1,024 | IPv6 addrs: 0 ---
 188.74.148.0/22      # East-Coast Internet Provider LLC
 
-# --- ISP: EGIHosting | prefixes: 11 | IPv4 addrs: 3,328 | IPv6 addrs: 0 ---
+# --- ISP: Eastern Shore Communications, LLC | prefixes: 1 | IPv4 addrs: 1,024 | IPv6 addrs: 0 ---
+104.254.36.0/22      # Eastern Shore Communications, LLC
+
+# --- ISP: EGIHosting | prefixes: 17 | IPv4 addrs: 5,120 | IPv6 addrs: 0 ---
+104.165.31.0/24      # EGIHosting
 104.252.12.0/24      # EGIHosting
 104.252.18.0/24      # EGIHosting
 104.252.58.0/24      # EGIHosting
 104.252.119.0/24     # EGIHosting
+104.252.130.0/23     # EGIHosting
+104.252.136.0/24     # EGIHosting
 104.252.165.0/24     # EGIHosting
 104.252.166.0/24     # EGIHosting
 104.252.168.0/23     # EGIHosting
@@ -516,6 +968,9 @@
 104.252.202.0/24     # EGIHosting
 104.252.204.0/23     # EGIHosting
 104.253.0.0/24       # EGIHosting
+104.253.106.0/24     # EGIHosting
+104.253.132.0/24     # EGIHosting
+104.253.139.0/24     # EGIHosting
 
 # --- ISP: EightJoy Network LLC | prefixes: 1 | IPv4 addrs: 2,048 | IPv6 addrs: 0 ---
 172.87.24.0/21       # EightJoy Network LLC
@@ -553,13 +1008,16 @@
 # --- ISP: EXTRAVM | prefixes: 1 | IPv4 addrs: 256 | IPv6 addrs: 0 ---
 206.245.167.0/24     # EXTRAVM
 
+# --- ISP: FAIRPOINT COMMUNICATIONS, INC. | prefixes: 1 | IPv4 addrs: 2,048 | IPv6 addrs: 0 ---
+68.237.128.0/21      # FAIRPOINT COMMUNICATIONS, INC.
+
 # --- ISP: Farahoosh Dena PLC | prefixes: 1 | IPv4 addrs: 2,048 | IPv6 addrs: 0 ---
 109.203.176.0/21     # Farahoosh Dena PLC
 
 # --- ISP: Fastmos Co Limited | prefixes: 1 | IPv4 addrs: 2,048 | IPv6 addrs: 0 ---
 154.193.248.0/21     # Fastmos Co Limited
 
-# --- ISP: FASTPLANET LTD | prefixes: 45 | IPv4 addrs: 35,328 | IPv6 addrs: 0 ---
+# --- ISP: FASTPLANET LTD | prefixes: 47 | IPv4 addrs: 37,376 | IPv6 addrs: 0 ---
 45.43.164.0/23       # FASTPLANET LTD
 64.137.10.0/23       # FASTPLANET LTD
 64.137.14.0/23       # FASTPLANET LTD
@@ -588,10 +1046,12 @@
 104.238.25.0/24      # FASTPLANET LTD
 104.239.9.0/24       # FASTPLANET LTD
 104.239.16.0/21      # FASTPLANET LTD
+104.239.24.0/22      # FASTPLANET LTD
 104.239.32.0/21      # FASTPLANET LTD
 104.239.45.0/24      # FASTPLANET LTD
 104.239.46.0/24      # FASTPLANET LTD
 104.239.48.0/24      # FASTPLANET LTD
+104.239.68.0/22      # FASTPLANET LTD
 104.239.90.0/23      # FASTPLANET LTD
 104.239.92.0/23      # FASTPLANET LTD
 104.239.95.0/24      # FASTPLANET LTD
@@ -608,6 +1068,13 @@
 
 # --- ISP: FASTPLANET, LLC. | prefixes: 1 | IPv4 addrs: 1,024 | IPv6 addrs: 0 ---
 65.75.204.0/22       # FASTPLANET, LLC.
+
+# --- ISP: FENIX NETWORKS, S.R.L. | prefixes: 1 | IPv4 addrs: 2,048 | IPv6 addrs: 0 ---
+38.45.40.0/21        # FENIX NETWORKS, S.R.L.
+
+# --- ISP: Fiberpower LLC | prefixes: 2 | IPv4 addrs: 24,576 | IPv6 addrs: 0 ---
+38.15.0.0/19         # Fiberpower LLC
+38.248.192.0/18      # Fiberpower LLC
 
 # --- ISP: FINE GROUP SERVERS SOLUTIONS LLC | prefixes: 29 | IPv4 addrs: 17,664 | IPv6 addrs: 0 ---
 5.181.170.0/24       # FINE GROUP SERVERS SOLUTIONS LLC
@@ -692,11 +1159,17 @@
 156.238.4.0/22       # Future Tech Distribution
 156.238.8.0/22       # Future Tech Distribution
 
+# --- ISP: FX Capital Services Inc. | prefixes: 1 | IPv4 addrs: 256 | IPv6 addrs: 0 ---
+103.111.33.0/24      # FX Capital Services Inc.
+
 # --- ISP: GCS SER-NET | prefixes: 1 | IPv4 addrs: 256 | IPv6 addrs: 0 ---
 88.151.192.0/24      # GCS SER-NET
 
 # --- ISP: Germany, Frankfurt | prefixes: 1 | IPv4 addrs: 256 | IPv6 addrs: 0 ---
 193.43.249.0/24      # Germany, Frankfurt
+
+# --- ISP: GIG Telecom, Inc. | prefixes: 1 | IPv4 addrs: 4,096 | IPv6 addrs: 0 ---
+38.27.16.0/20        # GIG Telecom, Inc.
 
 # --- ISP: GIR SER-NET | prefixes: 1 | IPv4 addrs: 256 | IPv6 addrs: 0 ---
 193.32.176.0/24      # GIR SER-NET
@@ -795,6 +1268,9 @@
 141.98.234.0/24      # GLOBAL INTERNET SOLUTIONS LLC
 185.247.184.0/24     # GLOBAL INTERNET SOLUTIONS LLC
 
+# --- ISP: Goald Co., Ltd. | prefixes: 1 | IPv4 addrs: 4,096 | IPv6 addrs: 0 ---
+38.97.144.0/20       # Goald Co., Ltd.
+
 # --- ISP: GoHosting | prefixes: 2 | IPv4 addrs: 512 | IPv6 addrs: 0 ---
 103.246.250.0/24     # GoHosting
 203.28.238.0/24      # GoHosting
@@ -812,6 +1288,9 @@
 
 # --- ISP: GOVIRAL360 DIGITAL MARKETING PRIVATE LIMITED | prefixes: 1 | IPv4 addrs: 512 | IPv6 addrs: 0 ---
 103.173.82.0/23      # GOVIRAL360 DIGITAL MARKETING PRIVATE LIMITED
+
+# --- ISP: Greenfield Communications | prefixes: 1 | IPv4 addrs: 2,048 | IPv6 addrs: 0 ---
+38.103.232.0/21      # Greenfield Communications
 
 # --- ISP: GTT - EMEA Ltd. | prefixes: 11 | IPv4 addrs: 10,496 | IPv6 addrs: 0 ---
 79.121.132.0/22      # GTT - EMEA Ltd.
@@ -845,6 +1324,9 @@
 91.239.0.0/22        # GVM Sistem 2003 SRL
 91.240.156.0/22      # GVM Sistem 2003 SRL
 
+# --- ISP: GZ REMITTANCE (CHINA) INDUSTRY LIMITED | prefixes: 1 | IPv4 addrs: 256 | IPv6 addrs: 0 ---
+103.165.16.0/24      # GZ REMITTANCE (CHINA) INDUSTRY LIMITED
+
 # --- ISP: GZ Systems Limited China Operations | prefixes: 1 | IPv4 addrs: 256 | IPv6 addrs: 0 ---
 103.46.142.0/24      # GZ Systems Limited China Operations
 
@@ -861,12 +1343,22 @@
 # --- ISP: Hertza LLC ZeroBounce | prefixes: 1 | IPv4 addrs: 8,192 | IPv6 addrs: 0 ---
 154.9.96.0/19        # Hertza LLC ZeroBounce
 
+# --- ISP: High Proxies / HPRO Group Limited | prefixes: 1 | IPv4 addrs: 1,024 | IPv6 addrs: 0 ---
+154.3.216.0/22       # High Proxies / HPRO Group Limited
+
 # --- ISP: HJT Consortium INC | prefixes: 2 | IPv4 addrs: 512 | IPv6 addrs: 0 ---
 23.141.252.0/24      # HJT Consortium INC
 207.174.59.0/24      # HJT Consortium INC
 
 # --- ISP: Hong Kong | prefixes: 1 | IPv4 addrs: 512 | IPv6 addrs: 0 ---
 109.238.194.0/23     # Hong Kong
+
+# --- ISP: HONG KONG BRIDGE INFO-TECH LIMITED | prefixes: 1 | IPv4 addrs: 2,048 | IPv6 addrs: 0 ---
+38.92.216.0/21       # HONG KONG BRIDGE INFO-TECH LIMITED
+
+# --- ISP: Hop Bilisim Teknolojileri Anonim Sirketi | prefixes: 2 | IPv4 addrs: 2,048 | IPv6 addrs: 0 ---
+139.28.32.0/22       # Hop Bilisim Teknolojileri Anonim Sirketi
+141.98.48.0/22       # Hop Bilisim Teknolojileri Anonim Sirketi
 
 # --- ISP: HOST TELECOM LTD | prefixes: 2 | IPv4 addrs: 512 | IPv6 addrs: 0 ---
 5.253.59.0/24        # HOST TELECOM LTD
@@ -926,6 +1418,67 @@
 
 # --- ISP: Hostaly LLC | prefixes: 1 | IPv4 addrs: 1,024 | IPv6 addrs: 0 ---
 64.49.36.0/22        # Hostaly LLC
+
+# --- ISP: Hosting Services Inc | prefixes: 4 | IPv4 addrs: 6,144 | IPv6 addrs: 0 ---
+5.63.144.0/21        # Hosting Services Inc
+37.130.224.0/21      # Hosting Services Inc
+185.2.136.0/22       # Hosting Services Inc
+185.225.208.0/22     # Hosting Services Inc
+
+# --- ISP: Hosting Services, Inc. | prefixes: 53 | IPv4 addrs: 52,480 | IPv6 addrs: 0 ---
+50.115.114.0/23      # Hosting Services, Inc.
+50.115.116.0/22      # Hosting Services, Inc.
+50.115.120.0/21      # Hosting Services, Inc.
+67.213.208.0/23      # Hosting Services, Inc.
+67.213.214.0/23      # Hosting Services, Inc.
+67.213.220.0/22      # Hosting Services, Inc.
+69.4.228.0/23        # Hosting Services, Inc.
+69.4.238.0/23        # Hosting Services, Inc.
+98.158.180.0/23      # Hosting Services, Inc.
+107.182.224.0/20     # Hosting Services, Inc.
+173.244.194.0/23     # Hosting Services, Inc.
+173.244.198.0/23     # Hosting Services, Inc.
+173.244.200.0/22     # Hosting Services, Inc.
+173.244.206.0/24     # Hosting Services, Inc.
+173.244.208.0/22     # Hosting Services, Inc.
+173.244.212.0/23     # Hosting Services, Inc.
+173.244.214.0/24     # Hosting Services, Inc.
+173.244.216.0/21     # Hosting Services, Inc.
+173.255.128.0/22     # Hosting Services, Inc.
+173.255.143.0/24     # Hosting Services, Inc.
+174.127.64.0/23      # Hosting Services, Inc.
+174.127.68.0/23      # Hosting Services, Inc.
+174.127.70.0/24      # Hosting Services, Inc.
+174.127.75.0/24      # Hosting Services, Inc.
+174.127.76.0/23      # Hosting Services, Inc.
+174.127.79.0/24      # Hosting Services, Inc.
+174.127.80.0/22      # Hosting Services, Inc.
+174.127.84.0/24      # Hosting Services, Inc.
+174.127.86.0/23      # Hosting Services, Inc.
+174.127.88.0/24      # Hosting Services, Inc.
+174.127.90.0/23      # Hosting Services, Inc.
+174.127.98.0/24      # Hosting Services, Inc.
+174.127.104.0/21     # Hosting Services, Inc.
+174.127.112.0/21     # Hosting Services, Inc.
+174.127.120.0/24     # Hosting Services, Inc.
+174.127.122.0/23     # Hosting Services, Inc.
+174.127.125.0/24     # Hosting Services, Inc.
+198.105.208.0/21     # Hosting Services, Inc.
+198.105.216.0/22     # Hosting Services, Inc.
+199.189.104.0/21     # Hosting Services, Inc.
+199.195.194.0/23     # Hosting Services, Inc.
+199.195.196.0/22     # Hosting Services, Inc.
+206.190.128.0/20     # Hosting Services, Inc.
+206.190.144.0/21     # Hosting Services, Inc.
+206.190.152.0/23     # Hosting Services, Inc.
+206.217.192.0/22     # Hosting Services, Inc.
+206.217.200.0/21     # Hosting Services, Inc.
+206.217.216.0/23     # Hosting Services, Inc.
+209.95.32.0/20       # Hosting Services, Inc.
+209.95.48.0/22       # Hosting Services, Inc.
+209.95.54.0/23       # Hosting Services, Inc.
+209.95.58.0/23       # Hosting Services, Inc.
+216.119.148.0/23     # Hosting Services, Inc.
 
 # --- ISP: HOSTROYALE BE | prefixes: 10 | IPv4 addrs: 9,216 | IPv6 addrs: 0 ---
 154.202.70.0/23      # HOSTROYALE BE
@@ -1162,14 +1715,45 @@
 194.48.164.0/22      # HostRoyale Technologies Pvt Ltd
 202.37.74.0/24       # HostRoyale Technologies Pvt Ltd
 
+# --- ISP: Hostuj to s.r.o. | prefixes: 1 | IPv4 addrs: 256 | IPv6 addrs: 0 ---
+185.24.11.0/24       # Hostuj to s.r.o.
+
+# --- ISP: Hotsplots GmbH | prefixes: 1 | IPv4 addrs: 256 | IPv6 addrs: 0 ---
+185.238.216.0/24     # Hotsplots GmbH
+
 # --- ISP: Hu Spark | prefixes: 1 | IPv4 addrs: 256 | IPv6 addrs: 0 ---
 23.234.92.0/24       # Hu Spark
 
 # --- ISP: Huize Telecom | prefixes: 1 | IPv4 addrs: 256 | IPv6 addrs: 0 ---
 102.129.173.0/24     # Huize Telecom
 
+# --- ISP: HypeStatus Inc | prefixes: 6 | IPv4 addrs: 14,336 | IPv6 addrs: 0 ---
+154.88.44.0/22       # HypeStatus Inc
+154.88.48.0/22       # HypeStatus Inc
+154.88.60.0/22       # HypeStatus Inc
+154.194.216.0/21     # HypeStatus Inc
+154.194.244.0/22     # HypeStatus Inc
+175.29.64.0/19       # HypeStatus Inc
+
+# --- ISP: HYPESTATUS INC. | prefixes: 2 | IPv4 addrs: 4,096 | IPv6 addrs: 0 ---
+38.27.8.0/21         # HYPESTATUS INC.
+38.240.136.0/21      # HYPESTATUS INC.
+
+# --- ISP: IAAK Technologies Inc. | prefixes: 1 | IPv4 addrs: 8,192 | IPv6 addrs: 0 ---
+192.157.96.0/19      # IAAK Technologies Inc.
+
+# --- ISP: ICUK Computing Services Limited | prefixes: 2 | IPv4 addrs: 1,536 | IPv6 addrs: 0 ---
+80.209.188.0/23      # ICUK Computing Services Limited
+185.35.148.0/22      # ICUK Computing Services Limited
+
+# --- ISP: Illinois Criminal Justice Information Authority | prefixes: 1 | IPv4 addrs: 65,536 | IPv6 addrs: 0 ---
+167.141.0.0/16       # Illinois Criminal Justice Information Authority
+
 # --- ISP: Im2china Company Ltd | prefixes: 1 | IPv4 addrs: 256 | IPv6 addrs: 0 ---
 104.252.159.0/24     # Im2china Company Ltd
+
+# --- ISP: Imad Telecommunication | prefixes: 1 | IPv4 addrs: 8,192 | IPv6 addrs: 0 ---
+38.18.160.0/19       # Imad Telecommunication
 
 # --- ISP: Immortal Games | prefixes: 2 | IPv4 addrs: 512 | IPv6 addrs: 0 ---
 23.234.67.0/24       # Immortal Games
@@ -1184,6 +1768,9 @@
 198.44.131.0/24      # Insight Investments LLC
 198.44.133.0/24      # Insight Investments LLC
 
+# --- ISP: Inter Carrier Ltd | prefixes: 1 | IPv4 addrs: 2,048 | IPv6 addrs: 0 ---
+82.129.16.0/21       # Inter Carrier Ltd
+
 # --- ISP: Interface Services LLC | prefixes: 2 | IPv4 addrs: 768 | IPv6 addrs: 0 ---
 141.98.68.0/23       # Interface Services LLC
 141.98.71.0/24       # Interface Services LLC
@@ -1191,6 +1778,9 @@
 # --- ISP: InterLIR GmbH | prefixes: 2 | IPv4 addrs: 512 | IPv6 addrs: 0 ---
 23.230.223.0/24      # InterLIR GmbH
 142.111.168.0/24     # InterLIR GmbH
+
+# --- ISP: International Science and Technology, Inc. | prefixes: 1 | IPv4 addrs: 2,048 | IPv6 addrs: 0 ---
+199.127.160.0/21     # International Science and Technology, Inc.
 
 # --- ISP: Internet Security - US LA | prefixes: 3 | IPv4 addrs: 768 | IPv6 addrs: 0 ---
 104.250.181.0/24     # Internet Security - US LA
@@ -1210,7 +1800,7 @@
 # --- ISP: Internet Utilities Africa (PTY) LTD | prefixes: 1 | IPv4 addrs: 256 | IPv6 addrs: 0 ---
 102.129.154.0/24     # Internet Utilities Africa (PTY) LTD
 
-# --- ISP: Internet Utilities Europe and Asia Limited | prefixes: 10 | IPv4 addrs: 15,872 | IPv6 addrs: 0 ---
+# --- ISP: Internet Utilities Europe and Asia Limited | prefixes: 12 | IPv4 addrs: 17,920 | IPv6 addrs: 0 ---
 92.112.100.0/22      # Internet Utilities Europe and Asia Limited
 92.112.120.0/22      # Internet Utilities Europe and Asia Limited
 93.88.144.0/21       # Internet Utilities Europe and Asia Limited
@@ -1218,11 +1808,13 @@
 140.150.128.0/20     # Internet Utilities Europe and Asia Limited
 140.150.144.0/21     # Internet Utilities Europe and Asia Limited
 140.150.176.0/21     # Internet Utilities Europe and Asia Limited
+140.233.180.0/22     # Internet Utilities Europe and Asia Limited
+143.20.108.0/22      # Internet Utilities Europe and Asia Limited
 178.253.12.0/23      # Internet Utilities Europe and Asia Limited
 185.37.218.0/23      # Internet Utilities Europe and Asia Limited
 191.101.126.0/23     # Internet Utilities Europe and Asia Limited
 
-# --- ISP: Internet Utilities NA LLC | prefixes: 33 | IPv4 addrs: 22,016 | IPv6 addrs: 0 ---
+# --- ISP: Internet Utilities NA LLC | prefixes: 34 | IPv4 addrs: 22,272 | IPv6 addrs: 0 ---
 50.114.192.0/22      # Internet Utilities NA LLC
 50.114.216.0/21      # Internet Utilities NA LLC
 50.114.224.0/20      # Internet Utilities NA LLC
@@ -1252,6 +1844,7 @@
 140.99.242.0/24      # Internet Utilities NA LLC
 140.99.249.0/24      # Internet Utilities NA LLC
 140.99.251.0/24      # Internet Utilities NA LLC
+140.99.253.0/24      # Internet Utilities NA LLC
 157.254.204.0/22     # Internet Utilities NA LLC
 157.254.232.0/22     # Internet Utilities NA LLC
 169.197.184.0/22     # Internet Utilities NA LLC
@@ -1298,6 +1891,11 @@
 # --- ISP: ITC | prefixes: 1 | IPv4 addrs: 2,048 | IPv6 addrs: 0 ---
 207.45.96.0/21       # ITC
 
+# --- ISP: J2 Lab | prefixes: 3 | IPv4 addrs: 6,144 | IPv6 addrs: 0 ---
+38.79.24.0/21        # J2 Lab
+38.86.136.0/21       # J2 Lab
+38.129.184.0/21      # J2 Lab
+
 # --- ISP: James Emerson | prefixes: 1 | IPv4 addrs: 256 | IPv6 addrs: 0 ---
 23.234.81.0/24       # James Emerson
 
@@ -1310,11 +1908,25 @@
 # --- ISP: JOY SERVICES | prefixes: 1 | IPv4 addrs: 256 | IPv6 addrs: 0 ---
 103.108.174.0/24     # JOY SERVICES
 
+# --- ISP: JSC Ukrtelecom | prefixes: 6 | IPv4 addrs: 1,536 | IPv6 addrs: 0 ---
+178.92.5.0/24        # JSC Ukrtelecom
+178.92.14.0/24       # JSC Ukrtelecom
+178.92.20.0/24       # JSC Ukrtelecom
+178.92.54.0/24       # JSC Ukrtelecom
+178.92.56.0/24       # JSC Ukrtelecom
+178.95.226.0/24      # JSC Ukrtelecom
+
 # --- ISP: Jugola INC | prefixes: 1 | IPv4 addrs: 256 | IPv6 addrs: 0 ---
 23.234.116.0/24      # Jugola INC
 
 # --- ISP: Jurgita Jurgaitiene trading as LOCOTORPI | prefixes: 1 | IPv4 addrs: 1,024 | IPv6 addrs: 0 ---
 85.209.76.0/22       # Jurgita Jurgaitiene trading as LOCOTORPI
+
+# --- ISP: KAOPU CLOUD HK LIMITED | prefixes: 1 | IPv4 addrs: 8,192 | IPv6 addrs: 0 ---
+38.186.160.0/19      # KAOPU CLOUD HK LIMITED
+
+# --- ISP: Kean University | prefixes: 1 | IPv4 addrs: 4,096 | IPv6 addrs: 0 ---
+131.125.0.0/20       # Kean University
 
 # --- ISP: keminet.net & iregister.al | prefixes: 2 | IPv4 addrs: 2,048 | IPv6 addrs: 0 ---
 103.111.0.0/22       # keminet.net & iregister.al
@@ -1331,6 +1943,9 @@
 
 # --- ISP: KOREA DATA | prefixes: 1 | IPv4 addrs: 256 | IPv6 addrs: 0 ---
 101.55.23.0/24       # KOREA DATA
+
+# --- ISP: Kramer, Ceilley and Associates | prefixes: 1 | IPv4 addrs: 256 | IPv6 addrs: 0 ---
+162.255.44.0/24      # Kramer, Ceilley and Associates
 
 # --- ISP: Kuroit Limited | prefixes: 1 | IPv4 addrs: 256 | IPv6 addrs: 0 ---
 45.67.86.0/24        # Kuroit Limited
@@ -1367,6 +1982,14 @@
 
 # --- ISP: Lukasz Sobon trading as SC Media Adam i Lukasz Sobon Sp. J. | prefixes: 1 | IPv4 addrs: 1,024 | IPv6 addrs: 0 ---
 188.215.96.0/22      # Lukasz Sobon trading as SC Media Adam i Lukasz Sobon Sp. J.
+
+# --- ISP: Lumina broadband UAB | prefixes: 2 | IPv4 addrs: 512 | IPv6 addrs: 0 ---
+178.93.91.0/24       # Lumina broadband UAB
+178.93.93.0/24       # Lumina broadband UAB
+
+# --- ISP: Lunanode Hosting Inc. | prefixes: 2 | IPv4 addrs: 6,144 | IPv6 addrs: 0 ---
+170.75.160.0/20      # Lunanode Hosting Inc.
+172.81.176.0/21      # Lunanode Hosting Inc.
 
 # --- ISP: M247 Customer | prefixes: 1 | IPv4 addrs: 1,024 | IPv6 addrs: 0 ---
 77.232.196.0/22      # M247 Customer
@@ -1458,6 +2081,9 @@
 # --- ISP: Men Danil Valentinovich | prefixes: 1 | IPv4 addrs: 1,024 | IPv6 addrs: 0 ---
 193.238.192.0/22     # Men Danil Valentinovich
 
+# --- ISP: Merrill Lynch & Co., Inc. | prefixes: 1 | IPv4 addrs: 16,384 | IPv6 addrs: 0 ---
+206.3.64.0/18        # Merrill Lynch & Co., Inc.
+
 # --- ISP: MICFO-US | prefixes: 2 | IPv4 addrs: 768 | IPv6 addrs: 0 ---
 104.243.242.0/23     # MICFO-US
 104.243.244.0/24     # MICFO-US
@@ -1474,14 +2100,17 @@
 # --- ISP: Motive Internet Holdings LLC | prefixes: 1 | IPv4 addrs: 256 | IPv6 addrs: 0 ---
 199.74.192.0/24      # Motive Internet Holdings LLC
 
-# --- ISP: Mullvad VPN AB | prefixes: 1 | IPv4 addrs: 256 | IPv6 addrs: 0 ---
-155.2.191.0/24       # Mullvad VPN AB
+# --- ISP: Mullvad VPN AB | prefixes: 1 | IPv4 addrs: 512 | IPv6 addrs: 0 ---
+155.2.190.0/23       # Mullvad VPN AB
 
 # --- ISP: Mumara | prefixes: 1 | IPv4 addrs: 512 | IPv6 addrs: 0 ---
 167.253.48.0/23      # Mumara
 
 # --- ISP: Mumara 103.175.79.0/24 | prefixes: 1 | IPv4 addrs: 256 | IPv6 addrs: 0 ---
 103.175.79.0/24      # Mumara 103.175.79.0/24
+
+# --- ISP: MURKA GAMES LIMITED | prefixes: 1 | IPv4 addrs: 1,024 | IPv6 addrs: 0 ---
+154.61.88.0/22       # MURKA GAMES LIMITED
 
 # --- ISP: MyridWeb LLC | prefixes: 1 | IPv4 addrs: 1,024 | IPv6 addrs: 0 ---
 199.96.164.0/22      # MyridWeb LLC
@@ -1538,8 +2167,44 @@
 # --- ISP: NetIT Datacamp | prefixes: 1 | IPv4 addrs: 256 | IPv6 addrs: 0 ---
 102.218.103.0/24     # NetIT Datacamp
 
+# --- ISP: NetLab | prefixes: 15 | IPv4 addrs: 56,320 | IPv6 addrs: 0 ---
+38.22.232.0/21       # NetLab
+38.34.0.0/19         # NetLab
+38.58.56.0/21        # NetLab
+38.71.112.0/21       # NetLab
+38.76.144.0/21       # NetLab
+38.92.8.0/21         # NetLab
+38.97.248.0/21       # NetLab
+38.175.208.0/20      # NetLab
+38.244.0.0/18        # NetLab
+38.246.224.0/20      # NetLab
+154.21.192.0/21      # NetLab
+154.21.204.0/22      # NetLab
+154.29.152.0/21      # NetLab
+154.37.208.0/20      # NetLab
+154.44.16.0/21       # NetLab
+
 # --- ISP: NetOne Rus JSC | prefixes: 1 | IPv4 addrs: 1,024 | IPv6 addrs: 0 ---
 185.180.124.0/22     # NetOne Rus JSC
+
+# --- ISP: NETPR-LON-THG | prefixes: 1 | IPv4 addrs: 512 | IPv6 addrs: 0 ---
+216.131.116.0/23     # NETPR-LON-THG
+
+# --- ISP: NetRail, Inc. | prefixes: 4 | IPv4 addrs: 57,344 | IPv6 addrs: 0 ---
+205.215.0.0/18       # NetRail, Inc.
+207.31.64.0/18       # NetRail, Inc.
+207.153.64.0/18      # NetRail, Inc.
+209.44.64.0/19       # NetRail, Inc.
+
+# --- ISP: NetStack Ltd | prefixes: 2 | IPv4 addrs: 512 | IPv6 addrs: 0 ---
+154.16.158.0/24      # NetStack Ltd
+154.16.251.0/24      # NetStack Ltd
+
+# --- ISP: Netutils | prefixes: 1 | IPv4 addrs: 256 | IPv6 addrs: 0 ---
+102.129.242.0/24     # Netutils
+
+# --- ISP: NetUtils | prefixes: 1 | IPv4 addrs: 256 | IPv6 addrs: 0 ---
+154.16.193.0/24      # NetUtils
 
 # --- ISP: Network Real | prefixes: 4 | IPv4 addrs: 10,240 | IPv6 addrs: 0 ---
 5.157.200.0/21       # Network Real
@@ -1554,17 +2219,39 @@
 # --- ISP: NEW-YORK-CUSTOMERS | prefixes: 1 | IPv4 addrs: 256 | IPv6 addrs: 0 ---
 89.19.34.0/24        # NEW-YORK-CUSTOMERS
 
+# --- ISP: NewVisions Communications, Inc. | prefixes: 1 | IPv4 addrs: 4,096 | IPv6 addrs: 0 ---
+38.77.16.0/20        # NewVisions Communications, Inc.
+
 # --- ISP: NexGen Internet Services | prefixes: 1 | IPv4 addrs: 256 | IPv6 addrs: 0 ---
 23.234.76.0/24       # NexGen Internet Services
 
 # --- ISP: Next Limited | prefixes: 1 | IPv4 addrs: 512 | IPv6 addrs: 0 ---
 194.105.158.0/23     # Next Limited
 
+# --- ISP: Nexus Bytes LLC | prefixes: 1 | IPv4 addrs: 1,024 | IPv6 addrs: 0 ---
+139.64.236.0/22      # Nexus Bytes LLC
+
 # --- ISP: nicestreams llc | prefixes: 1 | IPv4 addrs: 256 | IPv6 addrs: 0 ---
 23.234.82.0/24       # nicestreams llc
 
+# --- ISP: NOVA TECHNOLOGY DEVELOPMENT(HONG KONG)LIMITED | prefixes: 1 | IPv4 addrs: 2,048 | IPv6 addrs: 0 ---
+38.71.32.0/21        # NOVA TECHNOLOGY DEVELOPMENT(HONG KONG)LIMITED
+
+# --- ISP: NYC | prefixes: 1 | IPv4 addrs: 512 | IPv6 addrs: 0 ---
+185.7.224.0/23       # NYC
+
 # --- ISP: OAS Technical Company | prefixes: 1 | IPv4 addrs: 256 | IPv6 addrs: 0 ---
 104.253.105.0/24     # OAS Technical Company
+
+# --- ISP: Octopus Web Services Limited | prefixes: 2 | IPv4 addrs: 8,192 | IPv6 addrs: 0 ---
+38.187.192.0/20      # Octopus Web Services Limited
+38.187.224.0/20      # Octopus Web Services Limited
+
+# --- ISP: OPERIAX DIFUSION SL | prefixes: 1 | IPv4 addrs: 1,024 | IPv6 addrs: 0 ---
+154.58.0.0/22        # OPERIAX DIFUSION SL
+
+# --- ISP: Orange Liberia | prefixes: 1 | IPv4 addrs: 1,024 | IPv6 addrs: 0 ---
+154.53.200.0/22      # Orange Liberia
 
 # --- ISP: Orro Pty Ltd | prefixes: 1 | IPv4 addrs: 256 | IPv6 addrs: 0 ---
 115.165.170.0/24     # Orro Pty Ltd
@@ -1575,18 +2262,46 @@
 104.254.59.0/24      # Owned-Networks
 172.97.68.0/24       # Owned-Networks
 
+# --- ISP: Oxon 3 Comuninacion Natural SL | prefixes: 6 | IPv4 addrs: 7,168 | IPv6 addrs: 0 ---
+149.12.216.0/22      # Oxon 3 Comuninacion Natural SL
+154.58.4.0/22        # Oxon 3 Comuninacion Natural SL
+154.58.20.0/22       # Oxon 3 Comuninacion Natural SL
+154.58.28.0/22       # Oxon 3 Comuninacion Natural SL
+154.58.32.0/22       # Oxon 3 Comuninacion Natural SL
+154.58.40.0/21       # Oxon 3 Comuninacion Natural SL
+
+# --- ISP: Pangea Consulting, Inc. | prefixes: 1 | IPv4 addrs: 8,192 | IPv6 addrs: 0 ---
+204.114.64.0/19      # Pangea Consulting, Inc.
+
+# --- ISP: Pappaya Global Limited | prefixes: 2 | IPv4 addrs: 4,096 | IPv6 addrs: 0 ---
+154.46.8.0/21        # Pappaya Global Limited
+154.49.104.0/21      # Pappaya Global Limited
+
 # --- ISP: Paris | prefixes: 1 | IPv4 addrs: 512 | IPv6 addrs: 0 ---
 109.238.196.0/23     # Paris
 
 # --- ISP: Partners Health Plan | prefixes: 1 | IPv4 addrs: 2,048 | IPv6 addrs: 0 ---
 199.241.0.0/21       # Partners Health Plan
 
-# --- ISP: PEG TECH INC | prefixes: 2 | IPv4 addrs: 3,072 | IPv6 addrs: 0 ---
+# --- ISP: PEG TECH INC | prefixes: 3 | IPv4 addrs: 19,456 | IPv6 addrs: 0 ---
+38.63.64.0/18        # PEG TECH INC
 107.148.164.0/22     # PEG TECH INC
 107.148.168.0/21     # PEG TECH INC
 
+# --- ISP: Performance Systems International | prefixes: 1 | IPv4 addrs: 65,536 | IPv6 addrs: 0 ---
+154.9.0.0/16         # Performance Systems International
+
+# --- ISP: Performance Systems International Incorporation | prefixes: 1 | IPv4 addrs: 65,536 | IPv6 addrs: 0 ---
+149.16.0.0/16        # Performance Systems International Incorporation
+
+# --- ISP: Performance Systems International, Incorporated | prefixes: 1 | IPv4 addrs: 65,536 | IPv6 addrs: 0 ---
+143.240.0.0/16       # Performance Systems International, Incorporated
+
 # --- ISP: PhastNet, Inc. | prefixes: 1 | IPv4 addrs: 256 | IPv6 addrs: 0 ---
 198.44.134.0/24      # PhastNet, Inc.
+
+# --- ISP: Pineland Telephone Cooperative | prefixes: 1 | IPv4 addrs: 2,048 | IPv6 addrs: 0 ---
+38.109.0.0/21        # Pineland Telephone Cooperative
 
 # --- ISP: PLAB LTD | prefixes: 1 | IPv4 addrs: 256 | IPv6 addrs: 0 ---
 94.154.127.0/24      # PLAB LTD
@@ -1594,8 +2309,15 @@
 # --- ISP: Posazhennikov Vladimir Vasilevich | prefixes: 1 | IPv4 addrs: 4,096 | IPv6 addrs: 0 ---
 31.204.32.0/20       # Posazhennikov Vladimir Vasilevich
 
+# --- ISP: Powermta-Kudos | prefixes: 1 | IPv4 addrs: 256 | IPv6 addrs: 0 ---
+102.129.202.0/24     # Powermta-Kudos
+
 # --- ISP: PPMAN Amsterdam Infrastructure | prefixes: 1 | IPv4 addrs: 1,024 | IPv6 addrs: 0 ---
 185.249.248.0/22     # PPMAN Amsterdam Infrastructure
+
+# --- ISP: PRCDN Consumer Pool | prefixes: 2 | IPv4 addrs: 768 | IPv6 addrs: 0 ---
+159.242.228.0/24     # PRCDN Consumer Pool
+159.242.232.0/23     # PRCDN Consumer Pool
 
 # --- ISP: Prime Directive, LLC | prefixes: 1 | IPv4 addrs: 1,024 | IPv6 addrs: 0 ---
 173.249.196.0/22     # Prime Directive, LLC
@@ -1605,7 +2327,7 @@
 45.153.232.0/22      # Primestar Enterprise Group, LLC
 212.80.220.0/22      # Primestar Enterprise Group, LLC
 
-# --- ISP: Private Customer | prefixes: 80 | IPv4 addrs: 58,112 | IPv6 addrs: 0 ---
+# --- ISP: Private Customer | prefixes: 283 | IPv4 addrs: 112,384 | IPv6 addrs: 0 ---
 2.58.170.0/24        # Private Customer
 31.58.96.0/22        # Private Customer
 31.58.116.0/22       # Private Customer
@@ -1639,9 +2361,11 @@
 104.128.231.0/24     # Private Customer
 104.234.149.0/24     # Private Customer
 104.234.240.0/24     # Private Customer
+109.106.2.0/24       # Private Customer
 109.111.42.0/23      # Private Customer
 109.176.30.0/24      # Private Customer
 109.176.208.0/24     # Private Customer
+130.185.125.0/24     # Private Customer
 136.0.165.0/24       # Private Customer
 140.99.78.0/24       # Private Customer
 140.99.89.0/24       # Private Customer
@@ -1650,12 +2374,18 @@
 140.99.109.0/24      # Private Customer
 140.99.110.0/23      # Private Customer
 140.99.113.0/24      # Private Customer
+140.99.224.0/22      # Private Customer
 140.99.246.0/23      # Private Customer
 140.233.178.0/23     # Private Customer
 141.11.164.0/24      # Private Customer
 143.14.219.0/24      # Private Customer
+145.223.43.0/24      # Private Customer
+145.223.46.0/24      # Private Customer
+145.223.48.0/23      # Private Customer
+146.103.2.0/23       # Private Customer
 146.103.35.0/24      # Private Customer
 146.103.45.0/24      # Private Customer
+146.103.56.0/24      # Private Customer
 146.247.112.0/23     # Private Customer
 148.135.196.0/23     # Private Customer
 148.135.204.0/23     # Private Customer
@@ -1664,18 +2394,213 @@
 148.135.228.0/22     # Private Customer
 148.135.236.0/22     # Private Customer
 148.135.244.0/22     # Private Customer
+151.240.156.0/24     # Private Customer
+151.240.159.0/24     # Private Customer
+151.240.162.0/24     # Private Customer
+151.240.164.0/24     # Private Customer
+151.240.166.0/24     # Private Customer
+151.240.168.0/24     # Private Customer
+151.240.170.0/24     # Private Customer
+151.240.172.0/24     # Private Customer
+151.240.174.0/24     # Private Customer
+151.240.176.0/24     # Private Customer
+151.240.178.0/24     # Private Customer
+151.240.219.0/24     # Private Customer
+151.240.221.0/24     # Private Customer
+151.240.223.0/24     # Private Customer
+151.240.225.0/24     # Private Customer
+151.241.34.0/24      # Private Customer
+151.241.38.0/24      # Private Customer
+151.241.42.0/24      # Private Customer
+151.241.44.0/24      # Private Customer
+151.241.46.0/24      # Private Customer
+151.241.49.0/24      # Private Customer
+151.241.114.0/24     # Private Customer
+151.241.118.0/24     # Private Customer
+151.241.120.0/23     # Private Customer
+151.241.124.0/24     # Private Customer
+151.241.126.0/24     # Private Customer
 151.242.170.0/24     # Private Customer
 151.242.174.0/23     # Private Customer
 151.242.192.0/23     # Private Customer
+151.244.7.0/24       # Private Customer
+151.244.9.0/24       # Private Customer
+151.244.10.0/24      # Private Customer
+151.244.13.0/24      # Private Customer
+151.244.15.0/24      # Private Customer
+151.244.25.0/24      # Private Customer
+151.244.27.0/24      # Private Customer
+151.244.29.0/24      # Private Customer
+151.244.31.0/24      # Private Customer
+151.244.33.0/24      # Private Customer
+151.244.35.0/24      # Private Customer
+151.244.37.0/24      # Private Customer
+151.244.39.0/24      # Private Customer
+151.244.41.0/24      # Private Customer
+151.244.43.0/24      # Private Customer
+151.244.45.0/24      # Private Customer
+151.244.47.0/24      # Private Customer
+151.244.49.0/24      # Private Customer
+151.244.51.0/24      # Private Customer
+151.244.53.0/24      # Private Customer
+151.244.71.0/24      # Private Customer
+151.244.74.0/24      # Private Customer
+151.244.94.0/24      # Private Customer
+151.244.96.0/24      # Private Customer
+151.244.98.0/24      # Private Customer
+151.244.100.0/24     # Private Customer
+151.244.104.0/24     # Private Customer
+151.244.197.0/24     # Private Customer
+151.244.200.0/24     # Private Customer
+151.244.202.0/24     # Private Customer
+151.245.7.0/24       # Private Customer
+151.245.17.0/24      # Private Customer
+151.245.19.0/24      # Private Customer
+151.245.21.0/24      # Private Customer
+151.245.23.0/24      # Private Customer
+151.245.27.0/24      # Private Customer
+151.245.31.0/24      # Private Customer
+151.245.33.0/24      # Private Customer
+151.245.35.0/24      # Private Customer
+151.245.37.0/24      # Private Customer
+151.245.39.0/24      # Private Customer
+151.245.41.0/24      # Private Customer
+151.245.43.0/24      # Private Customer
+151.245.45.0/24      # Private Customer
+151.245.49.0/24      # Private Customer
+151.245.51.0/24      # Private Customer
+151.245.53.0/24      # Private Customer
+151.245.55.0/24      # Private Customer
+151.245.71.0/24      # Private Customer
+151.245.73.0/24      # Private Customer
+151.245.75.0/24      # Private Customer
+151.245.93.0/24      # Private Customer
+151.245.95.0/24      # Private Customer
+151.245.97.0/24      # Private Customer
+151.245.99.0/24      # Private Customer
+151.245.101.0/24     # Private Customer
+151.245.103.0/24     # Private Customer
+151.245.105.0/24     # Private Customer
+151.245.107.0/24     # Private Customer
+151.245.135.0/24     # Private Customer
+151.245.197.0/24     # Private Customer
+151.245.200.0/24     # Private Customer
+151.245.202.0/24     # Private Customer
+155.117.33.0/24      # Private Customer
+155.117.35.0/24      # Private Customer
+155.117.37.0/24      # Private Customer
+155.117.39.0/24      # Private Customer
 157.254.4.0/22       # Private Customer
 157.254.100.0/22     # Private Customer
 157.254.104.0/21     # Private Customer
 157.254.136.0/22     # Private Customer
 157.254.244.0/22     # Private Customer
 163.5.56.0/24        # Private Customer
+168.199.169.0/24     # Private Customer
+168.199.234.0/23     # Private Customer
+168.199.245.0/24     # Private Customer
 173.211.112.0/22     # Private Customer
+173.244.207.0/24     # Private Customer
 174.140.192.0/22     # Private Customer
 174.140.208.0/22     # Private Customer
+178.92.6.0/23        # Private Customer
+178.92.29.0/24       # Private Customer
+178.92.58.0/24       # Private Customer
+178.92.62.0/24       # Private Customer
+178.92.86.0/24       # Private Customer
+178.92.89.0/24       # Private Customer
+178.92.91.0/24       # Private Customer
+178.92.98.0/24       # Private Customer
+178.92.190.0/24      # Private Customer
+178.92.193.0/24      # Private Customer
+178.92.195.0/24      # Private Customer
+178.92.200.0/24      # Private Customer
+178.92.203.0/24      # Private Customer
+178.92.205.0/24      # Private Customer
+178.92.209.0/24      # Private Customer
+178.92.210.0/24      # Private Customer
+178.92.213.0/24      # Private Customer
+178.92.216.0/24      # Private Customer
+178.92.219.0/24      # Private Customer
+178.92.222.0/24      # Private Customer
+178.92.225.0/24      # Private Customer
+178.92.227.0/24      # Private Customer
+178.92.231.0/24      # Private Customer
+178.92.233.0/24      # Private Customer
+178.92.236.0/24      # Private Customer
+178.92.239.0/24      # Private Customer
+178.92.241.0/24      # Private Customer
+178.92.243.0/24      # Private Customer
+178.92.245.0/24      # Private Customer
+178.92.247.0/24      # Private Customer
+178.92.250.0/24      # Private Customer
+178.93.5.0/24        # Private Customer
+178.93.6.0/24        # Private Customer
+178.93.8.0/24        # Private Customer
+178.93.11.0/24       # Private Customer
+178.93.14.0/24       # Private Customer
+178.93.16.0/24       # Private Customer
+178.93.18.0/24       # Private Customer
+178.93.20.0/24       # Private Customer
+178.93.22.0/24       # Private Customer
+178.93.34.0/24       # Private Customer
+178.93.36.0/24       # Private Customer
+178.93.38.0/24       # Private Customer
+178.93.54.0/24       # Private Customer
+178.93.56.0/24       # Private Customer
+178.93.58.0/24       # Private Customer
+178.93.64.0/24       # Private Customer
+178.93.88.0/24       # Private Customer
+178.93.95.0/24       # Private Customer
+178.93.98.0/24       # Private Customer
+178.93.108.0/24      # Private Customer
+178.93.120.0/24      # Private Customer
+178.93.123.0/24      # Private Customer
+178.93.234.0/24      # Private Customer
+178.93.236.0/24      # Private Customer
+178.93.238.0/24      # Private Customer
+178.93.240.0/24      # Private Customer
+178.93.243.0/24      # Private Customer
+178.93.245.0/24      # Private Customer
+178.93.247.0/24      # Private Customer
+178.93.249.0/24      # Private Customer
+178.93.251.0/24      # Private Customer
+178.93.253.0/24      # Private Customer
+178.93.255.0/24      # Private Customer
+178.94.137.0/24      # Private Customer
+178.94.139.0/24      # Private Customer
+178.94.154.0/24      # Private Customer
+178.94.157.0/24      # Private Customer
+178.94.180.0/24      # Private Customer
+178.94.182.0/24      # Private Customer
+178.94.184.0/24      # Private Customer
+178.94.187.0/24      # Private Customer
+178.94.192.0/24      # Private Customer
+178.94.201.0/24      # Private Customer
+178.94.203.0/24      # Private Customer
+178.94.205.0/24      # Private Customer
+178.94.207.0/24      # Private Customer
+178.94.214.0/24      # Private Customer
+178.94.218.0/24      # Private Customer
+178.94.221.0/24      # Private Customer
+178.95.10.0/24       # Private Customer
+178.95.13.0/24       # Private Customer
+178.95.84.0/24       # Private Customer
+178.95.87.0/24       # Private Customer
+178.95.92.0/24       # Private Customer
+178.95.94.0/24       # Private Customer
+178.95.102.0/24      # Private Customer
+178.95.107.0/24      # Private Customer
+178.95.126.0/24      # Private Customer
+178.95.131.0/24      # Private Customer
+178.95.138.0/24      # Private Customer
+178.95.240.0/24      # Private Customer
+179.61.167.0/24      # Private Customer
+179.61.175.0/24      # Private Customer
+179.61.178.0/23      # Private Customer
+179.61.218.0/24      # Private Customer
+179.61.233.0/24      # Private Customer
+181.214.103.0/24     # Private Customer
 181.215.184.0/23     # Private Customer
 185.130.60.0/24      # Private Customer
 191.96.196.0/24      # Private Customer
@@ -1731,6 +2656,70 @@
 193.38.228.0/22      # PROXY6 LLC
 194.28.192.0/24      # PROXY6 LLC
 
+# --- ISP: PSI Network One | prefixes: 1 | IPv4 addrs: 65,536 | IPv6 addrs: 0 ---
+136.161.0.0/16       # PSI Network One
+
+# --- ISP: PSINet, Inc. | prefixes: 56 | IPv4 addrs: 23,638,016 | IPv6 addrs: 0 ---
+38.0.0.0/8           # PSINet, Inc.
+130.117.0.0/16       # PSINet, Inc.
+148.254.0.0/16       # PSINet, Inc.
+149.2.0.0/16         # PSINet, Inc.
+149.5.0.0/16         # PSINet, Inc.
+149.6.0.0/15         # PSINet, Inc.
+149.11.0.0/16        # PSINet, Inc.
+149.12.0.0/15        # PSINet, Inc.
+149.14.0.0/16        # PSINet, Inc.
+149.22.0.0/16        # PSINet, Inc.
+149.29.0.0/16        # PSINet, Inc.
+149.30.0.0/16        # PSINet, Inc.
+149.34.0.0/15        # PSINet, Inc.
+149.36.0.0/16        # PSINet, Inc.
+149.38.0.0/16        # PSINet, Inc.
+149.40.0.0/16        # PSINet, Inc.
+149.50.0.0/15        # PSINet, Inc.
+149.52.0.0/15        # PSINet, Inc.
+149.66.0.0/15        # PSINet, Inc.
+149.71.0.0/16        # PSINet, Inc.
+149.78.0.0/16        # PSINet, Inc.
+149.85.0.0/16        # PSINet, Inc.
+149.86.0.0/15        # PSINet, Inc.
+149.91.0.0/16        # PSINet, Inc.
+149.92.0.0/14        # PSINet, Inc.
+149.100.0.0/16       # PSINet, Inc.
+149.102.0.0/16       # PSINet, Inc.
+149.104.0.0/16       # PSINet, Inc.
+149.107.0.0/16       # PSINet, Inc.
+149.115.0.0/16       # PSINet, Inc.
+149.123.0.0/16       # PSINet, Inc.
+149.127.0.0/16       # PSINet, Inc.
+154.3.0.0/16         # PSINet, Inc.
+154.7.0.0/16         # PSINet, Inc.
+154.12.44.0/22       # PSINet, Inc.
+154.12.48.0/22       # PSINet, Inc.
+154.22.0.0/15        # PSINet, Inc.
+154.24.0.0/13        # PSINet, Inc.
+154.36.128.0/19      # PSINet, Inc.
+154.40.0.0/13        # PSINet, Inc.
+154.48.0.0/12        # PSINet, Inc.
+154.64.0.0/16        # PSINet, Inc.
+192.77.224.0/21      # PSINet, Inc.
+192.246.0.0/16       # PSINet, Inc.
+198.242.0.0/16       # PSINet, Inc.
+199.29.0.0/16        # PSINet, Inc.
+199.97.0.0/16        # PSINet, Inc.
+199.98.0.0/15        # PSINet, Inc.
+199.100.0.0/16       # PSINet, Inc.
+204.4.0.0/14         # PSINet, Inc.
+204.217.0.0/16       # PSINet, Inc.
+204.240.0.0/14       # PSINet, Inc.
+206.0.0.0/15         # PSINet, Inc.
+206.3.128.0/17       # PSINet, Inc.
+206.4.0.0/14         # PSINet, Inc.
+206.232.0.0/14       # PSINet, Inc.
+
+# --- ISP: PT Multi Teknologi Telematika | prefixes: 1 | IPv4 addrs: 2,048 | IPv6 addrs: 0 ---
+38.246.88.0/21       # PT Multi Teknologi Telematika
+
 # --- ISP: PureVoltage Hosting Inc. | prefixes: 13 | IPv4 addrs: 12,544 | IPv6 addrs: 0 ---
 23.147.0.0/24        # PureVoltage Hosting Inc.
 23.156.136.0/24      # PureVoltage Hosting Inc.
@@ -1754,6 +2743,16 @@
 
 # --- ISP: Quasar LLC | prefixes: 1 | IPv4 addrs: 256 | IPv6 addrs: 0 ---
 89.191.232.0/24      # Quasar LLC
+
+# --- ISP: Rackdog, LLC | prefixes: 3 | IPv4 addrs: 196,608 | IPv6 addrs: 0 ---
+198.67.0.0/16        # Rackdog, LLC
+204.120.0.0/16       # Rackdog, LLC
+
+# --- ISP: RACKDOG, LLC | prefixes: 1 | IPv4 addrs: 8,192 | IPv6 addrs: 0 ---
+205.161.64.0/19      # RACKDOG, LLC
+
+# --- ISP: Rackdog, LLC | prefixes: 3 | IPv4 addrs: 196,608 | IPv6 addrs: 0 ---
+206.160.0.0/16       # Rackdog, LLC
 
 # --- ISP: Ramadah Pty Ltd | prefixes: 1 | IPv4 addrs: 256 | IPv6 addrs: 0 ---
 23.234.118.0/24      # Ramadah Pty Ltd
@@ -1806,6 +2805,9 @@
 # --- ISP: Real Telco Singapore | prefixes: 1 | IPv4 addrs: 4,096 | IPv6 addrs: 0 ---
 77.36.96.0/20        # Real Telco Singapore
 
+# --- ISP: Real Time Cloud Services, LLC | prefixes: 1 | IPv4 addrs: 2,048 | IPv6 addrs: 0 ---
+38.15.184.0/21       # Real Time Cloud Services, LLC
+
 # --- ISP: ReBuild Soft | prefixes: 4 | IPv4 addrs: 6,144 | IPv6 addrs: 0 ---
 5.157.168.0/22       # ReBuild Soft
 5.157.228.0/22       # ReBuild Soft
@@ -1825,6 +2827,9 @@
 # --- ISP: Riven | prefixes: 1 | IPv4 addrs: 256 | IPv6 addrs: 0 ---
 23.159.160.0/24      # Riven
 
+# --- ISP: RiverStreet Networks | prefixes: 1 | IPv4 addrs: 4,096 | IPv6 addrs: 0 ---
+71.19.192.0/20       # RiverStreet Networks
+
 # --- ISP: RM 1607E 16/F HANG PONT COMM,BLDG 31 TONKIN STCHEUNG SHA | prefixes: 1 | IPv4 addrs: 256 | IPv6 addrs: 0 ---
 103.103.246.0/24     # RM 1607E 16/F HANG PONT COMM,BLDG 31 TONKIN STCHEUNG SHA
 
@@ -1841,8 +2846,15 @@
 # --- ISP: Sachin Lari | prefixes: 1 | IPv4 addrs: 256 | IPv6 addrs: 0 ---
 23.234.79.0/24       # Sachin Lari
 
+# --- ISP: SAH BITE LTD | prefixes: 2 | IPv4 addrs: 32,768 | IPv6 addrs: 0 ---
+38.244.64.0/18       # SAH BITE LTD
+154.44.64.0/18       # SAH BITE LTD
+
 # --- ISP: Samba Media | prefixes: 1 | IPv4 addrs: 256 | IPv6 addrs: 0 ---
 104.253.167.0/24     # Samba Media
+
+# --- ISP: SC Media sp. z o.o. sp. k. | prefixes: 1 | IPv4 addrs: 1,024 | IPv6 addrs: 0 ---
+154.21.132.0/22      # SC Media sp. z o.o. sp. k.
 
 # --- ISP: SC TECHNOLOGICAL SRL | prefixes: 1 | IPv4 addrs: 2,048 | IPv6 addrs: 0 ---
 176.118.80.0/21      # SC TECHNOLOGICAL SRL
@@ -1899,9 +2911,15 @@
 # --- ISP: Shock Hosting LLC | prefixes: 1 | IPv4 addrs: 1,024 | IPv6 addrs: 0 ---
 204.11.220.0/22      # Shock Hosting LLC
 
+# --- ISP: SIA BITE Latvija | prefixes: 1 | IPv4 addrs: 4,096 | IPv6 addrs: 0 ---
+91.123.64.0/20       # SIA BITE Latvija
+
 # --- ISP: SIA Singularity Telecom | prefixes: 2 | IPv4 addrs: 3,072 | IPv6 addrs: 0 ---
 82.117.88.0/22       # SIA Singularity Telecom
 92.51.48.0/21        # SIA Singularity Telecom
+
+# --- ISP: SIHI Scandivavia AB | prefixes: 1 | IPv4 addrs: 4,096 | IPv6 addrs: 0 ---
+80.77.96.0/20        # SIHI Scandivavia AB
 
 # --- ISP: Sim, Dennis | prefixes: 1 | IPv4 addrs: 256 | IPv6 addrs: 0 ---
 23.234.115.0/24      # Sim, Dennis
@@ -1909,6 +2927,9 @@
 # --- ISP: Simple IT Tech | prefixes: 2 | IPv4 addrs: 1,536 | IPv6 addrs: 0 ---
 91.219.18.0/23       # Simple IT Tech
 176.96.48.0/22       # Simple IT Tech
+
+# --- ISP: SkillHost | prefixes: 1 | IPv4 addrs: 1,024 | IPv6 addrs: 0 ---
+147.79.24.0/22       # SkillHost
 
 # --- ISP: Skyway Freight Systems, Inc. | prefixes: 1 | IPv4 addrs: 2,048 | IPv6 addrs: 0 ---
 198.190.0.0/21       # Skyway Freight Systems, Inc.
@@ -1941,11 +2962,68 @@
 # --- ISP: SpaceWorks, Inc. | prefixes: 1 | IPv4 addrs: 1,024 | IPv6 addrs: 0 ---
 205.142.32.0/22      # SpaceWorks, Inc.
 
+# --- ISP: SparkTech LTD | prefixes: 1 | IPv4 addrs: 16,384 | IPv6 addrs: 0 ---
+149.119.128.0/18     # SparkTech LTD
+
 # --- ISP: Spectrum Capital Management | prefixes: 1 | IPv4 addrs: 256 | IPv6 addrs: 0 ---
 23.234.88.0/24       # Spectrum Capital Management
 
 # --- ISP: SPEEDYCLOUD | prefixes: 1 | IPv4 addrs: 512 | IPv6 addrs: 0 ---
 23.248.176.0/23      # SPEEDYCLOUD
+
+# --- ISP: Sprint | prefixes: 31 | IPv4 addrs: 8,585,216 | IPv6 addrs: 0 ---
+63.160.0.0/12        # Sprint
+65.160.0.0/13        # Sprint
+65.168.0.0/14        # Sprint
+65.172.0.0/15        # Sprint
+65.174.0.0/16        # Sprint
+66.247.0.0/16        # Sprint
+144.223.0.0/16       # Sprint
+144.224.0.0/16       # Sprint
+144.228.0.0/15       # Sprint
+144.232.0.0/16       # Sprint
+160.81.0.0/16        # Sprint
+198.68.0.0/15        # Sprint
+198.70.0.0/16        # Sprint
+199.0.0.0/14         # Sprint
+204.94.0.0/15        # Sprint
+204.96.0.0/15        # Sprint
+204.117.0.0/16       # Sprint
+204.118.0.0/15       # Sprint
+204.180.0.0/14       # Sprint
+204.212.0.0/14       # Sprint
+204.248.0.0/14       # Sprint
+205.160.0.0/14       # Sprint
+205.240.0.0/13       # Sprint
+206.61.0.0/16        # Sprint
+206.104.0.0/14       # Sprint
+206.158.0.0/15       # Sprint
+206.228.0.0/14       # Sprint
+207.12.0.0/14        # Sprint
+207.40.0.0/14        # Sprint
+208.0.0.0/11         # Sprint
+208.32.0.0/14        # Sprint
+
+# --- ISP: Sprintlink Asia Pacific Region | prefixes: 4 | IPv4 addrs: 32,768 | IPv6 addrs: 0 ---
+120.138.32.0/19      # Sprintlink Asia Pacific Region
+203.98.192.0/19      # Sprintlink Asia Pacific Region
+203.222.32.0/19      # Sprintlink Asia Pacific Region
+203.222.160.0/19     # Sprintlink Asia Pacific Region
+
+# --- ISP: Sprintlink Denmark ApS | prefixes: 1 | IPv4 addrs: 4,096 | IPv6 addrs: 0 ---
+80.77.64.0/20        # Sprintlink Denmark ApS
+
+# --- ISP: Sprintlink Germany GmbH | prefixes: 2 | IPv4 addrs: 8,192 | IPv6 addrs: 0 ---
+217.147.96.0/20      # Sprintlink Germany GmbH
+217.151.240.0/20     # Sprintlink Germany GmbH
+
+# --- ISP: Sprintlink UK Ltd | prefixes: 3 | IPv4 addrs: 24,576 | IPv6 addrs: 0 ---
+82.195.160.0/19      # Sprintlink UK Ltd
+89.191.192.0/19      # Sprintlink UK Ltd
+213.206.128.0/19     # Sprintlink UK Ltd
+
+# --- ISP: SqualoMail d.o.o. | prefixes: 1 | IPv4 addrs: 2,048 | IPv6 addrs: 0 ---
+5.157.72.0/21        # SqualoMail d.o.o.
 
 # --- ISP: SSV IT PROVIDER ONLINE SERVICES LTD | prefixes: 5 | IPv4 addrs: 2,048 | IPv6 addrs: 0 ---
 14.102.226.0/24      # SSV IT PROVIDER ONLINE SERVICES LTD
@@ -1953,6 +3031,10 @@
 96.62.96.0/23        # SSV IT PROVIDER ONLINE SERVICES LTD
 104.219.170.0/23     # SSV IT PROVIDER ONLINE SERVICES LTD
 150.241.200.0/23     # SSV IT PROVIDER ONLINE SERVICES LTD
+
+# --- ISP: STACKS INC | prefixes: 2 | IPv4 addrs: 4,096 | IPv6 addrs: 0 ---
+38.64.104.0/21       # STACKS INC
+38.145.136.0/21      # STACKS INC
 
 # --- ISP: steel-axis LLC | prefixes: 12 | IPv4 addrs: 47,104 | IPv6 addrs: 0 ---
 45.90.60.0/22        # steel-axis LLC
@@ -1976,6 +3058,15 @@
 
 # --- ISP: SUN Network Limited | prefixes: 1 | IPv4 addrs: 8,192 | IPv6 addrs: 0 ---
 58.68.192.0/19       # SUN Network Limited
+
+# --- ISP: SUNUCUHANE Internet Hizmetleri LTD. | prefixes: 1 | IPv4 addrs: 1,024 | IPv6 addrs: 0 ---
+154.9.208.0/22       # SUNUCUHANE Internet Hizmetleri LTD.
+
+# --- ISP: Super Link Communications Co. Ltd | prefixes: 1 | IPv4 addrs: 2,048 | IPv6 addrs: 0 ---
+37.34.88.0/21        # Super Link Communications Co. Ltd
+
+# --- ISP: Support.pl sp. z. o. o. | prefixes: 1 | IPv4 addrs: 1,024 | IPv6 addrs: 0 ---
+185.72.156.0/22      # Support.pl sp. z. o. o.
 
 # --- ISP: Swalox Technologies Private Limited | prefixes: 1 | IPv4 addrs: 512 | IPv6 addrs: 0 ---
 103.175.18.0/23      # Swalox Technologies Private Limited
@@ -2003,6 +3094,15 @@
 93.120.120.0/22      # Tech Gladiator
 188.191.252.0/22     # Tech Gladiator
 
+# --- ISP: Telcan Inc | prefixes: 3 | IPv4 addrs: 18,432 | IPv6 addrs: 0 ---
+38.23.64.0/19        # Telcan Inc
+38.102.104.0/21      # Telcan Inc
+38.240.192.0/19      # Telcan Inc
+
+# --- ISP: Telecom & Internet Service Provider (ISP) | prefixes: 2 | IPv4 addrs: 512 | IPv6 addrs: 0 ---
+115.167.7.0/24       # Telecom & Internet Service Provider (ISP)
+115.167.51.0/24      # Telecom & Internet Service Provider (ISP)
+
 # --- ISP: TenaMax | prefixes: 1 | IPv4 addrs: 256 | IPv6 addrs: 0 ---
 23.234.101.0/24      # TenaMax
 
@@ -2013,6 +3113,10 @@
 45.134.68.0/22       # TerraTransit AG
 45.157.80.0/22       # TerraTransit AG
 45.157.184.0/22      # TerraTransit AG
+
+# --- ISP: The Internet Access Company | prefixes: 2 | IPv4 addrs: 98,304 | IPv6 addrs: 0 ---
+206.119.0.0/16       # The Internet Access Company
+209.61.0.0/17        # The Internet Access Company
 
 # --- ISP: Think Huge New York | prefixes: 3 | IPv4 addrs: 3,072 | IPv6 addrs: 0 ---
 64.43.68.0/22        # Think Huge New York
@@ -2038,8 +3142,22 @@
 # --- ISP: TIGER ROAR TECHNOLOGY PTE LTD | prefixes: 1 | IPv4 addrs: 512 | IPv6 addrs: 0 ---
 156.226.0.0/23       # TIGER ROAR TECHNOLOGY PTE LTD
 
+# --- ISP: TNGNET B.V. | prefixes: 9 | IPv4 addrs: 10,240 | IPv6 addrs: 0 ---
+140.233.160.0/22     # TNGNET B.V.
+149.12.248.0/21      # TNGNET B.V.
+149.36.172.0/22      # TNGNET B.V.
+154.3.72.0/22        # TNGNET B.V.
+154.3.228.0/22       # TNGNET B.V.
+154.12.168.0/22      # TNGNET B.V.
+154.46.132.0/22      # TNGNET B.V.
+154.51.16.0/22       # TNGNET B.V.
+154.51.24.0/22       # TNGNET B.V.
+
 # --- ISP: tokhost servios de internet br ltda | prefixes: 1 | IPv4 addrs: 256 | IPv6 addrs: 0 ---
 23.234.70.0/24       # tokhost servios de internet br ltda
+
+# --- ISP: Total server solutions | prefixes: 1 | IPv4 addrs: 256 | IPv6 addrs: 0 ---
+172.98.69.0/24       # Total server solutions
 
 # --- ISP: Trade Commodity Firm Ltd | prefixes: 1 | IPv4 addrs: 4,096 | IPv6 addrs: 0 ---
 31.134.0.0/20        # Trade Commodity Firm Ltd
@@ -2102,6 +3220,14 @@
 176.117.84.0/22      # truview LLC
 202.81.208.0/21      # truview LLC
 202.81.216.0/22      # truview LLC
+
+# --- ISP: Turkcell Iletisim Hizmetleri A.S | prefixes: 3 | IPv4 addrs: 6,144 | IPv6 addrs: 0 ---
+150.241.136.0/21     # Turkcell Iletisim Hizmetleri A.S
+151.243.176.0/21     # Turkcell Iletisim Hizmetleri A.S
+151.243.192.0/21     # Turkcell Iletisim Hizmetleri A.S
+
+# --- ISP: Turknet Iletisim Hizmetleri A.S | prefixes: 1 | IPv4 addrs: 4,096 | IPv6 addrs: 0 ---
+72.244.64.0/20       # Turknet Iletisim Hizmetleri A.S
 
 # --- ISP: TZULO | prefixes: 2 | IPv4 addrs: 512 | IPv6 addrs: 0 ---
 173.249.192.0/24     # TZULO
@@ -2171,6 +3297,36 @@
 # --- ISP: UK ISP LTD London | prefixes: 1 | IPv4 addrs: 2,048 | IPv6 addrs: 0 ---
 188.74.224.0/21      # UK ISP LTD London
 
+# --- ISP: UK-2 Limited | prefixes: 15 | IPv4 addrs: 39,680 | IPv6 addrs: 0 ---
+31.24.228.0/22       # UK-2 Limited
+46.23.64.0/21        # UK-2 Limited
+77.92.64.0/21        # UK-2 Limited
+77.92.80.0/20        # UK-2 Limited
+82.163.72.0/23       # UK-2 Limited
+83.170.64.0/18       # UK-2 Limited
+88.202.176.0/23      # UK-2 Limited
+88.202.180.0/22      # UK-2 Limited
+88.202.186.0/23      # UK-2 Limited
+88.202.188.0/22      # UK-2 Limited
+88.202.224.0/21      # UK-2 Limited
+91.109.240.0/21      # UK-2 Limited
+109.123.112.0/20     # UK-2 Limited
+176.67.160.0/21      # UK-2 Limited
+176.67.169.0/24      # UK-2 Limited
+
+# --- ISP: UK2 Infrastructure | prefixes: 7 | IPv4 addrs: 17,152 | IPv6 addrs: 0 ---
+37.123.114.0/23      # UK2 Infrastructure
+77.92.72.0/21        # UK2 Infrastructure
+82.163.76.0/22       # UK2 Infrastructure
+109.123.64.0/19      # UK2 Infrastructure
+109.123.96.0/20      # UK2 Infrastructure
+176.67.171.0/24      # UK2 Infrastructure
+176.67.172.0/22      # UK2 Infrastructure
+
+# --- ISP: UK2, VPS.net | prefixes: 2 | IPv4 addrs: 1,536 | IPv6 addrs: 0 ---
+46.23.72.0/22        # UK2, VPS.net
+46.23.78.0/23        # UK2, VPS.net
+
 # --- ISP: ULTRA | prefixes: 1 | IPv4 addrs: 1,024 | IPv6 addrs: 0 ---
 168.91.112.0/22      # ULTRA
 
@@ -2183,6 +3339,13 @@
 
 # --- ISP: Unacom | prefixes: 1 | IPv4 addrs: 256 | IPv6 addrs: 0 ---
 23.234.87.0/24       # Unacom
+
+# --- ISP: Union River Telephone Company | prefixes: 1 | IPv4 addrs: 2,048 | IPv6 addrs: 0 ---
+38.97.160.0/21       # Union River Telephone Company
+
+# --- ISP: UniReso Telecom | prefixes: 2 | IPv4 addrs: 4,096 | IPv6 addrs: 0 ---
+38.80.112.0/21       # UniReso Telecom
+38.128.240.0/21      # UniReso Telecom
 
 # --- ISP: Urban GIS, Inc | prefixes: 1 | IPv4 addrs: 256 | IPv6 addrs: 0 ---
 23.234.93.0/24       # Urban GIS, Inc
@@ -2208,6 +3371,16 @@
 
 # --- ISP: Valid Network Madrid | prefixes: 1 | IPv4 addrs: 1,024 | IPv6 addrs: 0 ---
 93.120.76.0/22       # Valid Network Madrid
+
+# --- ISP: Virgin Media Limited | prefixes: 1 | IPv4 addrs: 1,024 | IPv6 addrs: 0 ---
+104.239.120.0/22     # Virgin Media Limited
+
+# --- ISP: Virtual Internet (UK) Limited | prefixes: 2 | IPv4 addrs: 3,072 | IPv6 addrs: 0 ---
+46.28.48.0/21        # Virtual Internet (UK) Limited
+185.80.220.0/22      # Virtual Internet (UK) Limited
+
+# --- ISP: Virtual Internet Ltd | prefixes: 1 | IPv4 addrs: 1,024 | IPv6 addrs: 0 ---
+212.78.88.0/22       # Virtual Internet Ltd
 
 # --- ISP: VitalKey | prefixes: 1 | IPv4 addrs: 1,024 | IPv6 addrs: 0 ---
 104.245.240.0/22     # VitalKey
@@ -2282,10 +3455,18 @@
 # --- ISP: VpsQuan L.L.C. | prefixes: 1 | IPv4 addrs: 4,096 | IPv6 addrs: 0 ---
 107.151.208.0/20     # VpsQuan L.L.C.
 
+# --- ISP: W.I.C.E. | prefixes: 1 | IPv4 addrs: 1,024 | IPv6 addrs: 0 ---
+154.52.40.0/22       # W.I.C.E.
+
 # --- ISP: wang haining | prefixes: 3 | IPv4 addrs: 768 | IPv6 addrs: 0 ---
 23.234.83.0/24       # wang haining
 23.234.102.0/24      # wang haining
 23.234.112.0/24      # wang haining
+
+# --- ISP: Web Three Limited | prefixes: 3 | IPv4 addrs: 22,528 | IPv6 addrs: 0 ---
+38.213.0.0/20        # Web Three Limited
+38.213.64.0/21       # Web Three Limited
+38.213.192.0/18      # Web Three Limited
 
 # --- ISP: Webhosting Holdings LLC | prefixes: 2 | IPv4 addrs: 2,048 | IPv6 addrs: 0 ---
 23.129.248.0/22      # Webhosting Holdings LLC
@@ -2297,6 +3478,28 @@
 
 # --- ISP: wenIDC | prefixes: 1 | IPv4 addrs: 256 | IPv6 addrs: 0 ---
 23.234.111.0/24      # wenIDC
+
+# --- ISP: WestHost, Inc. | prefixes: 11 | IPv4 addrs: 31,232 | IPv6 addrs: 0 ---
+67.212.228.0/22      # WestHost, Inc.
+67.212.232.0/21      # WestHost, Inc.
+68.169.32.0/20       # WestHost, Inc.
+69.36.160.0/20       # WestHost, Inc.
+69.36.184.0/21       # WestHost, Inc.
+206.130.96.0/20      # WestHost, Inc.
+206.130.112.0/21     # WestHost, Inc.
+208.131.128.0/19     # WestHost, Inc.
+209.236.64.0/22      # WestHost, Inc.
+209.236.70.0/23      # WestHost, Inc.
+209.236.72.0/21      # WestHost, Inc.
+
+# --- ISP: WestNet Link, Inc | prefixes: 1 | IPv4 addrs: 2,048 | IPv6 addrs: 0 ---
+162.244.112.0/21     # WestNet Link, Inc
+
+# --- ISP: Whittier College | prefixes: 1 | IPv4 addrs: 2,048 | IPv6 addrs: 0 ---
+192.160.216.0/21     # Whittier College
+
+# --- ISP: Wi-Fiber of Colorado, LLC | prefixes: 1 | IPv4 addrs: 2,048 | IPv6 addrs: 0 ---
+38.97.208.0/21       # Wi-Fiber of Colorado, LLC
 
 # --- ISP: WIFIBER IKE | prefixes: 2 | IPv4 addrs: 1,536 | IPv6 addrs: 0 ---
 154.13.140.0/22      # WIFIBER IKE
@@ -2311,11 +3514,28 @@
 # --- ISP: WIFIBERIKE | prefixes: 1 | IPv4 addrs: 512 | IPv6 addrs: 0 ---
 154.37.122.0/23      # WIFIBERIKE
 
+# --- ISP: WiLogic, Inc. | prefixes: 1 | IPv4 addrs: 4,096 | IPv6 addrs: 0 ---
+38.96.32.0/20        # WiLogic, Inc.
+
 # --- ISP: Wirels Connect (PTY) Ltd | prefixes: 1 | IPv4 addrs: 2,048 | IPv6 addrs: 0 ---
 161.123.56.0/21      # Wirels Connect (PTY) Ltd
 
 # --- ISP: Wise Business | prefixes: 1 | IPv4 addrs: 1,024 | IPv6 addrs: 0 ---
 77.36.4.0/22         # Wise Business
+
+# --- ISP: Wiser Solutions Inc. | prefixes: 2 | IPv4 addrs: 3,072 | IPv6 addrs: 0 ---
+154.7.152.0/21       # Wiser Solutions Inc.
+154.21.172.0/22      # Wiser Solutions Inc.
+
+# --- ISP: WISPIRE LIMITED | prefixes: 1 | IPv4 addrs: 1,024 | IPv6 addrs: 0 ---
+154.49.76.0/22       # WISPIRE LIMITED
+
+# --- ISP: Wisprenn | prefixes: 2 | IPv4 addrs: 6,144 | IPv6 addrs: 0 ---
+38.75.48.0/20        # Wisprenn
+38.132.64.0/21       # Wisprenn
+
+# --- ISP: Workflow en Information Control Engineering BV | prefixes: 1 | IPv4 addrs: 2,048 | IPv6 addrs: 0 ---
+46.151.96.0/21       # Workflow en Information Control Engineering BV
 
 # --- ISP: WS Telecom Inc | prefixes: 1 | IPv4 addrs: 1,024 | IPv6 addrs: 0 ---
 158.46.132.0/22      # WS Telecom Inc
@@ -2325,6 +3545,10 @@
 
 # --- ISP: xhostserver | prefixes: 1 | IPv4 addrs: 256 | IPv6 addrs: 0 ---
 104.252.21.0/24      # xhostserver
+
+# --- ISP: Xi'an Fuqiduo Network Technology Co., Ltd. | prefixes: 2 | IPv4 addrs: 3,072 | IPv6 addrs: 0 ---
+38.246.104.0/21      # Xi'an Fuqiduo Network Technology Co., Ltd.
+154.51.72.0/22       # Xi'an Fuqiduo Network Technology Co., Ltd.
 
 # --- ISP: XNNET LIMITED | prefixes: 1 | IPv4 addrs: 512 | IPv6 addrs: 0 ---
 45.81.130.0/23       # XNNET LIMITED
@@ -2661,3 +3885,12 @@
 129.227.0.0/20       # Zenlayer Singapore network
 129.227.32.0/20      # Zenlayer Singapore network
 129.227.64.0/19      # Zenlayer Singapore network
+
+# --- ISP: Zenu Software LLC | prefixes: 1 | IPv4 addrs: 256 | IPv6 addrs: 0 ---
+154.16.212.0/24      # Zenu Software LLC
+
+# --- ISP: ZGX PTY LTD | prefixes: 1 | IPv4 addrs: 2,048 | IPv6 addrs: 0 ---
+38.17.32.0/21        # ZGX PTY LTD
+
+# --- ISP: ZMMOBI PTE.LTD | prefixes: 1 | IPv4 addrs: 1,024 | IPv6 addrs: 0 ---
+154.45.56.0/22       # ZMMOBI PTE.LTD
