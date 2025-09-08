@@ -1,6 +1,6 @@
 # ===== Aggregated and Sorted Prefixes =====
 # Overall unique blocked IPs -> IPv4: 132,955,648 ; IPv6: 0
-# Total output prefixes: 2942
+# Total output prefixes: 2954
 #
 38.211.80.0/20  
 81.92.200.0/22  
@@ -10,6 +10,22 @@
 
 # --- ISP: 1iT Pty Ltd | prefixes: 1 | IPv4 addrs: 256 | IPv6 addrs: 0 ---
 103.138.86.0/24      # 1iT Pty Ltd
+
+# --- ISP: 20090123 Approved IP assignment | prefixes: 2 | IPv4 addrs: 2,048 | IPv6 addrs: 0 ---
+95.135.96.0/22       # 20090123 Approved IP assignment
+95.135.120.0/22      # 20090123 Approved IP assignment
+
+# --- ISP: 2011011865 Approved IP assignment | prefixes: 10 | IPv4 addrs: 10,240 | IPv6 addrs: 0 ---
+95.134.8.0/22        # 2011011865 Approved IP assignment
+95.134.24.0/22       # 2011011865 Approved IP assignment
+95.134.36.0/22       # 2011011865 Approved IP assignment
+95.134.44.0/22       # 2011011865 Approved IP assignment
+95.134.56.0/22       # 2011011865 Approved IP assignment
+95.134.72.0/22       # 2011011865 Approved IP assignment
+95.134.144.0/22      # 2011011865 Approved IP assignment
+95.134.188.0/22      # 2011011865 Approved IP assignment
+95.134.208.0/22      # 2011011865 Approved IP assignment
+95.134.216.0/22      # 2011011865 Approved IP assignment
 
 # --- ISP: 365 Group LLC | prefixes: 1 | IPv4 addrs: 256 | IPv6 addrs: 0 ---
 172.93.184.0/24      # 365 Group LLC
