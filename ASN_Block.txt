@@ -1,6 +1,6 @@
 # ===== Aggregated and Sorted Prefixes =====
-# Overall unique blocked IPs -> IPv4: 37,857,536 ; IPv6: 0
-# Total output prefixes: 2623
+# Overall unique blocked IPs -> IPv4: 37,862,912 ; IPv6: 0
+# Total output prefixes: 2630
 #
 38.211.80.0/20  
 81.92.200.0/22  
@@ -19,14 +19,19 @@
 # --- ISP: 888 Ventures LLC | prefixes: 1 | IPv4 addrs: 256 | IPv6 addrs: 0 ---
 23.137.132.0/24      # 888 Ventures LLC
 
-# --- ISP: Ace Data Centers II, L.L.C. | prefixes: 7 | IPv4 addrs: 1,792 | IPv6 addrs: 0 ---
+# --- ISP: Ace Data Centers II, L.L.C. | prefixes: 12 | IPv4 addrs: 6,912 | IPv6 addrs: 0 ---
+96.126.136.0/22      # Ace Data Centers II, L.L.C.
+96.126.164.0/22      # Ace Data Centers II, L.L.C.
 136.0.16.0/24        # Ace Data Centers II, L.L.C.
 136.0.77.0/24        # Ace Data Centers II, L.L.C.
 142.111.111.0/24     # Ace Data Centers II, L.L.C.
 142.111.152.0/24     # Ace Data Centers II, L.L.C.
+144.225.156.0/22     # Ace Data Centers II, L.L.C.
 166.88.171.0/24      # Ace Data Centers II, L.L.C.
 166.88.172.0/24      # Ace Data Centers II, L.L.C.
 166.88.178.0/24      # Ace Data Centers II, L.L.C.
+205.186.72.0/22      # Ace Data Centers II, L.L.C.
+205.186.104.0/22     # Ace Data Centers II, L.L.C.
 
 # --- ISP: Acme Professional Services LLC | prefixes: 1 | IPv4 addrs: 256 | IPv6 addrs: 0 ---
 23.234.110.0/24      # Acme Professional Services LLC
@@ -677,7 +682,7 @@
 102.38.199.0/24      # DATACAMP
 102.38.204.0/24      # DATACAMP
 
-# --- ISP: Datacamp Limited | prefixes: 153 | IPv4 addrs: 110,848 | IPv6 addrs: 0 ---
+# --- ISP: Datacamp Limited | prefixes: 153 | IPv4 addrs: 111,104 | IPv6 addrs: 0 ---
 37.19.194.0/24       # Datacamp Limited
 37.19.196.0/22       # Datacamp Limited
 37.19.202.0/23       # Datacamp Limited
@@ -687,7 +692,7 @@
 37.19.216.0/24       # Datacamp Limited
 37.19.218.0/24       # Datacamp Limited
 45.134.141.0/24      # Datacamp Limited
-45.134.143.0/24      # Datacamp Limited
+45.134.142.0/23      # Datacamp Limited
 45.136.152.0/23      # Datacamp Limited
 46.151.192.0/22      # Datacamp Limited
 46.151.196.0/24      # Datacamp Limited
@@ -761,7 +766,7 @@
 # --- ISP: DataCamp Limited | prefixes: 2 | IPv4 addrs: 1,024 | IPv6 addrs: 0 ---
 149.22.92.0/23       # DataCamp Limited
 
-# --- ISP: Datacamp Limited | prefixes: 153 | IPv4 addrs: 110,848 | IPv6 addrs: 0 ---
+# --- ISP: Datacamp Limited | prefixes: 153 | IPv4 addrs: 111,104 | IPv6 addrs: 0 ---
 149.34.242.0/23      # Datacamp Limited
 149.34.254.0/23      # Datacamp Limited
 149.40.54.0/23       # Datacamp Limited
@@ -769,7 +774,7 @@
 # --- ISP: DataCamp Limited | prefixes: 2 | IPv4 addrs: 1,024 | IPv6 addrs: 0 ---
 149.88.106.0/23      # DataCamp Limited
 
-# --- ISP: Datacamp Limited | prefixes: 153 | IPv4 addrs: 110,848 | IPv6 addrs: 0 ---
+# --- ISP: Datacamp Limited | prefixes: 153 | IPv4 addrs: 111,104 | IPv6 addrs: 0 ---
 152.233.6.0/23       # Datacamp Limited
 152.233.10.0/23      # Datacamp Limited
 152.233.12.0/22      # Datacamp Limited
@@ -1814,7 +1819,7 @@
 185.37.218.0/23      # Internet Utilities Europe and Asia Limited
 191.101.126.0/23     # Internet Utilities Europe and Asia Limited
 
-# --- ISP: Internet Utilities NA LLC | prefixes: 34 | IPv4 addrs: 22,272 | IPv6 addrs: 0 ---
+# --- ISP: Internet Utilities NA LLC | prefixes: 35 | IPv4 addrs: 24,320 | IPv6 addrs: 0 ---
 50.114.192.0/22      # Internet Utilities NA LLC
 50.114.216.0/21      # Internet Utilities NA LLC
 50.114.224.0/20      # Internet Utilities NA LLC
@@ -1824,6 +1829,7 @@
 66.78.44.0/23        # Internet Utilities NA LLC
 74.115.0.0/23        # Internet Utilities NA LLC
 74.124.220.0/22      # Internet Utilities NA LLC
+134.202.88.0/21      # Internet Utilities NA LLC
 139.177.155.0/24     # Internet Utilities NA LLC
 140.99.62.0/24       # Internet Utilities NA LLC
 140.99.68.0/24       # Internet Utilities NA LLC
@@ -2327,7 +2333,7 @@
 45.153.232.0/22      # Primestar Enterprise Group, LLC
 212.80.220.0/22      # Primestar Enterprise Group, LLC
 
-# --- ISP: Private Customer | prefixes: 283 | IPv4 addrs: 112,384 | IPv6 addrs: 0 ---
+# --- ISP: Private Customer | prefixes: 284 | IPv4 addrs: 112,640 | IPv6 addrs: 0 ---
 2.58.170.0/24        # Private Customer
 31.58.96.0/22        # Private Customer
 31.58.116.0/22       # Private Customer
@@ -2379,6 +2385,7 @@
 140.233.178.0/23     # Private Customer
 141.11.164.0/24      # Private Customer
 143.14.219.0/24      # Private Customer
+144.56.9.0/24        # Private Customer
 145.223.43.0/24      # Private Customer
 145.223.46.0/24      # Private Customer
 145.223.48.0/23      # Private Customer
