@@ -1,6 +1,6 @@
 # ===== Aggregated and Sorted Prefixes =====
-# Overall unique blocked IPs -> IPv4: 132,955,648 ; IPv6: 0
-# Total output prefixes: 2954
+# Overall unique blocked IPs -> IPv4: 148,483,840 ; IPv6: 0
+# Total output prefixes: 3010
 #
 38.211.80.0/20  
 81.92.200.0/22  
@@ -155,12 +155,21 @@
 # --- ISP: African Network Information Center | prefixes: 1 | IPv4 addrs: 8,192 | IPv6 addrs: 0 ---
 156.248.32.0/19      # African Network Information Center
 
-# --- ISP: African Network Information Center - (AfriNIC) Ltd | prefixes: 5 | IPv4 addrs: 655,360 | IPv6 addrs: 0 ---
+# --- ISP: African Network Information Center - (AfriNIC) Ltd | prefixes: 14 | IPv4 addrs: 3,017,216 | IPv6 addrs: 0 ---
+154.6.32.0/22        # African Network Information Center - (AfriNIC) Ltd
+154.6.160.0/23       # African Network Information Center - (AfriNIC) Ltd
+154.6.216.0/22       # African Network Information Center - (AfriNIC) Ltd
+154.9.0.0/16         # African Network Information Center - (AfriNIC) Ltd
 154.12.0.0/15        # African Network Information Center - (AfriNIC) Ltd
 154.17.0.0/16        # African Network Information Center - (AfriNIC) Ltd
 154.18.0.0/15        # African Network Information Center - (AfriNIC) Ltd
 154.21.0.0/16        # African Network Information Center - (AfriNIC) Ltd
+154.22.0.0/15        # African Network Information Center - (AfriNIC) Ltd
+154.24.0.0/13        # African Network Information Center - (AfriNIC) Ltd
 154.36.0.0/14        # African Network Information Center - (AfriNIC) Ltd
+154.40.0.0/13        # African Network Information Center - (AfriNIC) Ltd
+154.48.0.0/12        # African Network Information Center - (AfriNIC) Ltd
+154.64.0.0/16        # African Network Information Center - (AfriNIC) Ltd
 
 # --- ISP: Aftab | prefixes: 1 | IPv4 addrs: 256 | IPv6 addrs: 0 ---
 23.234.114.0/24      # Aftab
@@ -357,7 +366,7 @@
 136.128.0.0/15       # Amazon Technologies Inc.
 136.136.0.0/14       # Amazon Technologies Inc.
 
-# --- ISP: Amazon.com, Inc. | prefixes: 111 | IPv4 addrs: 29,687,808 | IPv6 addrs: 0 ---
+# --- ISP: Amazon.com, Inc. | prefixes: 112 | IPv4 addrs: 29,688,064 | IPv6 addrs: 0 ---
 13.32.0.0/14         # Amazon.com, Inc.
 13.60.0.0/14         # Amazon.com, Inc.
 13.128.0.0/16        # Amazon.com, Inc.
@@ -415,7 +424,7 @@
 63.176.0.0/12        # Amazon.com, Inc.
 65.8.0.0/14          # Amazon.com, Inc.
 65.176.0.0/14        # Amazon.com, Inc.
-66.235.114.0/24		 # Amazon.com, Inc.
+66.235.114.0/24      # Amazon.com, Inc.
 72.242.0.0/15        # Amazon.com, Inc.
 76.162.0.0/15        # Amazon.com, Inc.
 77.112.0.0/14        # Amazon.com, Inc.
@@ -553,8 +562,17 @@
 # --- ISP: Atuaxanela S.L | prefixes: 1 | IPv4 addrs: 1,024 | IPv6 addrs: 0 ---
 149.36.192.0/22      # Atuaxanela S.L
 
+# --- ISP: Avago Technologies U.S. Inc. | prefixes: 4 | IPv4 addrs: 49,152 | IPv6 addrs: 0 ---
+144.49.96.0/19       # Avago Technologies U.S. Inc.
+144.49.128.0/18      # Avago Technologies U.S. Inc.
+148.64.0.0/19        # Avago Technologies U.S. Inc.
+168.149.128.0/18     # Avago Technologies U.S. Inc.
+
 # --- ISP: Avalaa | prefixes: 1 | IPv4 addrs: 256 | IPv6 addrs: 0 ---
 104.253.176.0/24     # Avalaa
+
+# --- ISP: Avaya LLC | prefixes: 1 | IPv4 addrs: 8,192 | IPv6 addrs: 0 ---
+155.184.0.0/19       # Avaya LLC
 
 # --- ISP: Aventice LLC | prefixes: 33 | IPv4 addrs: 39,936 | IPv6 addrs: 0 ---
 45.91.188.0/22       # Aventice LLC
@@ -807,11 +825,13 @@
 # --- ISP: City of Williston FL Broadband | prefixes: 1 | IPv4 addrs: 2,048 | IPv6 addrs: 0 ---
 38.75.240.0/21       # City of Williston FL Broadband
 
-# --- ISP: cleardocks LLC | prefixes: 23 | IPv4 addrs: 32,768 | IPv6 addrs: 0 ---
+# --- ISP: cleardocks LLC | prefixes: 25 | IPv4 addrs: 38,912 | IPv6 addrs: 0 ---
 2.57.76.0/22         # cleardocks LLC
 14.102.28.0/22       # cleardocks LLC
 45.78.84.0/22        # cleardocks LLC
 45.120.188.0/22      # cleardocks LLC
+62.101.168.0/21      # cleardocks LLC
+62.101.176.0/20      # cleardocks LLC
 91.203.128.0/22      # cleardocks LLC
 91.233.108.0/22      # cleardocks LLC
 91.235.208.0/22      # cleardocks LLC
@@ -1709,6 +1729,44 @@
 178.171.72.0/22      # goodline
 178.171.96.0/22      # goodline
 
+# --- ISP: Google Asia Pacific Pte. Ltd. | prefixes: 1 | IPv4 addrs: 262,144 | IPv6 addrs: 0 ---
+34.64.0.0/14         # Google Asia Pacific Pte. Ltd.
+
+# --- ISP: Google Asia Pacific Pte. Ltd. (GAPPL) | prefixes: 1 | IPv4 addrs: 262,144 | IPv6 addrs: 0 ---
+34.100.0.0/14        # Google Asia Pacific Pte. Ltd. (GAPPL)
+
+# --- ISP: Google LLC | prefixes: 30 | IPv4 addrs: 15,450,112 | IPv6 addrs: 0 ---
+23.251.128.0/19      # Google LLC
+34.8.0.0/13          # Google LLC
+34.16.0.0/12         # Google LLC
+34.32.0.0/11         # Google LLC
+34.64.0.0/11         # Google LLC
+34.96.0.0/12         # Google LLC
+34.116.0.0/14        # Google LLC
+34.120.0.0/13        # Google LLC
+34.128.0.0/11        # Google LLC
+34.160.0.0/12        # Google LLC
+34.176.0.0/13        # Google LLC
+34.184.0.0/14        # Google LLC
+35.184.0.0/13        # Google LLC
+35.192.0.0/14        # Google LLC
+35.196.0.0/15        # Google LLC
+35.198.0.0/16        # Google LLC
+35.199.0.0/17        # Google LLC
+35.199.128.0/18      # Google LLC
+35.200.0.0/14        # Google LLC
+35.204.0.0/15        # Google LLC
+35.220.0.0/14        # Google LLC
+35.224.0.0/12        # Google LLC
+35.240.0.0/13        # Google LLC
+104.154.0.0/15       # Google LLC
+104.196.0.0/14       # Google LLC
+107.167.160.0/19     # Google LLC
+107.178.192.0/18     # Google LLC
+130.211.0.0/16       # Google LLC
+136.124.0.0/15       # Google LLC
+146.148.0.0/17       # Google LLC
+
 # --- ISP: Gopur Enterprises | prefixes: 1 | IPv4 addrs: 512 | IPv6 addrs: 0 ---
 103.173.88.0/23      # Gopur Enterprises
 
@@ -2067,7 +2125,7 @@
 156.252.176.0/20     # HOSTROYALE TECHNOLOGIES PRIVATE LIMITED
 156.252.192.0/18     # HOSTROYALE TECHNOLOGIES PRIVATE LIMITED
 
-# --- ISP: HostRoyale Technologies Pvt Ltd | prefixes: 72 | IPv4 addrs: 66,560 | IPv6 addrs: 0 ---
+# --- ISP: HostRoyale Technologies Pvt Ltd | prefixes: 73 | IPv4 addrs: 67,584 | IPv6 addrs: 0 ---
 2.56.228.0/22        # HostRoyale Technologies Pvt Ltd
 5.180.8.0/22         # HostRoyale Technologies Pvt Ltd
 5.180.244.0/22       # HostRoyale Technologies Pvt Ltd
@@ -2119,6 +2177,7 @@
 103.204.222.0/23     # HostRoyale Technologies Pvt Ltd
 103.221.52.0/22      # HostRoyale Technologies Pvt Ltd
 103.225.52.0/22      # HostRoyale Technologies Pvt Ltd
+103.228.200.0/22     # HostRoyale Technologies Pvt Ltd
 103.241.52.0/22      # HostRoyale Technologies Pvt Ltd
 103.251.26.0/23      # HostRoyale Technologies Pvt Ltd
 109.196.160.0/22     # HostRoyale Technologies Pvt Ltd
@@ -2244,7 +2303,7 @@
 185.37.218.0/23      # Internet Utilities Europe and Asia Limited
 191.101.126.0/23     # Internet Utilities Europe and Asia Limited
 
-# --- ISP: Internet Utilities NA LLC | prefixes: 35 | IPv4 addrs: 24,320 | IPv6 addrs: 0 ---
+# --- ISP: Internet Utilities NA LLC | prefixes: 36 | IPv4 addrs: 24,576 | IPv6 addrs: 0 ---
 50.114.192.0/22      # Internet Utilities NA LLC
 50.114.216.0/21      # Internet Utilities NA LLC
 50.114.224.0/20      # Internet Utilities NA LLC
@@ -2276,6 +2335,7 @@
 140.99.249.0/24      # Internet Utilities NA LLC
 140.99.251.0/24      # Internet Utilities NA LLC
 140.99.253.0/24      # Internet Utilities NA LLC
+141.195.126.0/24     # Internet Utilities NA LLC
 157.254.204.0/22     # Internet Utilities NA LLC
 157.254.232.0/22     # Internet Utilities NA LLC
 169.197.184.0/22     # Internet Utilities NA LLC
@@ -2701,6 +2761,9 @@
 154.58.32.0/22       # Oxon 3 Comuninacion Natural SL
 154.58.40.0/21       # Oxon 3 Comuninacion Natural SL
 
+# --- ISP: Palo Alto Networks, Inc | prefixes: 1 | IPv4 addrs: 8,192 | IPv6 addrs: 0 ---
+144.125.128.0/19     # Palo Alto Networks, Inc
+
 # --- ISP: Pangea Consulting, Inc. | prefixes: 1 | IPv4 addrs: 8,192 | IPv6 addrs: 0 ---
 204.114.64.0/19      # Pangea Consulting, Inc.
 
@@ -3091,7 +3154,7 @@
 # --- ISP: PSI Network One | prefixes: 1 | IPv4 addrs: 65,536 | IPv6 addrs: 0 ---
 136.161.0.0/16       # PSI Network One
 
-# --- ISP: PSINet, Inc. | prefixes: 56 | IPv4 addrs: 23,638,016 | IPv6 addrs: 0 ---
+# --- ISP: PSINet, Inc. | prefixes: 56 | IPv4 addrs: 23,832,576 | IPv6 addrs: 0 ---
 38.0.0.0/8           # PSINet, Inc.
 130.117.0.0/16       # PSINet, Inc.
 148.254.0.0/16       # PSINet, Inc.
@@ -3126,8 +3189,8 @@
 149.127.0.0/16       # PSINet, Inc.
 154.3.0.0/16         # PSINet, Inc.
 154.7.0.0/16         # PSINet, Inc.
-154.12.44.0/22       # PSINet, Inc.
-154.12.48.0/22       # PSINet, Inc.
+154.12.0.0/15        # PSINet, Inc.
+154.17.0.0/16        # PSINet, Inc.
 154.22.0.0/15        # PSINet, Inc.
 154.24.0.0/13        # PSINet, Inc.
 154.36.128.0/19      # PSINet, Inc.
@@ -3468,7 +3531,7 @@
 38.64.104.0/21       # STACKS INC
 38.145.136.0/21      # STACKS INC
 
-# --- ISP: steel-axis LLC | prefixes: 12 | IPv4 addrs: 47,104 | IPv6 addrs: 0 ---
+# --- ISP: steel-axis LLC | prefixes: 13 | IPv4 addrs: 49,152 | IPv6 addrs: 0 ---
 45.90.60.0/22        # steel-axis LLC
 103.245.40.0/22      # steel-axis LLC
 103.252.184.0/22     # steel-axis LLC
@@ -3479,6 +3542,7 @@
 185.18.104.0/22      # steel-axis LLC
 185.64.180.0/22      # steel-axis LLC
 206.204.0.0/18       # steel-axis LLC
+207.29.200.0/21      # steel-axis LLC
 213.188.68.0/22      # steel-axis LLC
 213.188.72.0/21      # steel-axis LLC
 
@@ -3574,12 +3638,13 @@
 # --- ISP: TIGER ROAR TECHNOLOGY PTE LTD | prefixes: 1 | IPv4 addrs: 512 | IPv6 addrs: 0 ---
 156.226.0.0/23       # TIGER ROAR TECHNOLOGY PTE LTD
 
-# --- ISP: TNGNET B.V. | prefixes: 9 | IPv4 addrs: 10,240 | IPv6 addrs: 0 ---
+# --- ISP: TNGNET B.V. | prefixes: 10 | IPv4 addrs: 11,264 | IPv6 addrs: 0 ---
 140.233.160.0/22     # TNGNET B.V.
 149.12.248.0/21      # TNGNET B.V.
 149.36.172.0/22      # TNGNET B.V.
 154.3.72.0/22        # TNGNET B.V.
 154.3.228.0/22       # TNGNET B.V.
+154.9.68.0/22        # TNGNET B.V.
 154.12.168.0/22      # TNGNET B.V.
 154.46.132.0/22      # TNGNET B.V.
 154.51.16.0/22       # TNGNET B.V.
@@ -3637,12 +3702,14 @@
 23.234.64.0/24       # Trustbanq
 23.234.103.0/24      # Trustbanq
 
-# --- ISP: truview LLC | prefixes: 14 | IPv4 addrs: 23,040 | IPv6 addrs: 0 ---
+# --- ISP: truview LLC | prefixes: 16 | IPv4 addrs: 26,112 | IPv6 addrs: 0 ---
 31.42.112.0/22       # truview LLC
 45.78.80.0/22        # truview LLC
+45.84.92.0/22        # truview LLC
 45.138.232.0/22      # truview LLC
 45.142.96.0/22       # truview LLC
 45.149.148.0/22      # truview LLC
+46.28.192.0/21       # truview LLC
 58.97.128.0/21       # truview LLC
 83.229.76.0/22       # truview LLC
 85.89.192.0/19       # truview LLC
