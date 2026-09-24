@@ -1,5 +1,5 @@
 # ===== Aggregated and Sorted Prefixes =====
-# Overall unique blocked IPs -> IPv4: 148,615,168 ; IPv6: 0
+# Overall unique blocked IPs -> IPv4: 148,615,424 ; IPv6: 0
 # Total output prefixes: 3,089
 #
 # --- ISP: Unlabeled | prefixes: 3 | IPv4 addrs: 267,264 | IPv6 addrs: 0 ---
@@ -1134,7 +1134,7 @@
 149.22.92.0/23     # DataCamp Limited
 149.88.106.0/23    # DataCamp Limited
 
-# --- ISP: Datacamp Limited | prefixes: 204 | IPv4 addrs: 161,280 | IPv6 addrs: 0 ---
+# --- ISP: Datacamp Limited | prefixes: 204 | IPv4 addrs: 161,536 | IPv6 addrs: 0 ---
 13.143.100.0/22    # Datacamp Limited
 23.26.164.0/23     # Datacamp Limited
 23.230.70.0/23     # Datacamp Limited
@@ -1301,7 +1301,7 @@
 185.152.64.0/23    # Datacamp Limited
 185.152.67.0/24    # Datacamp Limited
 185.156.44.0/24    # Datacamp Limited
-185.156.47.0/24    # Datacamp Limited
+185.156.46.0/23    # Datacamp Limited
 185.180.13.0/24    # Datacamp Limited
 185.229.188.0/22   # Datacamp Limited
 185.246.210.0/24   # Datacamp Limited
