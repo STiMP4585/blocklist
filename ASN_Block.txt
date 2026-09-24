@@ -1,6 +1,6 @@
 # ===== Aggregated and Sorted Prefixes =====
-# Overall unique blocked IPs -> IPv4: 148,616,192 ; IPv6: 0
-# Total output prefixes: 3,092
+# Overall unique blocked IPs -> IPv4: 148,616,448 ; IPv6: 0
+# Total output prefixes: 3,093
 #
 # --- ISP: Unlabeled | prefixes: 3 | IPv4 addrs: 267,264 | IPv6 addrs: 0 ---
 38.211.80.0/20     # Unlabeled
@@ -2196,7 +2196,7 @@
 156.252.176.0/20   # HOSTROYALE TECHNOLOGIES PRIVATE LIMITED
 156.252.192.0/18   # HOSTROYALE TECHNOLOGIES PRIVATE LIMITED
 
-# --- ISP: HostRoyale Technologies Pvt Ltd | prefixes: 73 | IPv4 addrs: 67,584 | IPv6 addrs: 0 ---
+# --- ISP: HostRoyale Technologies Pvt Ltd | prefixes: 74 | IPv4 addrs: 67,840 | IPv6 addrs: 0 ---
 2.56.228.0/22      # HostRoyale Technologies Pvt Ltd
 5.180.8.0/22       # HostRoyale Technologies Pvt Ltd
 5.180.244.0/22     # HostRoyale Technologies Pvt Ltd
@@ -2251,6 +2251,7 @@
 103.228.200.0/22   # HostRoyale Technologies Pvt Ltd
 103.241.52.0/22    # HostRoyale Technologies Pvt Ltd
 103.251.26.0/23    # HostRoyale Technologies Pvt Ltd
+104.36.50.0/24     # HostRoyale Technologies Pvt Ltd
 109.196.160.0/22   # HostRoyale Technologies Pvt Ltd
 110.44.0.0/22      # HostRoyale Technologies Pvt Ltd
 116.206.96.0/22    # HostRoyale Technologies Pvt Ltd
