@@ -1,6 +1,6 @@
 # ===== Aggregated and Sorted Prefixes =====
-# Overall unique blocked IPs -> IPv4: 148,616,704 ; IPv6: 0
-# Total output prefixes: 3,094
+# Overall unique blocked IPs -> IPv4: 148,616,960 ; IPv6: 0
+# Total output prefixes: 3,095
 #
 # --- ISP: Unlabeled | prefixes: 3 | IPv4 addrs: 267,264 | IPv6 addrs: 0 ---
 38.211.80.0/20     # Unlabeled
@@ -2555,7 +2555,7 @@
 # --- ISP: M247 Dallas Customer | prefixes: 1 | IPv4 addrs: 1,024 | IPv6 addrs: 0 ---
 31.131.12.0/22     # M247 Dallas Customer
 
-# --- ISP: M247 Europe SRL | prefixes: 16 | IPv4 addrs: 16,384 | IPv6 addrs: 0 ---
+# --- ISP: M247 Europe SRL | prefixes: 17 | IPv4 addrs: 16,640 | IPv6 addrs: 0 ---
 38.65.24.0/22      # M247 Europe SRL
 38.95.108.0/22     # M247 Europe SRL
 38.200.4.0/22      # M247 Europe SRL
@@ -2568,6 +2568,7 @@
 38.205.188.0/22    # M247 Europe SRL
 38.206.0.0/22      # M247 Europe SRL
 38.206.128.0/22    # M247 Europe SRL
+89.45.4.0/24       # M247 Europe SRL
 89.46.100.0/22     # M247 Europe SRL
 185.120.144.0/22   # M247 Europe SRL
 185.195.200.0/22   # M247 Europe SRL
