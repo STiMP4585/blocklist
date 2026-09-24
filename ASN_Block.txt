@@ -4466,3 +4466,296 @@
 
 # --- ISP: ZMMOBI PTE.LTD | prefixes: 1 | IPv4 addrs: 1,024 | IPv6 addrs: 0 ---
 154.45.56.0/22       # ZMMOBI PTE.LTD
+
+94.116.16.0/20       # Datacamp Limited
+104.233.32.0/20      # Datacamp Limited
+104.250.208.0/20     # Datacamp Limited
+38.57.40.0/21        # Datacamp Limited
+38.89.72.0/21        # Datacamp Limited
+38.89.80.0/21        # Datacamp Limited
+92.39.48.0/21        # Datacamp Limited
+93.88.144.0/21       # Datacamp Limited
+104.143.232.0/21     # Datacamp Limited
+104.233.0.0/21       # Datacamp Limited
+104.250.192.0/21     # Datacamp Limited
+13.143.100.0/22      # Datacamp Limited
+23.230.196.0/22      # Datacamp Limited
+31.59.236.0/22       # Datacamp Limited
+45.91.40.0/22        # Datacamp Limited
+64.137.60.0/22       # Datacamp Limited
+64.137.80.0/22       # Datacamp Limited
+65.75.204.0/22       # Datacamp Limited
+66.93.164.0/22       # Datacamp Limited
+68.165.240.0/22      # Datacamp Limited
+68.167.44.0/22       # Datacamp Limited
+72.244.252.0/22      # Datacamp Limited
+75.153.116.0/22      # Datacamp Limited
+75.153.124.0/22      # Datacamp Limited
+89.147.104.0/22      # Datacamp Limited
+92.71.40.0/22        # Datacamp Limited
+95.85.216.0/22       # Datacamp Limited
+103.47.52.0/22       # Datacamp Limited
+104.143.240.0/22     # Datacamp Limited
+104.249.32.0/22      # Datacamp Limited
+109.174.176.0/22     # Datacamp Limited
+109.174.180.0/22     # Datacamp Limited
+109.174.184.0/22     # Datacamp Limited
+109.174.188.0/22     # Datacamp Limited
+142.252.68.0/22      # Datacamp Limited
+143.244.52.0/22      # Datacamp Limited
+144.225.156.0/22
+	
+Datacamp Limited
+	1,024
+154.6.24.0/22
+	
+Datacamp Limited
+	1,024
+154.6.32.0/22
+	
+Datacamp Limited
+	1,024
+154.6.76.0/22
+	
+Datacamp Limited
+	1,024
+154.6.88.0/22
+	
+Datacamp Limited
+	1,024
+154.6.216.0/22
+	
+Datacamp Limited
+	1,024
+154.6.248.0/22
+	
+Datacamp Limited
+	1,024
+154.13.208.0/22
+	
+Datacamp Limited
+	1,024
+158.115.252.0/22
+	
+Datacamp Limited
+	1,024
+158.140.208.0/22
+	
+Datacamp Limited
+	1,024
+179.198.36.0/22
+	
+Datacamp Limited
+	1,024
+179.198.40.0/22
+	
+Datacamp Limited
+	1,024
+191.223.132.0/22
+	
+Datacamp Limited
+	1,024
+205.186.104.0/22
+	
+Datacamp Limited
+	1,024
+205.188.12.0/22
+	
+Datacamp Limited
+	1,024
+205.188.24.0/22
+	
+Datacamp Limited
+	1,024
+205.188.28.0/22
+	
+Datacamp Limited
+	1,024
+205.188.32.0/22
+	
+Datacamp Limited
+	1,024
+205.188.36.0/22
+	
+Datacamp Limited
+	1,024
+205.188.40.0/22
+	
+Datacamp Limited
+	1,024
+205.188.48.0/22
+	
+Datacamp Limited
+	1,024
+205.188.56.0/22
+	
+Datacamp Limited
+	1,024
+205.188.64.0/22
+	
+Datacamp Limited
+	1,024
+205.188.68.0/22
+	
+Datacamp Limited
+	1,024
+205.188.72.0/22
+	
+Datacamp Limited
+	1,024
+205.188.84.0/22
+	
+Datacamp Limited
+	1,024
+205.188.88.0/22
+	
+Datacamp Limited
+	1,024
+205.188.124.0/22
+	
+Datacamp Limited
+	1,024
+205.188.132.0/22
+	
+Datacamp Limited
+	1,024
+205.188.216.0/22
+	
+Datacamp Limited
+	1,024
+205.188.240.0/22
+	
+Datacamp Limited
+	1,024
+205.188.252.0/22
+	
+Datacamp Limited
+	1,024
+209.101.200.0/22
+	
+Datacamp Limited
+	1,024
+23.26.164.0/23
+	
+Datacamp Limited
+	512
+23.230.30.0/23
+	
+Datacamp Limited
+	512
+23.230.70.0/23
+	
+Datacamp Limited
+	512
+23.230.94.0/23
+	
+Datacamp Limited
+	512
+23.230.106.0/23
+	
+Datacamp Limited
+	512
+23.230.130.0/23
+	
+Datacamp Limited
+	512
+23.230.142.0/23
+	
+Datacamp Limited
+	512
+31.14.66.0/23
+	
+Datacamp Limited
+	512
+31.76.178.0/23
+	
+Datacamp Limited
+	512
+31.76.238.0/23
+	
+Datacamp Limited
+	512
+37.19.196.0/23
+	
+Datacamp Limited
+	512
+37.19.198.0/23
+	
+Datacamp Limited
+	512
+37.19.212.0/23
+	
+Datacamp Limited
+	512
+45.43.164.0/23
+	
+Datacamp Limited
+	512
+50.118.132.0/23
+	
+Datacamp Limited
+	512
+50.118.180.0/23
+	
+Datacamp Limited
+	512
+62.105.208.0/23
+	
+Datacamp Limited
+	512
+64.8.224.0/23
+	
+Datacamp Limited
+	512
+64.8.228.0/23
+	
+Datacamp Limited
+	512
+64.8.230.0/23
+	
+Datacamp Limited
+	512
+64.8.234.0/23
+	
+Datacamp Limited
+	512
+64.8.238.0/23
+	
+Datacamp Limited
+	512
+64.51.234.0/23
+	
+Datacamp Limited
+	512
+64.105.88.0/23
+	
+Datacamp Limited
+	512
+64.137.10.0/23
+	
+Datacamp Limited
+	512
+64.137.14.0/23
+	
+Datacamp Limited
+	512
+64.137.18.0/23
+	
+Datacamp Limited
+	512
+64.137.42.0/23
+	
+Datacamp Limited
+	512
+64.137.48.0/23
+	
+Datacamp Limited
+	512
+64.137.58.0/23
+	
+Datacamp Limited
+	512
+64.137.94.0/23
+	
+Datacamp Limited
+	512
