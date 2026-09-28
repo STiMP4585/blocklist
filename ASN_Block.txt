@@ -1,6 +1,6 @@
 # ===== Aggregated and Sorted Prefixes =====
-# Overall unique blocked IPs -> IPv4: 148,621,824 ; IPv6: 0
-# Total output prefixes: 3,101
+# Overall unique blocked IPs -> IPv4: 148,622,080 ; IPv6: 0
+# Total output prefixes: 3,102
 #
 # --- ISP: Unlabeled | prefixes: 3 | IPv4 addrs: 267,264 | IPv6 addrs: 0 ---
 38.211.80.0/20     # Unlabeled
@@ -3784,7 +3784,8 @@
 173.249.192.0/24   # TZULO
 198.44.137.0/24    # TZULO
 
-# --- ISP: tzulo, inc. | prefixes: 33 | IPv4 addrs: 79,360 | IPv6 addrs: 0 ---
+# --- ISP: tzulo, inc. | prefixes: 34 | IPv4 addrs: 79,616 | IPv6 addrs: 0 ---
+23.234.72.0/24     # tzulo, inc.
 23.234.99.0/24     # tzulo, inc.
 23.234.106.0/24    # tzulo, inc.
 23.234.119.0/24    # tzulo, inc.
