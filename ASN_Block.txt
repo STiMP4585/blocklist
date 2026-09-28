@@ -1,6 +1,6 @@
 # ===== Aggregated and Sorted Prefixes =====
-# Overall unique blocked IPs -> IPv4: 148,622,592 ; IPv6: 0
-# Total output prefixes: 3,104
+# Overall unique blocked IPs -> IPv4: 148,622,848 ; IPv6: 0
+# Total output prefixes: 3,105
 #
 # --- ISP: Unlabeled | prefixes: 3 | IPv4 addrs: 267,264 | IPv6 addrs: 0 ---
 38.211.80.0/20     # Unlabeled
@@ -2672,8 +2672,9 @@
 # --- ISP: Motive Internet Holdings LLC | prefixes: 1 | IPv4 addrs: 256 | IPv6 addrs: 0 ---
 199.74.192.0/24    # Motive Internet Holdings LLC
 
-# --- ISP: Mullvad VPN AB | prefixes: 1 | IPv4 addrs: 512 | IPv6 addrs: 0 ---
+# --- ISP: Mullvad VPN AB | prefixes: 2 | IPv4 addrs: 768 | IPv6 addrs: 0 ---
 155.2.190.0/23     # Mullvad VPN AB
+185.213.193.0/24   # Mullvad VPN AB
 
 # --- ISP: Mumara | prefixes: 1 | IPv4 addrs: 512 | IPv6 addrs: 0 ---
 167.253.48.0/23    # Mumara
