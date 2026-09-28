@@ -2,9 +2,6 @@
 # Overall unique blocked IPs -> IPv4: 148,621,568 ; IPv6: 0
 # Total output prefixes: 3,100
 #
-# --- ISP: Hayashimo LLC | prefixes: 1 | IPv4 addrs: 256 | IPv6 addrs: 0 ---
-23.168.216.0/24    # Hayashimo LLC
-
 # --- ISP: Unlabeled | prefixes: 3 | IPv4 addrs: 267,264 | IPv6 addrs: 0 ---
 38.211.80.0/20     # Unlabeled
 81.92.200.0/22     # Unlabeled
@@ -1890,6 +1887,9 @@
 
 # --- ISP: Hampee VPS | prefixes: 1 | IPv4 addrs: 256 | IPv6 addrs: 0 ---
 104.252.251.0/24   # Hampee VPS
+
+# --- ISP: Hayashimo LLC | prefixes: 1 | IPv4 addrs: 256 | IPv6 addrs: 0 ---
+23.168.216.0/24    # Hayashimo LLC
 
 # --- ISP: Hertza LLC trading as ZeroBounce | prefixes: 5 | IPv4 addrs: 5,120 | IPv6 addrs: 0 ---
 45.67.100.0/22     # Hertza LLC trading as ZeroBounce
