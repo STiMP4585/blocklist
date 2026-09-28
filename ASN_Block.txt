@@ -1,6 +1,6 @@
 # ===== Aggregated and Sorted Prefixes =====
-# Overall unique blocked IPs -> IPv4: 148,622,080 ; IPv6: 0
-# Total output prefixes: 3,102
+# Overall unique blocked IPs -> IPv4: 148,622,336 ; IPv6: 0
+# Total output prefixes: 3,103
 #
 # --- ISP: Unlabeled | prefixes: 3 | IPv4 addrs: 267,264 | IPv6 addrs: 0 ---
 38.211.80.0/20     # Unlabeled
@@ -2628,6 +2628,9 @@
 81.92.204.0/22     # M247 LTD Manchester Infrastructure
 89.238.132.0/22    # M247 LTD Manchester Infrastructure
 89.238.136.0/21    # M247 LTD Manchester Infrastructure
+
+# --- ISP: M247 LTD New York Infrastructure | prefixes: 1 | IPv4 addrs: 256 | IPv6 addrs: 0 ---
+146.70.171.0/24    # M247 LTD New York Infrastructure
 
 # --- ISP: M247 Miami Customer | prefixes: 2 | IPv4 addrs: 2,048 | IPv6 addrs: 0 ---
 81.161.12.0/22     # M247 Miami Customer
